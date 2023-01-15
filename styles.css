@@ -18,20 +18,18 @@ body {
 }
 
 button {
-  position: absolute;
-  border: 2px solid white;
+  position: relative;
+  border: 4px solid white;
   background: transparent;
   font-family: 'Roboto', sans-serif;
   color: white;
-  width: 250px;
-  height: 50px;
-  font-size: 2em;
+  width: 50vw;
+  height: 15vh;
+  font-size: 1.4em;
   border-radius: 5px;
   opacity: .5;
-  top: 0px;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
+  left: 25vw;
+  right: 25vw;
   margin: auto;
   transition: .4s;
 }
