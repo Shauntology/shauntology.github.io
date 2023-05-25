@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
   <title>Shauntology</title>
-
   <meta charset="UTF-8">
-
   <meta name="description" content="I AM ALLMON" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 <!--
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@mkorostoff">
   <meta name="twitter:creator" content="@mkorostoff">
@@ -18,11 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:description" content="Allmon Family Origins" />
   <meta property="og:image" content="https://yep.github.io/hey/img/og_image.png" />
--->
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" type="text/css" href="styles.css" />
-
-  
+-->  
   <!-- <style>
 	  
   html, body, canvas {
@@ -38,8 +35,116 @@
 
 &nbsp; &nbsp;
 -->
-	
+
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Cairo', sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  background: #dcd9cd;
+}
+ul {
+  position: relative;
+}
+ul li {
+  list-style: none;
+  text-align: center;
+}
+ul li a {
+  color: #333;
+  text-decoration: none;
+  font-size: 3em;
+  padding: 5px 20px;
+  display: inline-flex;
+  font-weight: 700;
+  transition: 0.75s;
+}
+ul:hover li a {
+  color: #0002;
+}
+ul li:hover a {
+  color: #000;
+  background: transparent;
+}
+ul li a:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5em;
+  color: rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  z-index: -1;
+  opacity: 0;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 500px;
+  transition: letter-spacing 0.5s, left 0.5s;
+}
+ul li a:hover:before {
+  content: attr(data-text);
+  opacity: 1;
+  left: 50%;
+  letter-spacing: 10px;
+  width: 1800px;
+  height: 1800px;
+} 
+ul li:nth-child(6n + 1) a:before {
+  background: #0099ff; 
+}
+ul li:nth-child(6n + 2) a:before {
+  background: #ff6666; 
+}
+ul li:nth-child(6n + 3) a:before { 
+  background: #00ff99; 
+}
+ul li:nth-child(6n + 4) a:before {
+  background: #9999ff;
+}
+ul li:nth-child(6n + 5) a:before {
+  background: #ff6699;
+}
+ul li:nth-child(6n + 6) a:before {
+  background: #ffff99;
+}
+  </style>
+
 </head>
+<body>
+
+<!-- partial:index.partial.html -->
+
+<ul>
+    <li><a target="_blank" href="#" data-text="Menu">Shauntology</a></li>
+    <li><a target="_blank" href="https://shauntology.github.io/origins.html" data-text="Allmon">Origins</a></li>
+    <li><a target="_blank" href="https://pewu.github.io/topola-viewer/#/view?handleCors=false&embedded=true&url=https%3A%2F%2Fshauntology.github.io%2FAllmon-Tree.ged" data-text="Family">Allmon</a></li>
+    <li><a target="_blank" href="https://pewu.github.io/topola-viewer/#/view?c=g&gen=-1&handleCors=false&i=h&indi=I0386&url=https%3A%2F%2Fshauntology.github.io%2FQuintana-Tree.ged" data-text="Family">Quintana</a></li>
+    <li><a target="_blank" href="https://mkorostoff.github.io/1-pixel-wealth/" data-text="Greed">Wealth</a></li>
+    <li><a target="_blank" href="https://mkorostoff.github.io/incarceration-in-real-numbers/" data-text="Stop">Incarceration</a></li>
+  </ul>
+
+<!-- partial -->
+
+<!--<div>
+  <p><a href="https://www.visualcapitalist.com/">Visualize all the data</a></p>
+  <p><a href="https://storymaps.arcgis.com/stories/1e7f582d478a4b99bd0c70fffeac4c8b">Map Misconceptions</a></p> 
+</div> -->
+
+	  <!-- 
   <body>
     <div>
         &nbsp;
@@ -48,8 +153,6 @@
         <p />   
     </div>
     <div>
-      https://shauntology.github.io/origins.html
-	    
       <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
       	<a href="https://shauntology.github.io/origins.html">
 	<button>Origins</button>
@@ -67,6 +170,7 @@
       <button>QUINTANA</button>
       </a>		
     </div>
-  <!-- Commented out-->
+Commented out-->
+
   </body>
 </html>
