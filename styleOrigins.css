@@ -38,6 +38,7 @@ body {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     background-color: rgba(240,230,220, .7);
+	  
     box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 }
@@ -61,6 +62,8 @@ body {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     background-color: rgba(240,230,220, .7);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
     box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 }
@@ -86,6 +89,8 @@ body {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     background-color: rgba(240,230,220, .7);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
     box-shadow: 0 0 8px rgba(0, 0, 0, .6);
 }
 }
@@ -99,6 +104,8 @@ cite {
 }
 
 
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 #loader {
   position: absolute;
   left: 50%;
@@ -117,7 +124,9 @@ cite {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-color: #ff6666;
+  background-color: #ff6666; 
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-animation: spin 2s linear infinite;
   -moz-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
@@ -210,6 +219,8 @@ img:last-of-type {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   background-color: rgba(240,230,220,.7);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
