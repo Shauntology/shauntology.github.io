@@ -1,0 +1,2531 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS AIO64-5.1.6-1
+2 NAME Gramps
+1 DATE 13 JUL 2024
+2 TIME 17:47:24
+1 SUBM @SUBM@
+1 FILE D:\shaun\Family Trees\Friedman-Naoye\Friedman2024.ged
+1 COPR Copyright (c) 2024 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @I0059@ INDI
+1 NAME James Kazuo /Friedman/
+2 GIVN James Kazuo
+2 SURN Friedman
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1988
+2 PLAC Los Angeles, CA, United States
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 11 SEP 2023
+3 TIME 02:50:52
+0 @I0060@ INDI
+1 NAME Christen Miya /Friedman/
+2 GIVN Christen Miya
+2 SURN Friedman
+1 SEX F
+1 BIRT
+2 DATE 25 DEC 1990
+2 PLAC Los Angeles, CA, United States
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 21:15:21
+0 @I0061@ INDI
+1 NAME Arthur Meeker /Friedman/
+2 GIVN Arthur Meeker
+2 SURN Friedman
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1948
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0019@
+1 NOTE @N0014@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 01:01:48
+0 @I0062@ INDI
+1 NAME Marjorie Eiko /Naoye/
+2 GIVN Marjorie Eiko
+2 SURN Naoye
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1952
+2 PLAC Los Angeles, CA, United States
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0019@
+1 CHAN
+2 DATE 31 AUG 2023
+3 TIME 21:49:49
+0 @I0065@ INDI
+1 NAME Gregory Akira /Naoye/
+2 GIVN Gregory Akira
+2 SURN Naoye
+1 SEX M
+1 BIRT
+2 DATE 20 DEC 1950
+2 PLAC Los Angeles, CA, United States
+1 FAMC @F0040@
+2 PEDI birth
+1 CHAN
+2 DATE 31 AUG 2023
+3 TIME 21:49:49
+0 @I0066@ INDI
+1 NAME Brough Shepard /Friedman/
+2 GIVN Brough Shepard
+2 SURN Friedman
+1 SEX M
+1 DEAT Y
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 21:15:21
+0 @I0067@ INDI
+1 NAME Marchia Lois /Meeker/
+2 GIVN Marchia Lois
+2 SURN Meeker
+1 NAME Marchia Lois Meeker /Friedman/
+2 TYPE married
+2 GIVN Marchia Lois Meeker
+2 SURN Friedman
+1 NAME Marchia Lois Meeker /Warren/
+2 TYPE married
+2 GIVN Marchia Lois Meeker
+2 SURN Warren
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1916
+2 PLAC Haverford, Montgomery County, Pennsylvania, USA
+1 DEAT
+2 DATE 1 APR 1978
+2 PLAC Santa Fe, Santa Fe County, New Mexico, USA
+1 BURI
+2 TYPE Fairview Cemetery Plot Section D, 20, 1
+2 PLAC Santa Fe, Santa Fe County, New Mexico, USA
+2 SOUR @S0001@
+3 PAGE (https://www.findagrave.com/memorial/129132686/marchia-lois-warren: accessed 18 August 2023), memorial page for Marchia Lois Meeker Warren (13 Nov 1916–1 Apr 1978), Find a Grave Memorial ID 129132686
+3 DATA
+4 DATE 1978
+3 NOTE @N0016@
+1 FAMC @F0023@
+2 PEDI birth
+1 FAMS @F0021@
+1 FAMS @F0022@
+1 FAMS @F0026@
+1 NOTE @N0017@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 02:35:59
+0 @I0068@ INDI
+1 NAME Arthur Samuel /Friedman/
+2 GIVN Arthur Samuel
+2 SURN Friedman
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1906
+2 PLAC Maroa, Macon County, Illinois, USA
+1 DEAT
+2 DATE 24 APR 1981
+2 PLAC Chelsea, Royal Borough of Kensington and Chelsea, Greater London, England
+1 BURI
+2 TYPE EdgeWood Cemetery
+2 PLAC Cedarville, Mackinac County, Michigan, USA
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0021@
+1 FAMS @F0033@
+1 FAMS @F0034@
+1 SOUR @S0001@
+2 PAGE (https://www.findagrave.com/memorial/46260874/arthur-samuel-friedman: accessed 18 August 2023), memorial page for Arthur Samuel Friedman (13 Dec 1906–24 Apr 1981), Find a Grave Memorial ID 46260874
+2 DATA
+3 DATE 1981
+2 NOTE @N0015@
+1 NOTE @N0029@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 01:17:46
+0 @I0069@ INDI
+1 NAME Warren A "Bud" /Gilbertson/
+2 GIVN Warren A "Bud"
+2 SURN Gilbertson
+1 SEX M
+1 DEAT
+2 DATE FEB 1954
+1 FAMS @F0022@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:02:25
+0 @I0070@ INDI
+1 NAME Lawrence Ackerman /Meeker/
+2 GIVN Lawrence Ackerman
+2 SURN Meeker
+1 SEX M
+1 BIRT
+2 DATE 14 SEP 1890
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 DEAT
+2 DATE 16 FEB 1949
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 CENS
+2 DATE 1930
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+2 NOTE @N0026@
+1 FAMC @F0028@
+2 PEDI birth
+1 FAMS @F0023@
+1 FAMS @F0027@
+1 FAMS @F0029@
+1 NOTE @N0018@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 02:56:05
+0 @I0071@ INDI
+1 NAME Lois Dempster /Field/
+2 GIVN Lois Dempster
+2 SURN Field
+1 NAME Margaret L.D. /Field/
+2 GIVN Margaret L.D.
+2 SURN Field
+1 SEX F
+1 BIRT
+2 DATE 19 MAY 1894
+2 PLAC Philadelphia, Pennsylvania, USA
+1 DEAT
+2 DATE 13 JUL 1975
+2 PLAC Santa Fe, Santa Fe County, New Mexico, USA
+1 FAMC @F0024@
+2 PEDI birth
+1 FAMS @F0023@
+1 FAMS @F0025@
+1 NOTE @N0019@
+1 CHAN
+2 DATE 4 SEP 2023
+3 TIME 04:29:17
+0 @I0072@ INDI
+1 NAME William M /Field/
+2 GIVN William M
+2 SURN Field
+1 SEX M
+1 BIRT
+2 DATE 9 JAN 1863
+2 PLAC Pennsylvania, USA
+2 ADDR
+3 STAE Pennsylvania
+3 CTRY USA
+1 DEAT
+2 DATE 28 AUG 1939
+1 BURI
+2 TYPE Fairview Cemetery
+2 PLAC Santa Fe, Santa Fe County, New Mexico, USA
+1 FAMS @F0024@
+1 CHAN
+2 DATE 4 SEP 2023
+3 TIME 04:32:13
+0 @I0073@ INDI
+1 NAME Martha Lois /Dempster/
+2 GIVN Martha Lois
+2 SURN Dempster
+1 SEX F
+1 BIRT
+2 DATE 9 JAN 1866
+2 PLAC Pennsylvania, USA
+2 ADDR
+3 STAE Pennsylvania
+3 CTRY USA
+1 DEAT
+2 DATE 28 DEC 1953
+1 BURI
+2 TYPE Fairview Cemetery
+2 PLAC Santa Fe, Santa Fe County, New Mexico, USA
+1 FAMS @F0024@
+1 CHAN
+2 DATE 4 SEP 2023
+3 TIME 04:54:06
+0 @I0074@ INDI
+1 NAME Wallace Everett /Brown/
+2 GIVN Wallace Everett
+2 SURN Brown
+2 NPFX Dr
+1 SEX M
+1 FAMS @F0025@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 00:52:29
+0 @I0075@ INDI
+1 NAME William MaGee /Field/
+2 GIVN William MaGee
+2 SURN Field
+1 SEX M
+1 BIRT
+2 DATE 1933
+1 DEAT
+2 DATE 2018
+1 FAMC @F0025@
+2 PEDI birth
+1 NOTE @N0020@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:06:58
+0 @I0076@ INDI
+1 NAME Frederick L /Warren/
+2 GIVN Frederick L
+2 SURN Warren
+1 SEX M
+1 FAMS @F0026@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:01:29
+0 @I0077@ INDI
+1 NAME Katherine /Hughart/
+2 GIVN Katherine
+2 SURN Hughart
+1 SEX F
+1 BIRT
+2 DATE 1894
+1 DEAT
+2 DATE 1982
+1 FAMS @F0027@
+1 NOTE @N0021@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:12:55
+0 @I0078@ INDI
+1 NAME George Walker /Meeker/
+2 GIVN George Walker
+2 SURN Meeker
+1 SEX M
+1 BIRT
+2 DATE 26 JUL 1857
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 DEAT
+2 DATE 20 APR 1899
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 FAMC @F0030@
+2 PEDI birth
+1 FAMS @F0028@
+1 NOTE @N0022@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 06:06:18
+0 @I0079@ INDI
+1 NAME Louise /Ackerman/
+2 GIVN Louise
+2 SURN Ackerman
+1 SEX F
+1 BIRT
+2 DATE 1861
+1 DEAT
+2 DATE 1949
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0028@
+1 NOTE @N0023@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:25:24
+0 @I0080@ INDI
+1 NAME Margaret Louise /Meeker/
+2 GIVN Margaret Louise
+2 SURN Meeker
+1 NAME Margaret Louise Meeker /Forgan/
+2 TYPE married
+2 GIVN Margaret Louise Meeker
+2 SURN Forgan
+1 SEX F
+1 BIRT
+2 DATE 1892
+1 DEAT
+2 DATE 1988
+1 FAMC @F0028@
+2 PEDI birth
+1 NOTE @N0342@
+1 CHAN
+2 DATE 11 SEP 2023
+3 TIME 03:27:26
+0 @I0081@ INDI
+1 NAME Marjorie DeForest /Pierce/
+2 GIVN Marjorie DeForest
+2 SURN Pierce
+1 SEX F
+1 FAMS @F0029@
+1 NOTE @N0024@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 02:17:02
+0 @I0082@ INDI
+1 NAME Arthur Burr /Meeker/
+2 GIVN Arthur Burr
+2 SURN Meeker
+1 SEX M
+1 BIRT
+2 DATE 1835
+1 DEAT
+2 DATE 1901
+1 FAMS @F0030@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:06:48
+0 @I0083@ INDI
+1 NAME Maria Louise /Griggs/
+2 GIVN Maria Louise
+2 SURN Griggs
+1 SEX F
+1 BIRT
+2 DATE 1838
+1 DEAT
+2 DATE 1926
+1 FAMS @F0030@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:07:09
+0 @I0084@ INDI
+1 NAME Arthur Samuel /Friedman/ Sr.
+2 GIVN Arthur Samuel
+2 SURN Friedman
+2 NSFX Sr.
+1 SEX M
+1 BIRT
+2 DATE 16 FEB 1864
+2 PLAC Illinois, USA
+2 ADDR
+3 STAE Illinois
+3 CTRY USA
+1 DEAT
+2 DATE 5 MAR 1912
+1 FAMC @F0035@
+2 PEDI birth
+1 FAMS @F0031@
+1 NOTE @N0028@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 11:33:54
+0 @I0085@ INDI
+1 NAME Catherine "Kate" L /Edmunds/
+2 GIVN Catherine "Kate" L
+2 SURN Edmunds
+1 SEX F
+1 BIRT
+2 DATE 1870
+2 PLAC Illinois, USA
+2 ADDR
+3 STAE Illinois
+3 CTRY USA
+1 FAMC @F0032@
+2 PEDI birth
+1 FAMS @F0031@
+1 NOTE @N0027@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 02:48:52
+0 @I0086@ INDI
+1 NAME Olin Edmunds /Friedman/
+2 GIVN Olin Edmunds
+2 SURN Friedman
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1904
+2 PLAC Illinois, USA
+2 ADDR
+3 STAE Illinois
+3 CTRY USA
+1 DEAT
+2 DATE 9 AUG 1986
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0037@
+1 FAMS @F0038@
+1 NOTE @N0031@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 14:28:13
+0 @I0087@ INDI
+1 NAME Arnold /Edmunds/
+2 GIVN Arnold
+2 SURN Edmunds
+1 SEX M
+1 FAMS @F0032@
+1 CHAN
+2 DATE 21 AUG 2023
+3 TIME 20:45:59
+0 @I0088@ INDI
+1 NAME Julia /Edmunds/
+2 TYPE married
+2 GIVN Julia
+2 SURN Edmunds
+1 SEX F
+1 FAMS @F0032@
+1 CHAN
+2 DATE 21 AUG 2023
+3 TIME 20:45:59
+0 @I0089@ INDI
+1 NAME Natalie /Pannes/
+2 GIVN Natalie
+2 SURN Pannes
+1 SEX F
+1 FAMS @F0033@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 01:16:37
+0 @I0090@ INDI
+1 NAME Ann B /Heekin/
+2 GIVN Ann B
+2 SURN Heekin
+1 SEX F
+1 FAMS @F0034@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 01:17:46
+0 @I0091@ INDI
+1 NAME Mayer /Friedman/
+2 GIVN Mayer
+2 SURN Friedman
+1 SEX M
+1 BIRT
+2 DATE 1815
+2 PLAC Germany
+2 ADDR
+3 CTRY Germany
+1 DEAT
+2 DATE 17 MAR 1897
+2 PLAC Maroa, Macon County, Illinois, USA
+1 FAMS @F0035@
+1 SOUR @S0001@
+2 PAGE https://www.findagrave.com/memorial/151662275/mayer-friedman
+2 DATA
+3 DATE 1897
+2 NOTE @N0370@
+1 NOTE @N0032@
+1 NOTE @N0034@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 10:42:20
+0 @I0092@ INDI
+1 NAME Mina Minnie /Eichberg/
+2 GIVN Mina Minnie
+2 SURN Eichberg
+1 SEX F
+1 BIRT
+2 DATE 17 JUN 1827
+2 PLAC Wurttemberg, Germany
+1 DEAT
+2 DATE 21 FEB 1911
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 FAMC @F0039@
+2 PEDI birth
+1 FAMS @F0035@
+1 NOTE @N0033@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 07:36:23
+0 @I0093@ INDI
+1 NAME Margaret Lois /Friedman/
+2 GIVN Margaret Lois
+2 SURN Friedman
+1 SEX F
+1 BIRT
+2 DATE FEB 1950
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 02:25:13
+0 @I0094@ INDI
+1 NAME Willliam B /Meeker/
+2 GIVN Willliam B
+2 SURN Meeker
+1 SEX M
+1 BIRT
+2 DATE 1862
+1 DEAT
+2 DATE 1863
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:13:37
+0 @I0095@ INDI
+1 NAME Louise /Meeker/
+2 GIVN Louise
+2 SURN Meeker
+1 NAME Louise Meeker /Walker/
+2 TYPE married
+2 GIVN Louise Meeker
+2 SURN Walker
+1 SEX F
+1 BIRT
+2 DATE 1864
+1 DEAT
+2 DATE 1952
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:15:02
+0 @I0096@ INDI
+1 NAME Arthur /Meeker/
+2 GIVN Arthur
+2 SURN Meeker
+1 SEX M
+1 BIRT
+2 DATE 1866
+1 DEAT
+2 DATE 1946
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:15:41
+0 @I0097@ INDI
+1 NAME Margaret Beekman /Meeker/
+2 GIVN Margaret Beekman
+2 SURN Meeker
+1 NAME Margaret Beekman Meeker // Colt
+2 TYPE married
+2 GIVN Margaret Beekman Meeker
+2 NSFX Colt
+1 SEX F
+1 BIRT
+2 DATE 1872
+1 DEAT
+2 DATE 1954
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:17:57
+0 @I0098@ INDI
+1 NAME William Kelly /Ackerman/
+2 GIVN William Kelly
+2 SURN Ackerman
+1 SEX M
+1 BIRT
+2 DATE 1832
+1 DEAT
+2 DATE 1905
+1 FAMS @F0036@
+1 NOTE @N0341@
+1 CHAN
+2 DATE 11 SEP 2023
+3 TIME 03:19:24
+0 @I0099@ INDI
+1 NAME Alida Reynolds /Lewis/
+2 GIVN Alida Reynolds
+2 SURN Lewis
+1 SEX F
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1928
+1 FAMS @F0036@
+1 CHAN
+2 DATE 11 SEP 2023
+3 TIME 03:12:22
+0 @I0100@ INDI
+1 NAME Gertrude McKinley /Ackerman/
+2 GIVN Gertrude McKinley
+2 SURN Ackerman
+1 NAME Gertrude McKinley Ackerman // Buell
+2 TYPE married
+2 GIVN Gertrude McKinley Ackerman
+2 NSFX Buell
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 DEAT
+2 DATE 1922
+1 FAMC @F0036@
+2 PEDI birth
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:25:24
+0 @I0101@ INDI
+1 NAME Fannie /Goldstein/
+2 GIVN Fannie
+2 SURN Goldstein
+1 SEX F
+1 BIRT
+2 DATE 1909
+2 PLAC Russian Empire
+2 ADDR
+3 CTRY Russian Empire
+1 FAMS @F0037@
+1 NOTE @N0030@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 14:11:49
+0 @I0102@ INDI
+1 NAME Kathryn Helen /Cannon/
+2 GIVN Kathryn Helen
+2 SURN Cannon
+1 SEX F
+1 BIRT
+2 DATE 1909
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 DEAT
+2 DATE 1991
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 FAMS @F0038@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 14:23:34
+0 @I0103@ INDI
+1 NAME Jonas Samuel /Eichberg/
+2 GIVN Jonas Samuel
+2 SURN Eichberg
+1 SEX M
+1 BIRT
+2 DATE 20 JUL 1787
+2 PLAC Bad Mergentheim, Main-Tauber-Kreis, Baden-Württemberg, Germany
+1 DEAT
+2 DATE 26 FEB 1875
+2 PLAC Stuttgart, Stuttgart, Baden-Württemberg, Germany
+1 FAMC @F0140@
+2 PEDI birth
+1 FAMS @F0039@
+1 NOTE @N0369@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 10:04:17
+0 @I0104@ INDI
+1 NAME Rachael /Lowenthal/
+2 GIVN Rachael
+2 SURN Lowenthal
+1 SEX F
+1 BIRT
+2 DATE 21 AUG 1796
+2 PLAC Crailsheim, Germany
+1 DEAT
+2 DATE 1882
+2 PLAC Krautheim, Germany
+1 FAMS @F0039@
+1 NOTE @N0368@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 08:19:27
+0 @I0105@ INDI
+1 NAME Susumu /Naoye/
+2 GIVN Susumu
+2 SURN Naoye
+1 NAME  /Naoye/
+2 SURN Naoye
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1919
+2 PLAC Reedley, Fresno, California, USA
+2 ADDR
+3 CITY Reedley
+3 STAE California
+3 CTRY USA
+1 DEAT
+2 DATE 9 MAR 2000
+2 PLAC California, USA
+2 ADDR
+3 STAE California
+3 CTRY USA
+1 BURI
+2 TYPE Plot Section 19 at Woodlawn Cemetery
+2 DATE 2000
+2 PLAC Woodlawn Cemetery, Santa Monica, Los Angeles County, California, USA
+1 FACT Gardener
+2 TYPE Occupation
+1 FACT I0063
+2 TYPE Merged Gramps ID
+1 FAMC @F0041@
+2 PEDI birth
+1 FAMS @F0040@
+1 NOTE @N0035@
+1 NOTE @N0337@
+1 CHAN
+2 DATE 9 SEP 2023
+3 TIME 08:14:11
+0 @I0106@ INDI
+1 NAME Kimiye /Fujimoto/
+2 GIVN Kimiye
+2 SURN Fujimoto
+1 NAME Kimiye /Naoye/
+2 TYPE married
+2 GIVN Kimiye
+2 SURN Naoye
+1 NAME  /Fujimoto/
+2 SURN Fujimoto
+1 SEX F
+1 BIRT
+2 DATE 6 JUN 1926
+2 PLAC Cutler, Tulare, California, US
+2 ADDR
+3 CITY Cutler
+1 FACT I0064
+2 TYPE Merged Gramps ID
+1 FAMC @F0042@
+2 PEDI birth
+1 FAMS @F0040@
+1 NOTE @N0037@
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:16
+0 @I0107@ INDI
+1 NAME Moju /Yoshida/
+2 GIVN Moju
+2 SURN Yoshida
+1 SEX F
+1 BIRT
+2 PLAC Japan
+2 ADDR
+3 CTRY Japan
+1 FAMS @F0041@
+1 CHAN
+2 DATE 1 SEP 2023
+3 TIME 05:32:25
+0 @I0108@ INDI
+1 NAME Kametaro /Naoye/
+2 GIVN Kametaro
+2 SURN Naoye
+1 SEX M
+1 BIRT
+2 DATE 20 JAN 1888
+2 PLAC Noboritate, Oyanomachi, Amakusa-gun, Kumamoto-ken, Japan
+1 DEAT
+2 DATE 15 NOV 1988
+2 PLAC Los Angeles, California, USA
+1 FAMS @F0041@
+1 FAMS @F0171@
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 13:21:29
+0 @I0110@ INDI
+1 NAME Mitsuye /Matsumoto/
+2 GIVN Mitsuye
+2 SURN Matsumoto
+1 NAME Matsuye /Fujimoto/
+2 TYPE married
+2 GIVN Matsuye
+2 SURN Fujimoto
+1 SEX F
+1 BIRT
+2 DATE 19 NOV 1896
+2 PLAC Japan
+2 ADDR
+3 CTRY Japan
+1 DEAT
+2 DATE 23 MAR 1991
+2 PLAC Santa Clara, California, USA
+2 ADDR
+3 STAE California
+3 CTRY USA
+1 FAMS @F0042@
+1 CHAN
+2 DATE 10 JAN 2024
+3 TIME 19:46:50
+0 @I0111@ INDI
+1 NAME Sanzo /Fujimoto/
+2 GIVN Sanzo
+2 SURN Fujimoto
+1 SEX M
+1 BIRT
+2 DATE 1 JUN 1880
+2 PLAC Kyushu, Japan
+2 ADDR
+3 CTRY Japan
+1 DEAT
+2 DATE 26 SEP 1965
+2 PLAC Gavilan Hills Memorial Park, Gilroy, Santa Clara, California, USA
+2 ADDR
+3 CITY Gilroy
+3 STAE California
+3 CTRY USA
+1 FAMS @F0042@
+1 NOTE @N0338@
+1 CHAN
+2 DATE 10 SEP 2023
+3 TIME 02:58:03
+0 @I0112@ INDI
+1 NAME Kazumie /Fujimoto/
+2 GIVN Kazumie
+2 SURN Fujimoto
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1922
+2 PLAC Tulare, California, US
+1 FAMC @F0042@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:22
+0 @I0113@ INDI
+1 NAME Toshiye /Fujimoto/
+2 GIVN Toshiye
+2 SURN Fujimoto
+1 SEX F
+1 BIRT
+2 DATE 1 FEB 1929
+2 PLAC Tulare, California, US
+1 FAMC @F0042@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:16
+0 @I0114@ INDI
+1 NAME Mary /Fujimoto/
+2 GIVN Mary
+2 SURN Fujimoto
+1 SEX F
+1 BIRT
+2 DATE 29 MAY 1931
+2 PLAC Tulare, California, US
+1 FAMC @F0042@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:16
+0 @I0115@ INDI
+1 NAME Susumu /Fujimoto/
+2 GIVN Susumu
+2 SURN Fujimoto
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 1937
+2 PLAC Fresno, California, USA
+2 ADDR
+3 STAE California
+3 CTRY USA
+1 FAMC @F0042@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:16
+0 @I0239@ INDI
+1 NAME Mary Trust /Naoye/
+2 GIVN Mary Trust
+2 SURN Naoye
+1 NAME Mary /Ikeda/
+2 TYPE married
+2 GIVN Mary
+2 SURN Ikeda
+1 SEX F
+1 BIRT
+2 DATE 7 FEB 1921
+2 PLAC Fresno, California, USA
+2 ADDR
+3 STAE California
+3 CTRY USA
+1 DEAT
+2 DATE 20 MAY 2019
+1 BURI
+2 TYPE Inglewood Park Cemetery
+2 DATE 11 JUN 2019
+2 PLAC Inglewood, California, USA
+2 ADDR
+3 CITY Inglewood
+3 STAE California
+3 CTRY USA
+1 FACT I0109
+2 TYPE Merged Gramps ID
+1 FAMC @F0041@
+2 PEDI birth
+1 FAMS @F0103@
+1 NOTE @N0339@
+1 NOTE @N0036@
+1 CHAN
+2 DATE 10 JAN 2024
+3 TIME 19:57:52
+0 @I0240@ INDI
+1 NAME Isamu /Ikeda/
+2 GIVN Isamu
+2 SURN Ikeda
+1 SEX M
+1 BIRT
+2 DATE 26 MAR 1942
+2 PLAC Los Angeles, CA, United States
+1 FAMC @F0103@
+2 PEDI birth
+1 CHAN
+2 DATE 11 SEP 2023
+3 TIME 00:37:58
+0 @I0241@ INDI
+1 NAME Keiko /Ikeda/
+2 GIVN Keiko
+2 SURN Ikeda
+1 SEX F
+1 BIRT
+2 DATE BET 1942 AND 1945
+1 FAMC @F0103@
+2 PEDI birth
+1 NOTE @N0347@
+1 CHAN
+2 DATE 12 SEP 2023
+3 TIME 13:34:35
+0 @I0242@ INDI
+1 NAME Takeo /Ikeda/
+2 GIVN Takeo
+2 SURN Ikeda
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 FAMS @F0103@
+1 NOTE @N0340@
+1 CHAN
+2 DATE 10 SEP 2023
+3 TIME 06:27:48
+0 @I0332@ INDI
+1 NAME Samuel Jonas /Eichberg/
+2 GIVN Samuel Jonas
+2 SURN Eichberg
+1 SEX M
+1 BIRT
+2 DATE 1753
+1 DEAT
+2 DATE 1831
+1 FAMS @F0140@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 10:04:17
+0 @I0333@ INDI
+1 NAME Berle /Loew/
+2 GIVN Berle
+2 SURN Loew
+1 SEX F
+1 BIRT
+2 DATE 1765
+2 PLAC Affaltrach, Germany
+1 FAMS @F0140@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 10:04:17
+0 @I0340@ INDI
+1 NAME Meyo /Naoye/
+2 GIVN Meyo
+2 SURN Naoye
+1 SEX F
+1 FAMC @F0041@
+2 PEDI birth
+1 CHAN
+2 DATE 10 JAN 2024
+3 TIME 19:55:14
+0 @I0403@ INDI
+1 NAME Hitsu /Naoe/
+2 TYPE married
+2 GIVN Hitsu
+2 SURN Naoe
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1903
+1 DEAT
+2 DATE MAY 1977
+1 FAMS @F0171@
+1 NOTE @N0397@
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 13:21:29
+0 @I0404@ INDI
+1 NAME Kanijiro /Fujimoto/
+2 GIVN Kanijiro
+2 SURN Fujimoto
+1 SEX M
+1 BIRT
+2 DATE 1923
+1 FAMC @F0042@
+2 PEDI birth
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:16
+0 @F0019@ FAM
+1 HUSB @I0061@
+1 WIFE @I0062@
+1 MARR
+2 DATE 18 NOV 1984
+1 CHIL @I0059@
+1 CHIL @I0060@
+1 CHIL @I0066@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 21:15:21
+0 @F0021@ FAM
+1 HUSB @I0068@
+1 WIFE @I0067@
+1 MARR
+2 DATE 1943
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 DIV
+2 DATE 1953
+1 CHIL @I0061@
+1 CHIL @I0093@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 02:25:13
+0 @F0022@ FAM
+1 HUSB @I0069@
+1 WIFE @I0067@
+1 MARR
+2 DATE 1953
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:01:50
+0 @F0023@ FAM
+1 HUSB @I0070@
+1 WIFE @I0071@
+1 MARR
+2 DATE 1915
+1 DIV
+2 DATE BEF 1930
+1 CENS
+2 DATE JAN 1920
+2 PLAC Lower Merion, Montgomery, Pennsylvania, USA
+2 NOTE @N0025@
+1 CHIL @I0067@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 02:35:59
+0 @F0024@ FAM
+1 HUSB @I0072@
+1 WIFE @I0073@
+1 MARR
+2 DATE ABT 1892
+1 CENS
+2 DATE 29 APR 1910
+2 PLAC Lower Merion, Montgomery, Pennsylvania, US
+2 NOTE @N0038@
+1 CHIL @I0071@
+1 CHAN
+2 DATE 4 SEP 2023
+3 TIME 04:09:45
+0 @F0025@ FAM
+1 HUSB @I0074@
+1 WIFE @I0071@
+1 CHIL @I0075@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 00:52:29
+0 @F0026@ FAM
+1 HUSB @I0076@
+1 WIFE @I0067@
+1 MARR
+2 DATE 1961
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:01:29
+0 @F0027@ FAM
+1 HUSB @I0070@
+1 WIFE @I0077@
+1 MARR
+2 DATE 1933
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:12:55
+0 @F0028@ FAM
+1 HUSB @I0078@
+1 WIFE @I0079@
+1 CHIL @I0070@
+1 CHIL @I0080@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:21:47
+0 @F0029@ FAM
+1 HUSB @I0070@
+1 WIFE @I0081@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 01:23:58
+0 @F0030@ FAM
+1 HUSB @I0082@
+1 WIFE @I0083@
+1 CHIL @I0078@
+1 CHIL @I0094@
+1 CHIL @I0095@
+1 CHIL @I0096@
+1 CHIL @I0097@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:17:57
+0 @F0031@ FAM
+1 HUSB @I0084@
+1 WIFE @I0085@
+1 MARR
+2 DATE 13 DEC 1900
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 CHIL @I0086@
+1 CHIL @I0068@
+1 CHAN
+2 DATE 19 AUG 2023
+3 TIME 21:19:32
+0 @F0032@ FAM
+1 HUSB @I0087@
+1 WIFE @I0088@
+1 CHIL @I0085@
+1 CHAN
+2 DATE 21 AUG 2023
+3 TIME 20:45:59
+0 @F0033@ FAM
+1 HUSB @I0068@
+1 WIFE @I0089@
+1 MARR
+2 DATE 1936
+1 DIV
+2 DATE 1941
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 01:16:37
+0 @F0034@ FAM
+1 HUSB @I0068@
+1 WIFE @I0090@
+1 MARR
+2 DATE 1957
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 01:17:46
+0 @F0035@ FAM
+1 HUSB @I0091@
+1 WIFE @I0092@
+1 MARR
+2 DATE 13 MAR 1853
+2 PLAC Hamilton County, Ohio
+1 CHIL @I0084@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 11:33:54
+0 @F0036@ FAM
+1 HUSB @I0098@
+1 WIFE @I0099@
+1 CHIL @I0079@
+1 CHIL @I0100@
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 03:25:24
+0 @F0037@ FAM
+1 HUSB @I0086@
+1 WIFE @I0101@
+1 MARR
+2 DATE 25 MAY 1928
+2 PLAC Illinois, USA
+2 ADDR
+3 STAE Illinois
+3 CTRY USA
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 14:11:49
+0 @F0038@ FAM
+1 HUSB @I0086@
+1 WIFE @I0102@
+1 MARR
+2 DATE 27 JUL 1952
+2 PLAC Chicago, Illinois, USA
+2 ADDR
+3 CITY Chicago
+3 STAE Illinois
+3 CTRY USA
+1 CHAN
+2 DATE 22 AUG 2023
+3 TIME 14:23:34
+0 @F0039@ FAM
+1 HUSB @I0103@
+1 WIFE @I0104@
+1 MARR
+2 DATE 10 MAY 1880
+2 PLAC Weisenbach, Germany
+1 CHIL @I0092@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 07:36:23
+0 @F0040@ FAM
+1 HUSB @I0105@
+1 WIFE @I0106@
+1 MARR
+2 DATE 28 NOV 1948
+2 PLAC Los Angeles, CA, United States
+1 CHIL @I0065@
+1 CHIL @I0062@
+1 CHAN
+2 DATE 31 AUG 2023
+3 TIME 21:49:49
+0 @F0041@ FAM
+1 HUSB @I0108@
+1 WIFE @I0107@
+1 CHIL @I0105@
+1 CHIL @I0239@
+1 CHIL @I0340@
+1 CHAN
+2 DATE 10 JAN 2024
+3 TIME 19:55:14
+0 @F0042@ FAM
+1 HUSB @I0111@
+1 WIFE @I0110@
+1 EVEN Family placed in concentration camp from Aug 5, 1942 to Sep 11, 1945
+2 TYPE Residence
+2 DATE FROM 5 AUG 1942 TO 11 SEP 1945
+2 PLAC Poston War Relocation Camp, Parker, Arizona, USA
+2 ADDR
+3 CITY Parker
+3 STAE Arizona
+3 CTRY USA
+1 CHIL @I0112@
+1 CHIL @I0404@
+1 CHIL @I0106@
+1 CHIL @I0113@
+1 CHIL @I0114@
+1 CHIL @I0115@
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 18:20:16
+0 @F0103@ FAM
+1 HUSB @I0242@
+1 WIFE @I0239@
+1 CHIL @I0240@
+1 CHIL @I0241@
+1 CHAN
+2 DATE 10 SEP 2023
+3 TIME 06:02:29
+0 @F0140@ FAM
+1 HUSB @I0332@
+1 WIFE @I0333@
+1 CHIL @I0103@
+1 CHAN
+2 DATE 17 DEC 2023
+3 TIME 10:04:17
+0 @F0171@ FAM
+1 HUSB @I0108@
+1 WIFE @I0403@
+1 CHAN
+2 DATE 12 JUL 2024
+3 TIME 13:21:29
+0 @S0001@ SOUR
+1 TITL Find A Grave
+1 AUTH Various
+1 PUBL Edgewood Cemetery
+1 CHAN
+2 DATE 18 AUG 2023
+3 TIME 23:51:17
+0 @N0014@ NOTE Arthur Meeker Friedman 
+1 CONT magazine editor professional motorcycle racer
+1 CONT 
+1 CONT Arthur Meeker Friedman, 
+1 CONT American magazine editor, professional motorcycle racer. 
+1 CONT Named member Endurance Racing Team of Year, 
+1 CONT Western-Eastern Roadracing Association, 1981. 
+1 CONT Emergency volunteer Air Corps Head Protection Research Laboratory, Ameri
+1 CONC can Medical Support Flight Team.
+1 CONT 
+1 CONT Background
+1 CONT Friedman, Arthur Meeker was born on March 19, 1948 in Chicago, Illinois
+1 CONC , United States. Son of Arthur and Marchia Lois Friedman.
+1 CONT 
+1 CONT Education
+1 CONT Bachelor of Arts History, Beloit College, 1971.
+1 CONT 
+1 CONT Career
+1 CONT Editor, Cycle News West, Long Beach, California, 1972-1974; senior edito
+1 CONC r, Cycle Guide, Compton, California, 1974-1978; associate editor, Motorc
+1 CONC yclist magazine, Los Angeles, 1978-1980; editor, Motorcyclist magazine
+1 CONC , Los Angeles, 1980-1993; senior editor, Motorcyclist magazine, Los Ange
+1 CONC les, since 1993; editor, Motorcycle Cruiser, Los Angeles, since 1996.
+1 CONT 
+1 CONT Achievements
+1 CONT Arthur Meeker Friedman has been listed as a noteworthy magazine editor
+1 CONC , professional motorcycle racer by Marquis Who's Who.
+1 CONT 
+1 CONT Membership
+1 CONT Emergency volunteer Air Corps Head Protection Research Laboratory, Ameri
+1 CONC can Medical Support Flight Team.
+1 CONT 
+1 CONT Interests
+1 CONT Avocations: motorcycling, aviation, ferret legging, photography.
+1 CONT 
+1 CONT Connections
+1 CONT Married Marjorie Eiko Naoye, November 18, 1984. Children: Brough Shepar
+1 CONC d (deceased), James Kazuo, Christen Miya.
+1 CONT 
+1 CONT Father:
+1 CONT Arthur Friedman
+1 CONT Mother:
+1 CONT Marchia Lois Friedman
+1 CONT Spouse:
+1 CONT Marjorie Eiko Naoye
+1 CONT child:
+1 CONT Christen Miya Friedman
+1 CONT child:
+1 CONT James Kazuo Friedman
+1 CONT child:
+1 CONT Brough Shepard Friedman (deceased)
+1 CONT 
+0 @N0015@ NOTE Find a Grave, database and images (https://www.findagrave.com/memor
+1 CONC ial/46260874/arthur-samuel-friedman: accessed 18 August 2023), memoria
+1 CONC l page for Arthur Samuel Friedman (13 Dec 1906–24 Apr 1981), Find a Grav
+1 CONC e Memorial ID 46260874, citing Edgewood Cemetery, Cedarville, Mackinac C
+1 CONC ounty, Michigan, USA; Maintained by Nicole La Faive (contributor 1716763
+1 CONC 5).
+0 @N0016@ NOTE Find a Grave, database and images (https://www.findagrave.com/memor
+1 CONC ial/129132686/marchia-lois-warren: accessed 18 August 2023), memorial pa
+1 CONC ge for Marchia Lois Meeker Warren (13 Nov 1916–1 Apr 1978), Find a Grav
+1 CONC e Memorial ID 129132686, citing Fairview Cemetery, Santa Fe, Santa Fe Co
+1 CONC unty, New Mexico, USA; Maintained by Sidney (contributor 48067839).
+0 @N0017@ NOTE Married first: Arthur Friedman.
+1 CONT 
+1 CONT Married second: 1953 Warren A "Bud" Gilbertson. A recognized authority o
+1 CONC n ceramics and pottery, he was killed in an automobile accident in Feb 1
+1 CONC 954.
+1 CONT 
+1 CONT Married third: 1961 Frederick L Warren.
+1 CONT 
+1 CONT ==
+1 CONT 
+1 CONT 
+1 CONT Sosa	No one	Date of birth	Place of birth	Spouses	Date of union	Place o
+1 CONC f union	Nb. children	Date of death	Place of death	Age at death	Professio
+1 CONC ns
+1 CONT Generation 1
+1 CONT 1	F Marchia Lois Meeker	13/11/1916	Haverford, Pennsylvania, USA	H Arthu
+1 CONC r Samuel Friedman	about 1945?	 	0	01/04/1978	Santa Fe, Santa Fe, New Mex
+1 CONC ico, USA	61 years	 
+1 CONT H Warren A. Gilbertson	1953	 	0
+1 CONT H Frederick L. Warren	1961	 	0
+1 CONT Generation 2
+1 CONT 2	H Lawrence Ackerman Meeker	14/09/1890	Chicago, Cook, Illinois, USA	F L
+1 CONC ois Dempster Field	 	 	1	16/02/1949	Chicago, Cook, Illinois, USA	58 year
+1 CONC s	 
+1 CONT 3	F Lois Dempster Field	19/05/1894	Pennsylvania, USA	H Lawrence Ackerma
+1 CONC n Meeker	 	 	1	13/07/1975	Santa Fe, Santa Fe, New Mexico, USA	81 years	 
+1 CONT Generation 3
+1 CONT 4	H George Walker Meeker	26/07/1857	Chicago, Cook, Illinois, USA	F Louis
+1 CONC e Ackerman	 	 	1	20/04/1899	Chicago, Cook, Illinois, USA	41 years	 
+1 CONT 5	F Louise Ackerman	18/06/1861	Chicago, Cook, Illinois, USA	H George Wal
+1 CONC ker Meeker	 	 	1	19/04/1949	Chicago, Cook, Illinois, USA	87 years	 
+1 CONT 6	H William M. Field	09/01/1863	Pennsylvania	F Martha L. Dempste
+1 CONC r	 	 	1	28/08/1939		76 years	 
+1 CONT 7	F Martha L. Dempster	09/01/1866	New York	H William M. Field	 	 	1	28/1
+1 CONC 2/1953		87 years	 
+1 CONT Generation 4
+1 CONT 12	H John Field	about 1832?	Ireland	F Harriet M?	 	 	0	09/07/1904	Philad
+1 CONC elphia, Philadelphia, Pennsylvania, USA		 
+1 CONT F Sarah Hunter	 	 	6
+1 CONT 13	F Sarah Hunter	about 1831	Philadelphia County, Pennsylvania, USA	H Jo
+1 CONC hn Field	 	 	6	1904?			 
+1 CONT Generation 5
+1 CONT 26	H Thomas Hunter	about 1796	Carrickfergus, Antrim, Ireland	F Elizabet
+1 CONC h MacMunn	 	 	3	1848	Philadelphia, Pennsylvania, USA		 
+1 CONT 27	F Elizabeth MacMunn	1801	Manchester, Lancashire, England	H Thomas Hun
+1 CONC ter	 	 	3	11/09/1892	Philadelphia, Philadelphia, Pennsylvania, USA	91 ye
+1 CONC ars	 
+1 CONT Generation 6
+1 CONT 52	H John? Hunter	 	 	F Sarah Boyd Harley	 	 	1	 	 		 
+1 CONT 53	F Sarah Boyd Harley	about 1760?	Antrim, Ireland?	H John? Hunte
+1 CONC r	 	 	1	1844	Pennsylvania, USA		 
+1 CONT 
+0 @N0018@ NOTE Lawrence Ackerman Meeker
+1 CONT 
+1 CONT BIRTH
+1 CONT 14 Sep 1890
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT DEATH
+1 CONT 16 Feb 1949 (aged 58)
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT BURIAL
+1 CONT Graceland Cemetery
+1 CONT Chicago, Cook County, Illinois, USA 
+1 CONT PLOT
+1 CONT Bellevue Section, lot 370
+1 CONT MEMORIAL ID
+1 CONT 127998889
+1 CONT 
+1 CONT Son of George W. Meeker and Louise Ackerman and husband of Marjorie DeFo
+1 CONC rest Pierce.
+1 CONT 
+1 CONT Family Members
+1 CONT Parents
+1 CONT 
+1 CONT George Walker Meeker
+1 CONT 1857–1899
+1 CONT 
+1 CONT 
+1 CONT Louise Ackerman Meeker
+1 CONT 1861–1949
+1 CONT 
+1 CONT Spouses
+1 CONT 
+1 CONT Lois Dempster Field
+1 CONT 1894–1975 (m. 1915)
+1 CONT 
+1 CONT 
+1 CONT Katherine Hughart Meeker
+1 CONT 1894–1982 (m. 1933)
+1 CONT 
+1 CONT Siblings
+1 CONT 
+1 CONT Margaret Louise Meeker Forgan
+1 CONT 1892–1988
+1 CONT 
+1 CONT Children
+1 CONT 
+1 CONT Marchia Lois Meeker Warren
+1 CONT 1916–1978
+1 CONT 
+1 CONT 
+1 CONT Find a Grave, database and images (https://www.findagrave.com/memorial/1
+1 CONC 27998889/lawrence-ackerman-meeker: accessed 18 August 2023), memorial pa
+1 CONC ge for Lawrence Ackerman Meeker (14 Sep 1890–16 Feb 1949), Find a Grav
+1 CONC e Memorial ID 127998889, citing Graceland Cemetery, Chicago, Cook County
+1 CONC , Illinois, USA; Maintained by Saratoga (contributor 46965279).
+0 @N0019@ NOTE Lois Dempster Field
+1 CONT 
+1 CONT BIRTH
+1 CONT 19 May 1894
+1 CONT Pennsylvania, USA
+1 CONT DEATH
+1 CONT 13 Jul 1975 (aged 81)
+1 CONT Santa Fe, Santa Fe County, New Mexico, USA
+1 CONT BURIAL
+1 CONT Fairview Cemetery
+1 CONT Santa Fe, Santa Fe County, New Mexico, USA 
+1 CONT PLOT
+1 CONT D, 20E, 6
+1 CONT MEMORIAL ID
+1 CONT 128006272 
+1 CONT 
+1 CONT Lois and Lawrence Meeker divorced prior to 1930
+1 CONT 
+1 CONT Family Members
+1 CONT Parents
+1 CONT 
+1 CONT William M Field
+1 CONT 1863–1939
+1 CONT 
+1 CONT 
+1 CONT Martha L D Field
+1 CONT 1866–1953
+1 CONT 
+1 CONT Spouse
+1 CONT 
+1 CONT Lawrence Ackerman Meeker
+1 CONT 1890–1949 (m. 1915)
+1 CONT 
+1 CONT Children
+1 CONT 
+1 CONT Marchia Lois Meeker Warren
+1 CONT 1916–1978
+1 CONT 
+1 CONT 
+1 CONT William MaGee Field
+1 CONT 1933–2018
+1 CONT 
+1 CONT 
+0 @N0020@ NOTE William MaGee “Bill” Field
+1 CONT BIRTH
+1 CONT 17 Jul 1933
+1 CONT Santa Fe, Santa Fe County, New Mexico, USA
+1 CONT DEATH
+1 CONT 15 Jan 2018 (aged 84)
+1 CONT BURIAL
+1 CONT Santa Fe National Cemetery
+1 CONT Santa Fe, Santa Fe County, New Mexico, USA 
+1 CONT PLOT
+1 CONT SECTION 27C SITE 125
+1 CONT MEMORIAL ID
+1 CONT 186807723 
+1 CONT 
+1 CONT Son of Dr Wallace Everett Brown
+1 CONT 
+1 CONT Inscription
+1 CONT CPL US ARMY
+1 CONT KOREA
+1 CONT 
+1 CONT BELOVED
+1 CONT 
+1 CONT 
+1 CONT Family Members
+1 CONT Parents
+1 CONT 
+1 CONT Lois Dempster Field
+1 CONT 1894–1975
+1 CONT 
+1 CONT Siblings
+1 CONT 
+1 CONT Marchia Lois Meeker Warren
+1 CONT 1916–1978
+1 CONT 
+1 CONT 
+0 @N0021@ NOTE Katherine Hughart Meeker
+1 CONT BIRTH
+1 CONT 24 Aug 1894
+1 CONT Grand Rapids, Kent County, Michigan, USA
+1 CONT DEATH
+1 CONT 2 Mar 1982 (aged 87)
+1 CONT Sarasota, Sarasota County, Florida, USA
+1 CONT BURIAL
+1 CONT Oakhill Cemetery
+1 CONT Grand Rapids, Kent County, Michigan, USA 
+1 CONT PLOT
+1 CONT OAKHILL--9-8-02
+1 CONT MEMORIAL ID
+1 CONT 21300045
+1 CONT 
+1 CONT 
+1 CONT Family Members
+1 CONT Parents
+1 CONT 
+1 CONT William Oden Hughart
+1 CONT 1859–1934
+1 CONT 
+1 CONT 
+1 CONT Ada Byron Morton Hughart
+1 CONT 1870–1914
+1 CONT 
+1 CONT Spouse
+1 CONT 
+1 CONT Lawrence Ackerman Meeker
+1 CONT 1890–1949 (m. 1933)
+0 @N0022@ NOTE George Walker Meeker
+1 CONT BIRTH
+1 CONT 26 Jul 1857
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT DEATH
+1 CONT 20 Apr 1899 (aged 41)
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT BURIAL
+1 CONT Graceland Cemetery
+1 CONT Chicago, Cook County, Illinois, USA 
+1 CONT PLOT
+1 CONT Bellevue Section, lot 370
+1 CONT MEMORIAL ID
+1 CONT 138376273
+1 CONT 
+1 CONT Dates and locations were provided by contributor Ash Montagu (#46804013)
+1 CONC .
+1 CONT Link to father provided by contributor CHerr #47103644.
+1 CONT 
+1 CONT Family Members
+1 CONT Parents
+1 CONT 
+1 CONT Arthur Burr Meeker
+1 CONT 1835–1901
+1 CONT 
+1 CONT Maria Louise Griggs Meeker
+1 CONT 1838–1926
+1 CONT 
+1 CONT Spouse
+1 CONT 
+1 CONT Louise Ackerman Meeker
+1 CONT 1861–1949
+1 CONT 
+1 CONT Siblings
+1 CONT 
+1 CONT William B. Meeker
+1 CONT 1862–1863
+1 CONT 
+1 CONT Louise Meeker Walker
+1 CONT 1864–1952
+1 CONT 
+1 CONT Arthur Meeker
+1 CONT 1866–1946
+1 CONT 
+1 CONT Margaret Beekman Meeker Colt
+1 CONT 1872–1954
+1 CONT 
+1 CONT Children
+1 CONT 
+1 CONT Lawrence Ackerman Meeker
+1 CONT 1890–1949
+1 CONT 
+1 CONT Margaret Louise Meeker Forgan
+1 CONT 1892–1988
+1 CONT 
+1 CONT 
+0 @N0023@ NOTE Louise Ackerman Meeker
+1 CONT BIRTH
+1 CONT 18 Jun 1861
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT DEATH
+1 CONT 19 Apr 1949 (aged 87)
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT BURIAL
+1 CONT Graceland Cemetery
+1 CONT Chicago, Cook County, Illinois, USA 
+1 CONT PLOT
+1 CONT Bellevue Section, lot 370
+1 CONT MEMORIAL ID
+1 CONT 138377695 · View Source
+1 CONT MEMORIAL
+1 CONT PHOTOS 2
+1 CONT FLOWERS 0
+1 CONT Links to parents provided by contributor APK #47159062.
+1 CONT 
+1 CONT Family Members
+1 CONT Parents
+1 CONT 
+1 CONT William Kelly Ackerman
+1 CONT 1832–1905
+1 CONT 
+1 CONT 
+1 CONT Alida Reynolds Lewis Ackerman
+1 CONT 1841–1928
+1 CONT 
+1 CONT Spouse
+1 CONT 
+1 CONT George Walker Meeker
+1 CONT 1857–1899
+1 CONT 
+1 CONT Siblings
+1 CONT 
+1 CONT Gertrude McKinley Ackerman Buell
+1 CONT 1870–1922
+1 CONT 
+1 CONT Children
+1 CONT 
+1 CONT Lawrence Ackerman Meeker
+1 CONT 1890–1949
+1 CONT 
+1 CONT 
+1 CONT Margaret Louise Meeker Forgan
+1 CONT 1892–1988
+1 CONT 
+1 CONT 
+0 @N0024@ NOTE Verification needed or more proof. Source was from claim on  Fin
+1 CONC d A Grave bio only. 
+0 @N0025@ NOTE Name	Sex	Age	Arrival Date	Birth Year (Estimated)	Birthplace	Marita
+1 CONC l Status	Race	Ethnicity	Relationship to Head of Household	Father's Birth
+1 CONC place	Mother's Birthplace	Sheet Letter	Sheet Number
+1 CONT 
+1 CONT 	Lawrence C Meeker	Male	29		1891	Illinois	Married	White	American	Head	Il
+1 CONC linois	Illinois	B	9
+1 CONT  	Lois F Meeker	Female	25		1895	Pennsylvania	Married	White	American	Wif
+1 CONC e	Pennsylvania	New York	B	9
+1 CONT  	Marchia L Meeker	Female	3		1917	Pennsylvania	Single	White	American	Dau
+1 CONC ghter	Illinois	Pennsylvania	B	9
+1 CONT  	John Cummings	Male	41		1879	Pennsylvania	Married	White	American	Servan
+1 CONC t	Ireland	Ireland	B	9
+1 CONT  	Mary Cummings	Female	50	1890	1870	Ireland	Married	White	American	Serva
+1 CONC nt	Ireland	Ireland	B	9
+1 CONT  	Mary Henry	Female	35		1885	New Jersey	Single	White	American	Servant	En
+1 CONC gland	England	B	9
+1 CONT 
+1 CONT 
+1 CONT "United States Census, 1920," database with images, FamilySearch (https:
+1 CONC //familysearch.org/ark:/61903/3:1:33S7-9RJL-CW9?cc=1488411&wc=QZJB-S9V%3
+1 CONC A1036473501%2C1036857901%2C1040194901%2C1589332409 : 13 September 2019)
+1 CONC , Pennsylvania > Montgomery > Lower Merion > ED 116 > image 18 of 36; ci
+1 CONC ting NARA microfilm publication T625 (Washington, D.C.: National Archive
+1 CONC s and Records Administration, n.d.).
+0 @N0026@ NOTE Name	Sex	Age	Birth Year (Estimated)	Birthplace	Marital Status	Rac
+1 CONC e	Ethnicity	Relationship to Head of Household	Father's Birthplace	Mother
+1 CONC 's Birthplace	Sheet Letter	Sheet Number
+1 CONT  	Lawrence Meeker	Male	39	1891	Illinois	Married	White	American	Head	Illi
+1 CONC nois	Illinois	A	1
+1 CONT  	Ruth C Meeker	Female	32	1898	Minnesota	Married	White	American	Wife	Ill
+1 CONC inois	Illinois	A	1
+1 CONT  	Clara Gumringer Or Gennringer	Female	29	1901	North Dakota	Single	Whit
+1 CONC e	American	Servant	Germany	Germany	A	1
+1 CONT 
+1 CONT 
+1 CONT 
+1 CONT "United States Census, 1930," database with images, FamilySearch (https:
+1 CONC //familysearch.org/ark:/61903/3:1:33SQ-GRHM-WPH?cc=1810731&wc=QZF3-3QM%3
+1 CONC A648807601%2C648807602%2C651614901%2C1589287663 : 9 December 2015), Illi
+1 CONC nois > Cook > Chicago (Districts 1501-1750) > ED 1554 > image 1 of 2; ci
+1 CONC ting NARA microfilm publication T626 (Washington D.C.: National Archive
+1 CONC s and Records Administration, 2002).
+0 @N0027@ NOTE Kate L Friedman formerly Edmunds
+1 CONT Born 1870 in Illinois, United States
+1 CONT Daughter of Arnold Edmunds and Julia (Unknown) Edmunds
+1 CONT Sister of Henry H Edmunds, Willie James Edmunds, Olin Edmunds, Elma R Ed
+1 CONC munds and Leslie A Edmunds
+1 CONT Wife of Samuel Friedman — married 13 Dec 1900 in Chicago, Cook, Illinois
+1 CONC , United States
+1 CONT Mother of Olin Edmunds Friedman and Samuel Arthur Friedman Jr.
+1 CONT Died [date unknown] [location unknown]
+1 CONT 
+1 CONT Edmunds-1195 created 25 Oct 2019 | Last modified 15 Mar 2021
+1 CONT 
+1 CONT Biography
+1 CONT Kate was born in Illinois in 1870. Her parents were born in New York.
+1 CONT 
+1 CONT Kate lived in Illinois.
+1 CONT 
+1 CONT 1870: Kate D Edmunds in entry for Arnold Edmunds, Kankakee, Kankakee, Il
+1 CONC linois, United States[1]
+1 CONT 1880: Kittie L. Edmunds in household of Arnold Edmunds, Gardner, Grundy
+1 CONC , Illinois, United States[2]
+1 CONT 1900: Kate L Edmunds boarding in household of William F Mclean, Maroa, M
+1 CONC acon, Illinois, United States[3]
+1 CONT 1900: Marriage of Samuel A. Friedman and Kate L. Edmunds, 13 Dec 1900, C
+1 CONC ook, Illinois.[4]
+1 CONT 1910: Kate L Friedman in household of Samuel A Friedman, Maroa, Macon, I
+1 CONC llinois, United States[5]
+1 CONT 1912: Widowed: Death of Samuel A Friedman.[6]
+1 CONT 1920: Kate Friedman with her sons in household of her aunt, Catherine Bu
+1 CONC ck, Pilot, Kankakee, Illinois, United States[7]
+1 CONT Kate lived in California.
+1 CONT 1930-1940: Kate Friedman, Los Angeles, Los Angeles, California, United S
+1 CONC tates[8][9]
+1 CONT 
+1 CONT Sources
+1 CONT ↑ United States Census, 1870
+1 CONT ↑ United States Census, 1880
+1 CONT ↑ United States Census, 1900
+1 CONT ↑ Illinois, Cook County Marriages, 1871-1920
+1 CONT ↑ United States Census, 1910
+1 CONT ↑ Find A Grave: Memorial #23904953
+1 CONT ↑ United States Census, 1920
+1 CONT ↑ United States Census, 1930
+1 CONT ↑ United States Census, 1940
+0 @N0028@ NOTE Samuel Friedman
+1 CONT Born 16 Feb 1864 in Illinois, United Statesmap
+1 CONT ANCESTORS ancestors
+1 CONT Son of Mayer Friedman and Mina (Eichberg) Friedman
+1 CONT Brother of Emanuel H Friedman, Paulina Friedman, Harriet Friedman, Rebec
+1 CONC ca Friedman and Belle (Friedman) Moser
+1 CONT Husband of Kate L (Edmunds) Friedman — married 13 Dec 1900 in Chicago, C
+1 CONC ook, Illinois, United Statesmap
+1 CONT Father of Olin Edmunds Friedman and Samuel Arthur Friedman Jr.
+1 CONT Died 5 Mar 1912 at age 48 [location unknown]
+1 CONT 
+1 CONT 
+1 CONT Biography
+1 CONT 
+1 CONT Samuel Friedman has German Roots.
+1 CONT Samuel was born in Illinois in 1864 during the US Civil War. He is the s
+1 CONC on of German immigrants, Meyer Friedman and Mina Eichberg.
+1 CONT 
+1 CONT Samuel lived in Illinois.
+1 CONT 
+1 CONT 1870-1880: Samuel Friedman in entry for Mayer Friedman, Maroa, Macon, Il
+1 CONC linois, United States[1][2]
+1 CONT The Great Chicago Fire burned on October 8-10, 1871. The fire killed app
+1 CONC roximately 300 people, destroyed roughly 3.3 square miles of the city, a
+1 CONC nd left more than 100,000 residents homeless. The fire began in a neighb
+1 CONC orhood southwest of the city center. A long period of hot, dry, windy co
+1 CONC nditions, and the wooden construction prevalent in the city led to a con
+1 CONC flagration. The fire leapt the south branch of the Chicago River and des
+1 CONC troyed much of central Chicago, and then leapt the main branch of the ri
+1 CONC ver consuming the near north side.
+1 CONT 1900: Samuel A Friedman boarding in household of Nelson A Crouch, Maroa
+1 CONC , Macon, Illinois, United States[3]
+1 CONT 1900: Marriage of Samuel A. Friedman and5 Mar 1912 Kate L. Edmunds, 13 D
+1 CONC ec 1900, Cook, Illinois.[4]
+1 CONT 1910: Samuel A Friedman, Maroa, Macon, Illinois, United States[5]
+1 CONT Samuel died in 1912.
+1 CONT 
+1 CONT Samuel A Friedman (16 Feb 1864–5 Mar 1912), Maroa Township Cemetery in M
+1 CONC aroa, Illinois.[6]
+1 CONT Sources
+1 CONT ↑ United States Census, 187
+1 CONT ↑ United States Census, 1880
+1 CONT ↑ United States Census, 1900
+1 CONT ↑ Illinois, Cook County Marriages, 1871-1920
+1 CONT ↑ United States Census, 1910
+1 CONT ↑ Find A Grave: Memorial #23904953
+0 @N0029@ NOTE Arthur Friedman, American educator.
+1 CONT 
+1 CONT Background
+1 CONT Friedman, Arthur was born on December 13, 1906 in Maroa, Illinois, Unite
+1 CONC d States. 
+1 CONT Son of Samuel Arthur and Catherine (Edmunds) Friedman.
+1 CONT 
+1 CONT Education
+1 CONT Bachelor of Arts, University of California at Los Angeles, 1928. 
+1 CONT Doctor of Philosophy, University Chicago, 1938.
+1 CONT 
+1 CONT Career
+1 CONT ; married second, Marchia Meeker, 1943 (division 1953). 
+1 CONT Children—Arthur Meeker, Margaret Lois. 
+1 CONT Married 3d, Ann B. Heekin, 1957.
+1 CONT 
+1 CONT Achievements
+1 CONT Arthur Friedman has been listed as a noteworthy educator. by Marquis Who
+1 CONC 's Who.
+1 CONT 
+1 CONT Membership
+1 CONT Member faculty University of Chicago, 1932-1981, successively research a
+1 CONC ssistant English, instructor humanities, instructor English, assistant p
+1 CONC rofessor, associate professor, 1932-1952, Professor of English, 1952-197
+1 CONC 1, distinguished service Professor of English, 1971-1975, professor emer
+1 CONC itus, 1975-1981, department chairman English, 1960-1963. Guggenheim fell
+1 CONC ow, 1957-1958. Member Modern Language Association, International Associa
+1 CONC tion University Professors English.
+1 CONT 
+1 CONT Clubs: Quadrangle (Chgo).
+1 CONT 
+1 CONT Connections
+1 CONT Married Natalie Pannes, 1936 (divorced 1941). Married second, Marchia Me
+1 CONC eker, 1943 (divorced 1953). Married 3d, Ann B. Heekin, 1957.
+1 CONT 
+1 CONT Children: Arthur Meeker, Margaret Lois.
+1 CONT 
+1 CONT Father:
+1 CONT Samuel Arthur Friedman
+1 CONT Mother:
+1 CONT Catherine (Edmunds) Friedman
+1 CONT Spouse:
+1 CONT Marchia Meeker
+1 CONT Spouse:
+1 CONT Natalie Pannes
+1 CONT Spouse:
+1 CONT Ann B. Heekin
+1 CONT child:
+1 CONT Margaret Lois Friedman
+1 CONT child:
+1 CONT Arthur Meeker Friedman
+0 @N0030@ NOTE 
+1 CONT Fannie was born in Russia, 1909. Immigrated to USA.
+1 CONT 
+1 CONT Fannie lived in Illinois.
+1 CONT 
+1 CONT 1928: Marriage of Olin Edmunds Freedman and Fannie Goldstein, 25 May 192
+1 CONC 8; Cook, Illinois, United States[1]
+1 CONT 1930: Fannie Freedman in household of Olin E Freedman, Chicago, Cook, Il
+1 CONC linois, United States[2]
+1 CONT Sources
+1 CONT ↑ Illinois, Cook County Marriages, 1871-1968
+1 CONT ↑ United States Census, 1930
+0 @N0031@ NOTE Olin was born in Illinois, 15 Mar 1904. He is the son of Samuel Fri
+1 CONC edman and Kate Edmunds. CONSULTANT.
+1 CONT 
+1 CONT Olin lived in Illinois.
+1 CONT 
+1 CONT 1910: Olin E Friedman in household of Samuel A Friedman, Maroa, Macon, I
+1 CONC llinois, United States[1]
+1 CONT 1912: Death of 8-year-old Olin's father, 5 Mar 1912, a week before Olin'
+1 CONC s 8th birthday[2]
+1 CONT 1920: Olin Friedman with his mother and brother in household of his grea
+1 CONC t-aunt, Catherine Buck, Pilot, Kankakee, Illinois, United States[3]
+1 CONT 1928: Marriage of Olin Edmunds Freedman and Fannie Goldstein, 25 May 192
+1 CONC 8; Cook, Illinois, United States[4]
+1 CONT 1930: Olin E Freedman, Chicago, Cook, Illinois, United States[5]
+1 CONT 1952: Marriage of Kathryn O Cannon in entry for Olin E Freedman, 27 Ju
+1 CONC n 1952; citing Cook, Illinois, United States.[6]
+1 CONT Death of Olin E Freedman, 09 Aug 1986; citing Chicago, Cook, Illinois, U
+1 CONC nited States.[7][8]
+1 CONT 
+1 CONT Phoenix Crematory in Lombard, Illinois.[7]
+1 CONT 
+1 CONT Sources
+1 CONT ↑ United States Census, 1910
+1 CONT ↑ Find A Grave: Memorial #23904953
+1 CONT ↑ United States Census, 1920
+1 CONT ↑ Illinois, Cook County Marriages, 1871-1968
+1 CONT ↑ United States Census, 1930
+1 CONT ↑ Illinois, Cook County Marriages, 1871-1920
+1 CONT ↑ 7.0 7.1 Illinois, Cook County Deaths, 1878-1994
+1 CONT ↑ United States Social Security Death Index
+0 @N0032@ NOTE Mayer Friedman
+1 CONT Born before 1818 in Germany
+1 CONT Son of [father unknown] and [mother unknown]
+1 CONT [sibling(s) unknown]
+1 CONT Husband of Mina (Eichberg) Friedman — married [date unknown] [location u
+1 CONC nknown]
+1 CONT DESCENDANTS descendants
+1 CONT Father of Emanuel H Friedman, Paulina Friedman, Harriet Friedman, Rebecc
+1 CONC a Friedman, Belle (Friedman) Moser and Samuel Friedman
+1 CONT Died 17 Mar 1897 at about age (79 - 82) in Maroa, Macon, Illinois, Unite
+1 CONC d States
+1 CONT 
+1 CONT Biography
+1 CONT 
+1 CONT Mayer Friedman has German Roots.
+1 CONT Mayer was born in Germany, by 1818. Immigrated to USA. DRY GOODS MERCHAN
+1 CONC T.
+1 CONT 
+1 CONT Mayer lived in Illinois.
+1 CONT 
+1 CONT 1860-1880: M Friedman, Maroa, Macon, Illinois, United States.[1][2][3]
+1 CONT Death of Mayer Friedman, 1897, Illinois.[4]
+1 CONT 
+1 CONT Sources
+1 CONT ↑ United States Census, 1860
+1 CONT ↑ United States Census, 1870
+1 CONT ↑ United States Census, 1880
+1 CONT ↑ Illinois Deaths and Burials, 1749-1999
+1 CONT 
+0 @N0033@ NOTE Mina (Minnie) Friedman formerly Eichberg
+1 CONT Born 17 Jun 1827 in Württemberg, Germanymap
+1 CONT ANCESTORS ancestors
+1 CONT Daughter of Jonas Samuel Eichberg and Rachael (Lowenthal) Eichberg
+1 CONT Sister of Loew Eichberg, Samuel Eichberg and Rebecca (Eichberg) Steiner
+1 CONT Wife of Mayer Friedman — married [date unknown] [location unknown]
+1 CONT DESCENDANTS descendants
+1 CONT Mother of Emanuel H Friedman, Paulina Friedman, Harriet Friedman, Rebecc
+1 CONC a Friedman, Belle (Friedman) Moser and Samuel Friedman
+1 CONT Died 21 Feb 1911 at age 83 in Chicago, Cook, Illinois, United States
+1 CONT 
+1 CONT Biography
+1 CONT 
+1 CONT Minnie (Eichberg) Friedman has German Roots.
+1 CONT Mina was born in Germany in 1827. She was the daughter of Janas Eichber
+1 CONC g and Rachael Lowenthal. Immigrated to USA in 1851.[1]
+1 CONT 
+1 CONT Lived in Illinois 1860-1900.[2][3][4][1]
+1 CONT 
+1 CONT Married Mayer Friedman.[5]
+1 CONT Widowed in 1897.[6]
+1 CONT She passed away in Illinois in 1911.[7]
+1 CONT 
+1 CONT Sources
+1 CONT ↑ 1.0 1.1 United States Census, 1900," database with images, FamilySearc
+1 CONC h (https://familysearch.org/ark:/61903/1:1:MSSG-KQW : accessed 25 Octobe
+1 CONC r 2019), Minnie Freidman in household of Wm Moser, Precinct 15 South Tow
+1 CONC n Chicago city Ward 4, Cook, Illinois, United States; citing enumeratio
+1 CONC n district (ED) 94, sheet 6B, family 96, NARA microfilm publication T62
+1 CONC 3 (Washington, D.C.: National Archives and Records Administration, 1972.
+1 CONC ); FHL microfilm 1,240,248. 3 OF 6 CHILDREN ARE LIVING. WIDOWED, LIVIN
+1 CONC G WITH DAUGHTER AND SON-IN-LAW.
+1 CONT ↑ United States Census, 1860", database with images, FamilySearch (https
+1 CONC ://familysearch.org/ark:/61903/1:1:MX4D-7HB : 18 March 2020), Mena Fried
+1 CONC man in entry for M Friedman, 1860. Macon, Illinois, United States
+1 CONT ↑ United States Census, 1870", database with images, FamilySearch (https
+1 CONC ://familysearch.org/ark:/61903/1:1:M6H7-1TV : 11 June 2019), Mina Friedm
+1 CONC an in entry for Mayer Friedman, 1870. Maroa, Macon, Illinois, United Sta
+1 CONC tes
+1 CONT ↑ United States Census, 1880," database with images, FamilySearch (https
+1 CONC ://familysearch.org/ark:/61903/1:1:MXVN-RCX : 19 August 2017), Minnie Fr
+1 CONC iedman in household of Mayer Friedman, Maroa, Macon, Illinois, United St
+1 CONC ates; citing enumeration district ED 157, sheet 506C, NARA microfilm pub
+1 CONC lication T9 (Washington, D.C.: National Archives and Records Administrat
+1 CONC ion, n.d.), FHL microfilm 1,254,229.
+1 CONT ↑ ??? Ohio Marriages, 1800-1958," database, FamilySearch (https://family
+1 CONC search.org/ark:/61903/1:1:XDNT-824 : 10 February 2018), Mayer Friedman a
+1 CONC nd Minah Eichberg, 13 Mar 1853; citing Hamilton County, Ohio, referenc
+1 CONC e ; FHL microfilm 0344466 V. B 3-4.  ???
+1 CONT ↑ Illinois Deaths and Burials, 1749-1999", database, FamilySearch (https
+1 CONC ://familysearch.org/ark:/61903/1:1:HP9V-RCT2 : 14 February 2020), Maye
+1 CONC r Friedman, 1897.
+1 CONT ↑ Illinois, Cook County Deaths, 1878-1994," database, FamilySearch (http
+1 CONC s://familysearch.org/ark:/61903/1:1:Q237-JM62 : 8 March 2018), Mina Frie
+1 CONC dman, 21 Feb 1911; citing Chicago, Cook, Illinois, United States, sourc
+1 CONC e reference 5195, record number , Cook County Courthouse, Chicago; FHL m
+1 CONC icrofilm 1,239,885.
+0 @N0034@ NOTE ▶Mayer Friedman Inherited portions of the X chromosome from the pri
+1 CONC mary personInherited a Y chromosome from the primary person 📝 
+1 CONT abt. 1818
+1 CONT Germany map
+1 CONT 1897-03-17
+1 CONT Maroa, Macon, Illinois, United States map
+1 CONT m. Mina (Eichberg) Friedman (1827 - 1911) ↔️
+1 CONT Emanuel H Friedman Inherited a Y chromosome from the primary person 📝 
+1 CONT 1854
+1 CONT Illinois, United States map
+1 CONT 1910-03-23
+1 CONT m. Mayine (Schadle) Friedman (1875 - ) in Belle Plaine, Benton, Iowa, Un
+1 CONC ited States ↔️
+1 CONT 
+1 CONT Paulina Friedman Inherited portions of the X chromosome from the primar
+1 CONC y person 📝 
+1 CONT 1856
+1 CONT Illinois, United States map
+1 CONT 
+1 CONT Harriet Friedman Inherited portions of the X chromosome from the primar
+1 CONC y person 📝 
+1 CONT 1858
+1 CONT Illinois, United States map
+1 CONT 
+1 CONT Rebecca Friedman Inherited portions of the X chromosome from the primar
+1 CONC y person 📝 
+1 CONT 1860
+1 CONT Illinois, United States map
+1 CONT 
+1 CONT ▶Belle (Friedman) Moser Inherited portions of the X chromosome from th
+1 CONC e primary person 📝 
+1 CONT 1861-03-31
+1 CONT Maroa, Macon, Illinois, United States map
+1 CONT 1941-07-30
+1 CONT Chicago, Cook, Illinois, United States map
+1 CONT 1883-12-04
+1 CONT m. William Moser (1850 - 1906) in Chicago, Cook, Illinois, United State
+1 CONC s ↔️
+1 CONT Joseph A Moser Inherited portions of the X chromosome from the primary p
+1 CONC erson 📝 
+1 CONT 1885-01-25
+1 CONT Champaign, Illinois, United States map
+1 CONT 1936-07-01
+1 CONT Chicago, Cook, Illinois, United States map
+1 CONT 
+1 CONT Paul Moser Inherited portions of the X chromosome from the primary perso
+1 CONC n 📝 
+1 CONT 1887-06-05
+1 CONT Maroa, Macon, Illinois, United States map
+1 CONT 1958-06-17
+1 CONT Chicago, Cook, Illinois, United States map
+1 CONT 1919-11-01
+1 CONT m. Mary (Knoedler) Moser (1895 - ) in Chicago, Cook, Illinois, United St
+1 CONC ates ↔️
+1 CONT 
+1 CONT Ralph Moser Inherited portions of the X chromosome from the primary pers
+1 CONC on 📝 
+1 CONT 1890-01
+1 CONT Illinois, United States map
+1 CONT 
+1 CONT Arthur Moser Inherited portions of the X chromosome from the primary per
+1 CONC son 📝 
+1 CONT 1894-06
+1 CONT Illinois, United States map
+1 CONT 
+1 CONT 
+1 CONT ▶Samuel Friedman Inherited a Y chromosome from the primary person 📝 
+1 CONT 1864-02-16
+1 CONT Illinois, United States map
+1 CONT 1912-03-05
+1 CONT 1900-12-13
+1 CONT m. Kate L (Edmunds) Friedman (1870 - ) in Chicago, Cook, Illinois, Unite
+1 CONC d States ↔️
+1 CONT Olin Edmunds Friedman Inherited a Y chromosome from the primary perso
+1 CONC n 📝 
+1 CONT 1904-03-15
+1 CONT Illinois, United States map
+1 CONT 1986-08-09
+1 CONT Chicago, Cook, Illinois, United States map
+1 CONT m. Fannie (Goldstein) Friedman (1909 - ) ↔️
+1 CONT 1952-06-27
+1 CONT m. Kathryn Helen (Cannon) Friedman (1909 - 1991) in Cook, Illinois, Unit
+1 CONC ed States ↔️
+1 CONT 
+1 CONT Samuel Arthur Friedman Jr. Inherited a Y chromosome from the primary per
+1 CONC son 📝 
+1 CONT 1907
+1 CONT Illinois, United States map
+1 CONT 
+0 @N0035@ NOTE Susumu Naoye was born on May 9, 1919 in Fresno County, California.
+1 CONT His father's last name is Naoye, and his mother's maiden name is Moziyu
+1 CONC . (Spelled Moju on marriage certificate though)
+1 CONT 
+1 CONT Name	Susumu Naoye
+1 CONT Sex	male
+1 CONT Birthdate	05/09/1919
+1 CONT Birthplace	Fresno County, California
+1 CONT Mother's Maiden Name	Moziyu
+1 CONT 
+1 CONT Find a Grave, database and images (https://www.findagrave.com/memorial/2
+1 CONC 45922582/susumu-naoye: accessed 27 August 2023), memorial page for Susum
+1 CONC u Naoye (1919–2000), Find a Grave Memorial ID 245922582, citing Woodlaw
+1 CONC n Cemetery, Santa Monica, Los Angeles County, California, USA; Maintaine
+1 CONC d by pboren (contributor 47316184).
+1 CONT 
+1 CONT 
+1 CONT ==
+1 CONT 
+1 CONT BIRTH
+1 CONT 1919
+1 CONT DEATH
+1 CONT 2000 (aged 80–81)
+1 CONT BURIAL
+1 CONT Woodlawn Cemetery
+1 CONT Santa Monica, Los Angeles County, California, USA
+1 CONT GPS-Latitude: 34.0181417, Longitude: -118.4784083
+1 CONT PLOT
+1 CONT Sec. 19
+1 CONT MEMORIAL ID
+1 CONT 245922582 
+0 @N0036@ NOTE Mary Naoye was born on February 7, 1921 in Fresno County, Californi
+1 CONC a.
+1 CONT Her father's last name is Naoye, and her mother's maiden name is Yoshida
+1 CONC .
+1 CONT 
+1 CONT Name	Mary Naoye
+1 CONT Sex	female
+1 CONT Birthdate	02/07/1921
+1 CONT Birthplace	Fresno County, California
+1 CONT Mother's Maiden Name	Yoshida
+0 @N0037@ NOTE Kimiye Fujimoto was born on June 6, 1926 in Tulare County, Californ
+1 CONC ia.
+1 CONT Her father's last name is Fujimoto, and her mother's maiden name is Mats
+1 CONC umoto.
+1 CONT 
+1 CONT Name	Kimiye Fujimoto
+1 CONT Sex	female
+1 CONT Birthdate	06/06/1926
+1 CONT Birthplace	Tulare County, California
+1 CONT Mother's Maiden Name	Matsumoto
+1 CONT 
+1 CONT ====
+1 CONT 
+1 CONT WW2 Relocation Camp Detaills for Poston, AZ
+1 CONT https://en.wikipedia.org/wiki/Poston_War_Relocation_Center
+1 CONT 
+1 CONT Fujimoto, Kimiye
+1 CONT  
+1 CONT Data source	FAR Poston
+1 CONT Names ID	2-poston_fujimoto_1926_kimiye
+1 CONT Camp	Poston
+1 CONT Last Name	Fujimoto
+1 CONT First Name	Kimiye
+1 CONT Birth Year	1926
+1 CONT Gender	Female
+1 CONT Home State	CA
+1 CONT WRA Family No.	41464
+1 CONT WRA Individual No.	41464D
+1 CONT Marital Status	Single
+1 CONT Citizenship Status	C
+1 CONT Entry Type	DE
+1 CONT Entry Date	1942-08-05T00:00:00
+1 CONT Home City	Orosi
+1 CONT Departure Type	Term W/G
+1 CONT Departure Date	1945-09-11T00:00:00
+1 CONT Destination City	Bridgeton
+1 CONT Destination State	NJ
+1 CONT Camp Address	3-309-10-A
+1 CONT FAR Line No.	1246
+1 CONT Family Members WRA Family No. 41464
+1 CONT Facility	Birthyear	Home State	Family No.	Individual No.	Dataset
+1 CONT FUJIMOTO, KAZUMI (F)	Poston	1922	California	41464	41464A	WRA Form 26
+1 CONT FUJIMOTO, KIMIYE (F)	Poston	1926	California	41464	41464	WRA Form 26
+1 CONT FUJIMOTO, MARY (F)	Poston	1931	California	41464	41464	WRA Form 26
+1 CONT FUJIMOTO, MITSUYE (F)	Poston	1896	California	41464	41464C	WRA Form 26
+1 CONT FUJIMOTO, SANZO (M)	Poston	1880	California	41464	41464B	WRA Form 26
+1 CONT FUJIMOTO, SUSUMU (M)	Poston	1937	California	41464	41464G	WRA Form 26
+1 CONT FUJIMOTO, TOSHIYE (F)	Poston	1929	California	41464	41464E	WRA Form 26
+1 CONT Fujimoto, Sanzo (M)	Poston	1880		41464	41464B	FAR Ancestry
+1 CONT Fujimoto, Kazumi (F)	Poston	1922		41464	41464A	FAR Ancestry
+1 CONT Fujimoto, Kimiye (F)	Poston	1926		41464	41464	FAR Ancestry
+1 CONT Fujimoto, Mary (F)	Poston	1931		41464	41464	FAR Ancestry
+1 CONT Fujimoto, Susumu (F)	Poston	1937		41464	41464G	FAR Ancestry
+1 CONT Fujimoto, Sanzo (M)	Poston	1880	California	41464	41464B	FAR Poston
+1 CONT Fujimoto, Mitsuye (F)	Poston	1896	California	41464	41464C	FAR Poston
+1 CONT Fujimoto, Kazumi (M)	Poston	1922	California	41464	41464A	FAR Poston
+1 CONT Fujimoto, Toshiye (F)	Poston	1929	California	41464	41464E	FAR Poston
+1 CONT Fujimoto, Mary (F)	Poston	1931	California	41464	41464F	FAR Poston
+1 CONT Fujimoto, Susumu (M)	Poston	1937	California	41464	41464G	FAR Poston
+1 CONT 
+1 CONT ===
+1 CONT https://ddr.densho.org/names/wra-master:2-poston_fujimoto_1926_kimiye
+0 @N0038@ NOTE 	Name	Sex	Age	Birth Year (Estimated)	Birthplace	Marital Status	Rac
+1 CONC e	Ethnicity	Relationship to Head of Household	Father's Birthplace	Mother
+1 CONC 's Birthplace	Sheet Letter	Sheet Number
+1 CONT  	
+1 CONT  	William M Feild	Male	47	1863	Pennsylvania	Married	White	American	Hea
+1 CONC d	Ireland	Pennsylvania	B	15
+1 CONT  	Martha Feild	Female	44	1866	Pennsylvania	Married	White	American	Wife	N
+1 CONC ew York	New York	B	15
+1 CONT  	Louis Feild	Female	16	1894	Pennsylvania	Single	White	American	Daughte
+1 CONC r	Pennsylvania	Pennsylvania	B	15
+1 CONT  	Minnie Brennen	Female	26	1884	Ireland	Single	White	American	Servant	Ir
+1 CONC eland	Ireland	B	15
+1 CONT  	Bessie Brennen	Female	23	1887	Ireland	Single	White	American	Servant	Ir
+1 CONC eland	Ireland	B	15
+1 CONT  	Mary Hughes	Female	50	1860	Ireland	Single	White	American	Servant	Irela
+1 CONC nd	Ireland	B	15
+1 CONT  	James Duffy	Male	30	1880	Ireland	Single	White	American	Servant	Irelan
+1 CONC d	Ireland	B	15
+1 CONT  	
+1 CONT Servants immigrated to US in 1900, 1906, 1890, 1900 (Minnie, Bessie, Mar
+1 CONC y, James). 	
+1 CONT 
+1 CONT "United States Census, 1910," database with images, FamilySearch (https:
+1 CONC //familysearch.org/ark:/61903/3:1:33S7-9RKW-SZ7?cc=1727033&wc=QZZ4-YY2%3
+1 CONC A133638001%2C139479801%2C143028001%2C1589089204 : 24 June 2017), Pennsyl
+1 CONC vania > Montgomery > Lower Merion > ED 99 > image 30 of 56; citing NAR
+1 CONC A microfilm publication T624 (Washington, D.C.: National Archives and Re
+1 CONC cords Administration, n.d.).
+0 @N0337@ NOTE Naoye, Susumu - WW2 relocation camp details:
+1 CONT 
+1 CONT The Rohwer War Relocation Center was a World War II Japanese American co
+1 CONC ncentration camp located in rural southeastern Arkansas, in Desha County
+1 CONC . It was in operation from September 18, 1942, until November 30, 1945
+1 CONC , and held as many as 8,475 Japanese Americans forcibly evacuated from C
+1 CONC alifornia. This is the location that George Takei (Actor from Star Trek
+1 CONC ) had been sent with his family, but they refused to take an oath and se
+1 CONC nt to Tule Lake consequently. 
+1 CONT  
+1 CONT Data source	FAR Ancestry
+1 CONT Names ID	9-rohwer_naoye_1919_susumu
+1 CONT Camp	Rohwer
+1 CONT Last Name	Naoye
+1 CONT First Name	Susumu
+1 CONT Birth Year	1919
+1 CONT Gender	Male
+1 CONT WRA Family No.	2527
+1 CONT WRA Individual No.	02527A
+1 CONT Alternate Family ID	114412
+1 CONT Alternate Individual ID	132130
+1 CONT Entry Date	1942-10-01T00:00:00
+1 CONT Departure Date	1943-10-07T00:00:00
+1 CONT Family Members WRA Family No. 2527
+1 CONT Facility	Birthyear	Home State	Family No.	Individual No.	Dataset
+1 CONT IKEDA, ISAMU (M)	Rohwer	1942	California	2527	02527C	WRA Form 26
+1 CONT IKEDA, MARY (F)	Rohwer	1921	California	2527	02527B	WRA Form 26
+1 CONT IKEDA, TAKEO (M)	Rohwer	1907	California	2527	02527A	WRA Form 26
+1 CONT NAOYE, SUSUMU (M)	Rohwer	1919	California	2527	02527A	WRA Form 26
+1 CONT Ikeda, Isamu (M)	Rohwer	1942		2527	02527C	FAR Ancestry
+1 CONT Ikeda, Mary (F)	Rohwer	1921		2527	02527B	FAR Ancestry
+1 CONT Ikeda, Takeo (M)	Rohwer	1907		2527	02527A	FAR Ancestry
+0 @N0338@ NOTE Sanzo Fujimoto
+1 CONT BIRTH
+1 CONT 1 Jun 1880
+1 CONT Japan
+1 CONT DEATH
+1 CONT 26 Sep 1965 (aged 85)
+1 CONT Santa Clara County, California, USA
+1 CONT BURIAL
+1 CONT Gavilan Hills Memorial Park
+1 CONT Gilroy, Santa Clara County, California, USA 
+1 CONT MEMORIAL ID
+1 CONT 26141202
+1 CONT 
+1 CONT Find a Grave, database and images (https://www.findagrave.com/memorial/2
+1 CONC 6141202/sanzo-fujimoto: accessed 9 September 2023), memorial page for Sa
+1 CONC nzo Fujimoto (1 Jun 1880–26 Sep 1965), Find a Grave Memorial ID 26141202
+1 CONC , citing Gavilan Hills Memorial Park, Gilroy, Santa Clara County, Califo
+1 CONC rnia, USA; Maintained by Candice xo (contributor 13003043).
+0 @N0339@ NOTE Mary Naoye was born on February 7, 1921 in Fresno County, Californi
+1 CONC a.
+1 CONT Her father's last name is Naoye, and her mother's maiden name is Yoshida
+1 CONC .
+1 CONT Name	Mary Naoye
+1 CONT Sex	female
+1 CONT Birthdate	02/07/1921
+1 CONT Birthplace	Fresno County, California
+1 CONT Mother's Maiden Name	Yoshida
+1 CONT 
+1 CONT Mary Ikeda
+1 CONT February 7, 1921 - May 20, 2019
+1 CONT MRS. MARY IKEDA, 98, Fresno, CA born Nisei, resident of Los Angeles, pas
+1 CONC sed away peacefully on May 20, 2019.
+1 CONT 
+1 CONT She is survived by her loving family: son, Isamu Ikeda; daughter Keiko I
+1 CONC keda; sister-in-law Kimiye Naoye; sister, Meyo Naoe; and many relatives.
+1 CONT 
+1 CONT Private family funeral services were held on Tuesday, June 11, at Inglew
+1 CONC ood Park Cemetery “Chapel of Chimes” with Rev. Richard Furukawa of Johre
+1 CONC i Fellowship officiating.
+1 CONT 
+1 CONT The family requests in lieu of koden, please make donations to your favo
+1 CONC rite charitable organization.
+1 CONT 
+1 CONT SERVICES
+1 CONT Funeral Service
+1 CONT Tuesday, June 11, 2019
+1 CONT 12:00 PM
+1 CONT 
+1 CONT Inglewood Park Cemetery
+1 CONT 720 E. Florence Ave.
+1 CONT Inglewood, CA
+0 @N0340@ NOTE 
+1 CONT Ikeda, Takeo
+1 CONT  
+1 CONT Data source	FAR Ancestry
+1 CONT Names ID	9-rohwer_ikeda_1907_takeo
+1 CONT Camp	Rohwer
+1 CONT Last Name	Ikeda
+1 CONT First Name	Takeo
+1 CONT Birth Year	1907
+1 CONT Gender	Male
+1 CONT WRA Family No.	2527
+1 CONT WRA Individual No.	02527A
+1 CONT Alternate Family ID	110362
+1 CONT Alternate Individual ID	123259
+1 CONT Entry Date	1942-10-01T00:00:00
+1 CONT Departure Date	1945-11-14T00:00:00
+1 CONT Family Members WRA Family No. 2527
+1 CONT Facility	Birthyear	Home State	Family No.	Individual No.	Dataset
+1 CONT IKEDA, ISAMU (M)	Rohwer	1942	California	2527	02527C	WRA Form 26
+1 CONT IKEDA, MARY (F)	Rohwer	1921	California	2527	02527B	WRA Form 26
+1 CONT IKEDA, TAKEO (M)	Rohwer	1907	California	2527	02527A	WRA Form 26
+1 CONT NAOYE, SUSUMU (M)	
+1 CONT 
+1 CONT Rohwer	1919	California	2527	02527A	WRA Form 26
+1 CONT Ikeda, Isamu (M)	Rohwer	1942		2527	02527C	FAR Ancestry
+1 CONT Ikeda, Mary (F)	Rohwer	1921		2527	02527B	FAR Ancestry
+1 CONT Naoye, Susumu (M)	Rohwer	1919		2527	02527A	FAR Ancestry 
+1 CONT 
+1 CONT 
+1 CONT © DENSHO, 2023. TERMS OF USE/YOUR DATA AND PRIVACY/TAKEDOWN POLICYBACK T
+1 CONC O TOP 
+1 CONT The text of this page is licensed under a Creative Commons Attribution-N
+1 CONC onCommercial-ShareAlike 4.0 International License. Where indicated, imag
+1 CONC es and other primary source materials may be subject to use restriction
+1 CONC s by their respective rights holders. More information
+1 CONT 
+1 CONT Creative Commons License
+0 @N0341@ NOTE ACKERMAN, William K., Railway President and financier, was born i
+1 CONC n New York City, Jan. 29, 1832, of Knickerbocker and Revolutionary ances
+1 CONC try, his grandfather, Abraham D. Ackerman, having served as Captain o
+1 CONC f a company of the famous “Jersey Blues,” participating with “Mad” Antho
+1 CONC ny Wayne in the storming of Stony Point during the Revolutionary War, wh
+1 CONC ile his father served as Lieutenant of Artillery in the War of 1812. Aft
+1 CONC er receiving a high school education in New York, Mr. Ackerman engaged i
+1 CONC n mercantile business, but in 1852 became a clerk in the financial depar
+1 CONC tment of the Illinois Central Railroad. Coming to Chicago in the servic
+1 CONC e of the Company in 1860, he successively filled the positions of Secret
+1 CONC ary, Auditor and Treasurer, until July, 1876, when he was elected Vice-P
+1 CONC resident and a year later promoted to the Presidency, voluntarily retiri
+1 CONC ng from this position in August, 1883, though serving some time longer i
+1 CONC n the capacity of Vice-President. During the progress of the World’s Col
+1 CONC umbian Exposition at Chicago (1892-93) Mr. Ackerman served as Auditor o
+1 CONC f the Exposition, and was City Comptroller of Chicago under the administ
+1 CONC ration of Mayor Hopkins (1893-95). He was an active member of the Chicag
+1 CONC o Historical Society, and rendered valuable service to railroad histor
+1 CONC y by the issue of two brochures on the “Early History of Illinois Railro
+1 CONC ads,” and a “Historical Sketch of the Illinois Central Railroad.” Died F
+1 CONC eb. 7, 1905.
+1 CONT 
+1 CONT Find a Grave, database and images (https://www.findagrave.com/memorial/1
+1 CONC 38372407/william-kelly-ackerman: accessed 10 September 2023), memorial p
+1 CONC age for William Kelly Ackerman (29 Jan 1832–7 Jan 1905), Find a Grave Me
+1 CONC morial ID 138372407, citing Graceland Cemetery, Chicago, Cook County, Il
+1 CONC linois, USA; Maintained by R Lerch (contributor 47507564).
+0 @N0342@ NOTE Margaret Louise Meeker Forgan
+1 CONT BIRTH
+1 CONT 19 Feb 1892
+1 CONT Chicago, Cook County, Illinois, USA
+1 CONT DEATH
+1 CONT 21 Jul 1988 (aged 96)
+1 CONT Lake Forest, Lake County, Illinois, USA
+1 CONT BURIAL
+1 CONT Pleasant Valley Cemetery
+1 CONT Underhill, Chittenden County, Vermont, USA 
+1 CONT MEMORIAL ID
+1 CONT 157802512
+1 CONT 
+1 CONT 
+1 CONT Information from Illinois Marriage records, U.S. Passport application an
+1 CONC d census records:
+1 CONT 
+1 CONT 
+1 CONT Ancestry.com. Cook County, Illinois Marriage Indexes, 1912-1942 [databas
+1 CONC e on-line]:
+1 CONT Margaret L. Meeker married James B. Forgan on January 24, 1914
+1 CONT 
+1 CONT In 1930 Margaret & her husband are living in Lake Forest, IL with 2 daug
+1 CONC hters (Mary, Margaret)
+1 CONT 
+1 CONT ~~~~~~~~~~~
+1 CONT Additional links and information provided by Find A Grave member Ash Mon
+1 CONC tagu (#46804013)
+1 CONT 
+1 CONT ~~~~~~~~~~~
+1 CONT Information from her obituary found on Pg. 8, Section 2 of the "Chicag
+1 CONC o Tribune".
+1 CONT 
+1 CONT She was a longtime resident of Lake Forest Il. and was active in that co
+1 CONC mmunity as well as the city of Chicago.
+1 CONT 
+1 CONT Not only did she enjoy her social life in Lake Forest and Chicago, she a
+1 CONC lso enjoyed her home in Vermont. Even at the age of 60 she could be foun
+1 CONC d enjoying hiking, skiing and swimming with her grandchildren
+1 CONT 
+1 CONT At the time of her death she was survived by one daughter, 8 grandchildr
+1 CONC en and 10 great grandchildren
+1 CONT 
+1 CONT Her funeral was at Church of the Holy Spirit (Episcopal) in Lake Forest
+0 @N0347@ NOTE Possibly born at Concentration Camp as no California record of birt
+1 CONC h was found.
+0 @N0368@ NOTE https://www.wikitree.com/wiki/Eichberg-22
+0 @N0369@ NOTE Jonas Eichberg
+1 CONT BIRTH
+1 CONT 20 Jul 1787
+1 CONT Bad Mergentheim, Main-Tauber-Kreis, Baden-Württemberg, Germany
+1 CONT DEATH
+1 CONT 26 Feb 1875 (aged 87)
+1 CONT Stuttgart, Stadtkreis Stuttgart, Baden-Württemberg, Germany
+1 CONT BURIAL
+1 CONT Stuttgart Pragfriedhof Jewish Cemetery Section
+1 CONT Stuttgart-Nord, Stadtkreis Stuttgart, Baden-Württemberg, Germany 
+1 CONT PLOT
+1 CONT 293
+1 CONT MEMORIAL ID
+1 CONT 111555892 
+1 CONT 
+1 CONT Born in Bad Mergentheim
+1 CONT Father: Samuel Jonas Eichberg (1753-1831)
+1 CONT Mother: Berle Loew (born 1765 in Affaltrach)
+1 CONT Note: Date of birth in Bad Mergentheim Familienbuch is 29 June 1786
+1 CONT 
+1 CONT Marriage: 18 April 1818
+1 CONT Wife: Rachel Loew (born 1795 in Crailsheim)
+1 CONT 
+1 CONT Children:
+1 CONT Loew (1819)
+1 CONT Jette (1820)
+1 CONT Salomon (1825)
+1 CONT Mina (1827)
+1 CONT David (1830)
+1 CONT Samuel (1832)
+1 CONT Rika (1836)
+1 CONT Max (1840)
+0 @N0370@ NOTE Find a Grave, database and images (https://www.findagrave.com/memor
+1 CONC ial/151662275/mayer-friedman: accessed 17 December 2023), memorial pag
+1 CONC e for Mayer Friedman (1815–1897), Find a Grave Memorial ID 151662275, ci
+1 CONC ting Zion Gardens, Inc., Chicago, Cook County, Illinois, USA; Maintaine
+1 CONC d by Jim Craig (contributor 46551563).
+0 @N0397@ NOTE Hitsu Naoe
+1 CONT 
+1 CONT BIRTH
+1 CONT 20 Jan 1903
+1 CONT Kumamoto, Kumamoto-shi, Kumamoto, Japan
+1 CONT 
+1 CONT DEATH
+1 CONT May 1977 (aged 74)
+1 CONT Fukuoka, Fukuoka-shi, Fukuoka, Japan
+1 CONT 
+1 CONT BURIAL
+1 CONT Woodlawn Cemetery
+1 CONT Santa Monica, Los Angeles County, California, USA
+1 CONT 
+1 CONT MEMORIAL ID
+1 CONT 172559460 
+1 CONT 
+1 CONT Find a Grave, database and images (https://www.findagrave.com/memorial/1
+1 CONC 72559460/hitsu-naoe: accessed July 12, 2024), memorial page for Hitsu Na
+1 CONC oe (20 Jan 1903–May 1977), Find a Grave Memorial ID 172559460, citing Wo
+1 CONC odlawn Cemetery, Santa Monica, Los Angeles County, California, USA; Main
+1 CONC tained by Romper90069 (contributor 1277).
+0 TRLR
