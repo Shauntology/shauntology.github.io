@@ -1,33 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" >
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fullscreen Video Background</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            overflow: hidden;
-        }
-        #background-video {
-            position: fixed;
-            right: 0;
-            bottom: 0;
-            min-width: 100%;
-            min-height: 100%;
-            width: auto;
-            height: auto;
-            z-index: -1000;
-            object-fit: cover;
-        }
-    </style>
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
+  <title>Who Is James Friedman?</title>
+  <link rel="stylesheet" type="text/css" href="./styleOrigins.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 </head>
 <body>
-    <video id="background-video" autoplay loop playsinline>
-        <source src="/Friedman.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+
+<div id="title" class="slide header"><div class="pads">
+  <h5>I'm so f*cked up...</h5>
+</div></div>
+
+<div id="slide" class="slide">
+    <video autoPlay loop playsInline>
+        <source src="./Friedman.mp4" type="video/mp4">
+        Your browser does not support the video tag of everyone on Earth dying from the deluge.
     </video>
+</div>
+
 </body>
 </html>
