@@ -1,23 +1,76 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
-  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
-  <title>Who Is James Friedman?</title>
-  <link rel="stylesheet" type="text/css" href="./styleOrigins.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fullscreen Video Background with Audio Control</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #background-video {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100vh;
+            width:100%;
+            height:100%;
+            z-index: -1000;
+            object-fit: cover;
+        }
+        #audio-control {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #site-link {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 1000;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        #site-link:hover {
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+    </style>
 </head>
 <body>
-
-<div id="title" class="slide header"><div class="pads">
-  <h5>I'm so f*cked up...</h5>
-</div></div>
-
-<div id="slide" class="slide">
-    <video autoPlay loop playsInline>
+    <video id="background-video" autoplay loop muted playsinline>
         <source src="./Friedman.mp4" type="video/mp4">
-        Your browser does not support the video tag of everyone on Earth dying from the deluge.
+        Your browser does not support the video tag.
     </video>
-</div>
+    <button id="audio-control">Unmute</button>
+    <a id="site-link" href="https://pewu.github.io/topola-viewer/#/view?c=g&handleCors=false&embedded=true&i=h&indi=I0059&s=h&url=https%3A%2F%2Fshauntology.github.io%2FFriedman2024.ged" target="_blank">Who am I?</a>
 
+    <script>
+        const video = document.getElementById('background-video');
+        const audioControl = document.getElementById('audio-control');
+
+        audioControl.addEventListener('click', function() {
+            if (video.muted) {
+                video.muted = false;
+                audioControl.textContent = 'Mute';
+            } else {
+                video.muted = true;
+                audioControl.textContent = 'Unmute';
+            }
+        });
+    </script>
 </body>
 </html>
