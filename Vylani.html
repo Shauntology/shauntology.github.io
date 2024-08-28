@@ -9,28 +9,10 @@
 body, html {
   height: 100%;
   margin: 0;
+  background-color: rebeccapurple;
   font-family: Tahoma, Arial, Helvetica, sans-serif;
 }
 
-a:link {
-  text-decoration: none;
-  color: white;
-}
-
-a:visited {
-  text-decoration: none;
-  color: white;
-}
-
-a:hover {
-  text-decoration: none;
-  color: ghostwhite;
-}
-
-a:active {
-  text-decoration: none;
-  color: ghostwhite;
-}
 
 .hero-image {
   /* Used "linear-gradient" to add a darken background effect to the image (VylaniMemorial.jpeg) so the text is easier to read */
@@ -62,8 +44,28 @@ div.gallery {
 }
 
 div.gallery:hover {
-  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.2), 0 4px 12px 0 rgba(0,0,0,0.19);
-  margin: 6px;
+  box-shadow: 0 4px 6px 0 rgba(0,0,0,0.32), 0 4px 12px 0 rgba(0,0,0,0.31);
+  margin: 16px;
+}
+
+div.gallery a:link {
+  text-decoration: none;
+  color: black
+}
+
+div.gallery a:visited {
+  text-decoration: none;
+  color: black
+}
+
+div.gallery a:hover {
+  text-decoration: none;
+  color: black
+}
+
+div.gallery a:active {
+  text-decoration: none;
+  color: black
 }
 
 div.gallery img {
@@ -72,8 +74,8 @@ div.gallery img {
 }
 
 div.desc {
-  background-color: #ddd;
-  padding: 15px;
+  background-color: rgb(220,217,205);
+  padding: 12px;
   text-align: left;
 }
 
@@ -89,6 +91,26 @@ div.desc {
   background-color: rebeccapurple;
   color: white;
   text-align: center;
+}
+
+.footer a:link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: ghostwhite;
+}
+
+.footer a:active {
+  text-decoration: none;
+  color: ghostwhite;
 }
 
 .responsive {
@@ -132,8 +154,7 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/AlohaTemecula.jpeg">
       <img src="./News-Vylani/AlohaTemecula.jpeg" alt="Aloha Temecula!" width="600" height="400">
-    </a>
-    <div class="desc">Aloha Temecula!</div>
+    <div class="desc">Aloha Temecula!</div></a>
   </div>
 </div>
 
@@ -141,26 +162,23 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/TeachersIllness.JPG">
       <img src="./News-Vylani/TeachersIllness.JPG" alt="TeachersIllness" width="600" height="400">
-    </a>
-    <div class="desc">Teacher's illness gives recital poignancy</div>
+    <div class="desc">Teacher's illness gives recital poignancy</div></a>
   </div>
 </div>
 
 <div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="./News-Vylani/TeacherShowsGrace.jpeg">
+    <div class="gallery">
+      <a target="_blank" href="./News-Vylani/TeacherShowsGrace.jpeg">
       <img src="./News-Vylani/TeacherShowsGrace.jpeg" alt="Teacher shows grace" width="600" height="400">
-    </a>
-    <div class="desc">Teacher shows grace dancing on life's edge</div>
-  </div>
+      <div class="desc">Teacher shows grace dancing on life's edge</div></a>
+    </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/DanceTeacherAllmon.jpeg">
       <img src="./News-Vylani/DanceTeacherAllmon.jpeg" alt="Dance teacher Allmon dies" width="600" height="400">
-    </a>
-    <div class="desc">Dance teacher Allmon dies</div>
+    <div class="desc">Dance teacher Allmon dies</div></a>
   </div>
 </div>
 
@@ -172,8 +190,8 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/AllmonDies.jpeg">
       <img src="./News-Vylani/AllmonDies.jpeg" alt="Allmon dies" width="600" height="400">
-    </a>
     <div class="desc">Allmon dies after cancer battle</div>
+    </a>
   </div>
 </div>
 
@@ -181,8 +199,8 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/TemeculaMourns.jpeg">
       <img src="./News-Vylani/TemeculaMourns.jpeg" alt="Temecula Mourns" width="600" height="400">
-    </a>
     <div class="desc">Temecula mourns its 'spirit of aloha'</div>
+    </a>
   </div>
 </div>
 
@@ -190,8 +208,8 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/VylaniMemorial1.jpeg">
       <img src="./News-Vylani/VylaniMemorial1.jpeg" alt="Vylani Memorial 1" width="600" height="400">
-    </a>
     <div class="desc">Vylani Memorial Program Begin</div>
+    </a>
   </div>
 </div>
 
@@ -199,8 +217,8 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Vylani/VylaniMemorial2.jpeg">
       <img src="./News-Vylani/VylaniMemorial2.jpeg" alt="Vylani Memorial 2" width="600" height="400">
-    </a>
     <div class="desc">Vylani Memorial Program End</div>
+    </a>
   </div>
 </div>
 
