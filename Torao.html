@@ -27,13 +27,20 @@ body, html {
   position: relative;
 }
 
+.hero-image1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./News-Torao/Yamamizu-Family.jpg");
+
+  height: 80%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .hero-image2 {
-  /* Used "linear-gradient" to add a darken background effect to the image (image.png) so the text is easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./News-Torao/RoyalTFrankBefore.jpeg");
 
-  height: 70%;
-
-  /* Position and center the image to scale nicely on all screens */
+  height: 80%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -41,12 +48,9 @@ body, html {
 }
 
 .hero-image3 {
-  /* Used "linear-gradient" to add a darken background effect to the image (image.png) so the text is easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./News-Torao/Page4.jpg");
 
-  height: 70%;
-
-  /* Position and center the image to scale nicely on all screens */
+  height: 80%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -59,17 +63,6 @@ body, html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
-}
-
-
-.hero-text2 {
-  text-align: left;
-  position: absolute;
-  top: 10%;
-  bottom: 10%;
-  left: 10%;
-  right: 10%;
   color: white;
 }
 
@@ -118,6 +111,10 @@ div.desc {
 
 * {
   box-sizing: border-box;
+}
+
+.test {
+  position: static;
 }
 
 .footer {
@@ -185,24 +182,51 @@ div.desc {
   </div>
 </div>
 
+
+<p />
+
+<p />
+
+<p />
+
+<div class="hero-image1">
+  <div class="hero-text">
+    <p>Torao Yamamizu was born in Pepeekeo, Hawaii in Dec 1914 to Ichiji and Haru (Tomota) Yamamizu.</p>
+    <p>He attended Waiakeakai Elementary and Internediate Schools, as well as Hilo Intermediate School.</p>
+    <p>He worked as a fisherman for Marine Products Co., Ltd, in Hilo.
+  </div>
+</div>
+
+<p />
+
+<p />
+
 <p />
 
 <div class="hero-image2">
-  <div class="hero-text2">
-    <p>Torao Yamamizu was born in Pepeekeo, Hawaii in Dec 1914 to Ichiji and Haru (Tomota) Yamamizu.</p>
-    <p>He attended Waiakeakai Elementary and Internediate Schools, as well as Hilo Intermediate School.</p>
-    <p> He worked as a fisherman for Marine Products Co., Ltd, in Hilo before being inducted into the Army in November 1941 at age 26.</p>
+  <div class="hero-text">
+    <p> Torao was inducted into the Army in November 1941, at the age of 26.</p>
+    <p> His boot camp training was delayed due to the attack on Pearl Harbor in December of 1941.</p> 
+    <p>He successfully completed his training at Schofield Boot Camp in January 1942, before heading back to Hilo on the <i>Royal T Frank</i>.</p>
   </div>
 </div>
+
+<p />
+
+<p />
 
 <p />
 
 <div class="hero-image3">
-  <div class="hero-text2">
-    <p>On Jan 28, 1942, after completing trainbing at Schofield Boot Camp the day before, he was killed in action on the way back to Hilo aboard the <i>Royal T Frank</i>. He had no chance to survive the Japanese torpedo that hit where he was sleeping below deck, as their ship sank in under 1 minute.</p>
-    <p>Families were not notified at the the time, and survivors were threatened under martial law to never speak of the incident. It took 58 years until these men were finally honored for their service.</p>
+  <div class="hero-text">
+    <p>On Jan 28, 1942, just one day after training certification, Torao was killed in action aboard the <i>Royal T Frank</i>. Asleep below deck, he had no chance of surviving the Japanese torpedo which sank their ship in under one minute.</p>
+    <p>Families were not notified at the time, though purple hearts were awarded after the war. Survivors were threatened under martial law to never speak of the incident, and it took 58 years until these men were properly honored for their service.</p>
   </div>
 </div>
+
+<p />
+
+<p />
 
 <p />
 
@@ -215,12 +239,11 @@ div.desc {
   </div>
 </div>
 
-
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="./News-Torao/ToraoYamamizuCertificate.jpg">
-      <img src="./News-Torao/ToraoYamamizuCertificate.jpg" alt="Certificate of Service" width="600" height="400">
-    <div class="desc">Torao Yamamizu Certificate</div>
+    <a target="_blank" href="./News-Torao/Yamamizu-Family.jpg">
+      <img src="./News-Torao/Yamamizu-Family.jpg" alt="Yamamizu Family Portrait" width="600" height="400">
+    <div class="desc">Yamamizu Family</div>
     </a>
   </div>
 </div>
@@ -249,6 +272,15 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
+    <a target="_blank" href="./News-Torao/ToraoYamamizuCertificate.jpg">
+      <img src="./News-Torao/ToraoYamamizuCertificate.jpg" alt="Certificate of Service" width="600" height="400">
+    <div class="desc">Torao Yamamizu Certificate</div>
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
     <a target="_blank" href="./News-Torao/Yamamizu-Memorial-Day-2019-Royal-Frank.jpg">
       <img src="./News-Torao/Yamamizu-Memorial-Day-2019-Royal-Frank.jpg" alt="Memorial" width="600" height="400">
     <div class="desc">Memorial Day 2019 Royal Frank</div></a>
@@ -272,6 +304,42 @@ div.desc {
 </div>
 
 
+<div class="clearfix"></div>
+
+<p />
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="./News-Torao/MemorialDay-1949.jpg">
+      <img src="./News-Torao/MemorialDay-1949.jpg" alt="Memorial Day 1949" width="600" height="400">
+    <div class="desc">Memorial Day 1949</div>
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="./News-Torao/HeroesRecognized.jpg">
+      <img src="./News-Torao/HeroesRecognized.jpg" alt="Heroes Recognized Part 1" width="600" height="400">
+    <div class="desc">Heroes Recognized 1/2</div>
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="./News-Torao/HeroesRecognized2.jpg">
+      <img src="./News-Torao/HeroesRecognized2.jpg" alt="Heroes Recognized Part 2" width="600" height="400">
+    <div class="desc">Heroes Recognized 2/2</div>
+    </a>
+  </div>
+</div>
+
+
+<div class="clearfix"></div>
+
+<p />
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="./News-Torao/SinkingOfRoyalTFrankStory.jpg">
@@ -280,10 +348,6 @@ div.desc {
     </a>
   </div>
 </div>
-
-<div class="clearfix"></div>
-
-<p />
 
 <div class="responsive">
   <div class="gallery">
@@ -298,7 +362,7 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Torao/Page1.jpg">
       <img src="./News-Torao/Page1.jpg" alt="Page 1" width="600" height="400">
-    <div class="desc">Royal T Frank Unclassified Page 1/6</div>
+    <div class="desc">Royal T Frank Declassified Page 1/6</div>
     </a>
   </div>
 </div>
@@ -307,29 +371,31 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Torao/Page2.jpg">
       <img src="./News-Torao/Page2.jpg" alt="Page 2" width="600" height="400">
-    <div class="desc">Royal T Frank Unclassified Page 2/6</div>
+    <div class="desc">Royal T Frank Declassified Page 2/6</div>
     </a>
   </div>
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="./News-Torao/Page3.jpg">
-      <img src="./News-Torao/Page3.jpg" alt="Page 3" width="600" height="400">
-    <div class="desc">Royal T Frank Unclassified Page 3/6</div>
-    </a>
-  </div>
-</div>
 
 <div class="clearfix"></div>
 
 <p />
 
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="./News-Torao/Page3.jpg">
+      <img src="./News-Torao/Page3.jpg" alt="Page 3" width="600" height="400">
+    <div class="desc">Royal T Frank Declassified Page 3/6</div>
+    </a>
+  </div>
+</div>
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="./News-Torao/Page4.jpg">
       <img src="./News-Torao/Page4.jpg" alt="Page 4" width="600" height="400">
-    <div class="desc">Royal T Frank Unclassified Page 4/6</div>
+    <div class="desc">Royal T Frank Declassified Page 4/6</div>
     </a>
   </div>
 </div>
@@ -338,7 +404,7 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Torao/Page5.jpg">
       <img src="./News-Torao/Page5.jpg" alt="Page 5" width="600" height="400">
-    <div class="desc">Royal T Frank Unclassified Page 5/6</div>
+    <div class="desc">Royal T Frank Declassified Page 5/6</div>
     </a>
   </div>
 </div>
@@ -347,7 +413,7 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="./News-Torao/Page6.jpg">
       <img src="./News-Torao/Page6.jpg" alt="Page 6" width="600" height="400">
-    <div class="desc">Royal T Frank Unclassified Page 6/6</div>
+    <div class="desc">Royal T Frank Declassified Page 6/6</div>
     </a>
   </div>
 </div>
@@ -357,7 +423,6 @@ div.desc {
 <p />
 
 <div style="padding:16px;">
-  <p> </p>
   <p> </p>
 </div>
 
