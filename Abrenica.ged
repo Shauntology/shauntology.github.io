@@ -5,7 +5,7 @@
 1 DATE 27 DEC 2024
 2 TIME 22:36:18
 1 SUBM @SUBM@
-1 FILE D:\shaun\Family Trees\Abrenica\Abrenica.ged
+1 FILE https://shauntology.github.io/Abrenica.ged
 1 COPR Copyright (c) 2024 .
 1 GEDC
 2 VERS 5.5.1
@@ -35,12 +35,6 @@
 1 FAMS @F0003@
 1 FAMS @F0000@
 1 FAMS @F0054@
-1 ASSO @I0003@
-2 RELA DNA
-2 NOTE @N0424@
-1 ASSO @I0008@
-2 RELA DNA
-2 NOTE @N0486@
 1 OBJE @O0102@
 1 OBJE @O0281@
 1 OBJE @O0280@
@@ -74,15 +68,6 @@
 1 FAMC @F0000@
 2 PEDI birth
 1 FAMS @F0098@
-1 ASSO @I0000@
-2 RELA DNA
-2 NOTE @N0877@
-1 ASSO @I0003@
-2 RELA DNA
-2 NOTE @N0875@
-1 ASSO @I0008@
-2 RELA DNA
-2 NOTE @N0876@
 1 OBJE @O0725@
 1 OBJE @O0712@
 1 OBJE @O0714@
@@ -112,15 +97,6 @@
 2 NOTE @N0227@
 1 FAMC @F0000@
 2 PEDI birth
-1 ASSO @I0000@
-2 RELA DNA
-2 NOTE @N0424@
-1 ASSO @I0008@
-2 RELA DNA
-2 NOTE @N0492@
-1 ASSO @I0002@
-2 RELA DNA
-2 NOTE @N0875@
 1 OBJE @O0718@
 1 OBJE @O0712@
 1 OBJE @O0716@
@@ -149,9 +125,6 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
-1 ASSO @I0008@
-2 RELA DNA
-2 NOTE @N0536@
 1 OBJE @O0719@
 1 OBJE @O0712@
 1 OBJE @O0715@
@@ -205,15 +178,6 @@
 2 TYPE Y Haplogroup
 1 FAMC @F0002@
 2 PEDI birth
-1 ASSO @I0000@
-2 RELA DNA
-2 NOTE @N0486@
-1 ASSO @I0003@
-2 RELA DNA
-2 NOTE @N0492@
-1 ASSO @I0006@
-2 RELA DNA
-2 NOTE @N0536@
 1 OBJE @O0722@
 1 OBJE @O0723@
 1 WWW https://discover.familytreedna.com/y-dna/I-M253/tree
@@ -4914,329 +4878,329 @@
 1 CONT Remigio Guerrera
 1 CONT Buena Palida
 0 @O0025@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\mom.jpg
+1 FILE https://shauntology.github.io/Tanaka/mom.jpg
 2 FORM jpg
 2 TITL mom
 1 CHAN
 2 DATE 28 MAR 2023
 3 TIME 13:39:46
 0 @O0030@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\dadwedding.jpg
+1 FILE https://shauntology.github.io/Tanaka/dadwedding.jpg
 2 FORM jpg
 2 TITL dadwedding
 1 CHAN
 2 DATE 29 MAR 2023
 3 TIME 17:26:39
 0 @O0076@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\wedding.jpg
+1 FILE https://shauntology.github.io/Tanaka/wedding.jpg
 2 FORM jpg
 2 TITL wedding
 1 CHAN
 2 DATE 19 APR 2023
 3 TIME 16:46:40
 0 @O0102@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\JamesEdwardAllmon.JPG
+1 FILE https://shauntology.github.io/Tanaka/JamesEdwardAllmon.JPG
 2 FORM JPG
 2 TITL JamesEdwardAllmon
 1 CHAN
 2 DATE 20 APR 2023
 3 TIME 23:17:27
 0 @O0252@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\JimValWedding1982.jpg
+1 FILE https://shauntology.github.io/Tanaka/JimValWedding1982.jpg
 2 FORM jpg
 2 TITL JimValWedding1982
 1 CHAN
 2 DATE 10 NOV 2024
 3 TIME 22:09:16
 0 @O0280@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Young Jim.jpg
+1 FILE https://shauntology.github.io/Tanaka/Young Jim.jpg
 2 FORM jpg
 2 TITL Young Jim
 1 CHAN
 2 DATE 3 JUN 2023
 3 TIME 18:06:39
 0 @O0281@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Jim swing.jpg
+1 FILE https://shauntology.github.io/Tanaka/Jim swing.jpg
 2 FORM jpg
 2 TITL Jim swing
 1 CHAN
 2 DATE 3 JUN 2023
 3 TIME 18:06:57
 0 @O0282@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Wedding Pic.jpg
+1 FILE https://shauntology.github.io/Tanaka/Wedding Pic.jpg
 2 FORM jpg
 2 TITL Wedding Pic
 1 CHAN
 2 DATE 3 JUN 2023
 3 TIME 18:17:28
 0 @O0286@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Abrenica-GuamDailyNews-1968.jpg
+1 FILE https://shauntology.github.io/Abrenica/Abrenica-GuamDailyNews-1968.jpg
 2 FORM jpg
 2 TITL Abrenica-GuamDailyNews-1968
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 15:11:31
 0 @O0287@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Abrenicas-Queral-GuamDailyNews1966.jpg
+1 FILE https://shauntology.github.io/Abrenica/Abrenicas-Queral-GuamDailyNews1966.jpg
 2 FORM jpg
 2 TITL Abrenicas-Queral-GuamDailyNews1966
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 15:10:24
 0 @O0295@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Trantquilina-obit.jpeg
+1 FILE https://shauntology.github.io/Abrenica/Trantquilina-obit.jpeg
 2 FORM jpeg
 2 TITL Trantquilina-obit
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 16:10:54
 0 @O0296@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\LudovicoPenicilleBrillantes.jpg
+1 FILE https://shauntology.github.io/Abrenica/LudovicoPenicilleBrillantes.jpg
 2 FORM jpg
 2 TITL LudovicoPenicilleBrillantes
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 16:14:17
 0 @O0298@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\DSaymo_20081212.jpg
+1 FILE https://shauntology.github.io/Abrenica/DSaymo_20081212.jpg
 2 FORM jpg
 2 TITL DSaymo_20081212
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 15:18:32
 0 @O0299@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\DSaymo_20081204.jpg
+1 FILE https://shauntology.github.io/Abrenica/DSaymo_20081204.jpg
 2 FORM jpg
 2 TITL DSaymo_20081204
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 15:18:47
 0 @O0309@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Abrenica-RIP-EpitacioVeneranda.jpg
+1 FILE https://shauntology.github.io/Abrenica/Abrenica-RIP-EpitacioVeneranda.jpg
 2 FORM jpg
 2 TITL Abrenica-RIP-EpitacioVeneranda
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 15:09:19
 0 @O0356@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\CrescentFam-small.jpg
+1 FILE https://shauntology.github.io/Tanaka/CrescentFam-small.jpg
 2 FORM jpg
 2 TITL CrescentFam-small
 1 CHAN
 2 DATE 10 NOV 2024
 3 TIME 22:13:07
 0 @O0357@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Val-Young.jpg
+1 FILE https://shauntology.github.io/Tanaka/Val-Young.jpg
 2 FORM jpg
 2 TITL Val-Young
 1 CHAN
 2 DATE 10 NOV 2024
 3 TIME 22:10:02
 0 @O0704@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Justin.JPG
+1 FILE https://shauntology.github.io/Tanaka/Justin.JPG
 2 FORM JPG
 2 TITL Justin
 1 CHAN
 2 DATE 14 NOV 2024
 3 TIME 04:13:29
 0 @O0712@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\JimValFam1993.jpg
+1 FILE https://shauntology.github.io/Tanaka/JimValFam1993.jpg
 2 FORM jpg
 2 TITL JimValFam1993
 1 CHAN
 2 DATE 25 DEC 2024
 3 TIME 14:03:08
 0 @O0713@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\ShaunSelfie.jpg
+1 FILE https://shauntology.github.io/Tanaka/ShaunSelfie.jpg
 2 FORM jpg
 2 TITL ShaunSelfie
 1 CHAN
 2 DATE 17 NOV 2024
 3 TIME 00:38:01
 0 @O0714@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Shaun22.jpg
+1 FILE https://shauntology.github.io/Tanaka/Shaun22.jpg
 2 FORM jpg
 2 TITL Shaun22
 1 CHAN
 2 DATE 17 NOV 2024
 3 TIME 00:38:19
 0 @O0715@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\AmyKeila.jpg
+1 FILE https://shauntology.github.io/Tanaka/AmyKeila.jpg
 2 FORM jpg
 2 TITL AmyKeila
 1 CHAN
 2 DATE 17 NOV 2024
 3 TIME 00:47:00
 0 @O0716@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Lei.jpg
+1 FILE https://shauntology.github.io/Tanaka/Lei.jpg
 2 FORM jpg
 2 TITL Lei
 1 CHAN
 2 DATE 17 NOV 2024
 3 TIME 00:49:04
 0 @O0718@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Leilani2013.jpg
+1 FILE https://shauntology.github.io/Tanaka/Leilani2013.jpg
 2 FORM jpg
 2 TITL Leilani2013
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 21:45:22
 0 @O0719@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Amy1992.jpg
+1 FILE https://shauntology.github.io/Tanaka/Amy1992.jpg
 2 FORM jpg
 2 TITL Amy1992
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 21:49:36
 0 @O0720@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\AmyProfile.jpg
+1 FILE https://shauntology.github.io/Tanaka/AmyProfile.jpg
 2 FORM jpg
 2 TITL AmyProfile
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 21:51:15
 0 @O0721@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Keila2018.jpg
+1 FILE https://shauntology.github.io/Tanaka/Keila2018.jpg
 2 FORM jpg
 2 TITL Keila2018
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 22:07:17
 0 @O0722@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\Jacob2017.jpg
+1 FILE https://shauntology.github.io/Tanaka/Jacob2017.jpg
 2 FORM jpg
 2 TITL Jacob2017
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 22:07:55
 0 @O0723@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\KeilaJacob2006.jpg
+1 FILE https://shauntology.github.io/Tanaka/KeilaJacob2006.jpg
 2 FORM jpg
 2 TITL KeilaJacob2006
 1 CHAN
 2 DATE 24 DEC 2024
 3 TIME 16:41:54
 0 @O0725@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\ShaunNeon.jpg
+1 FILE https://shauntology.github.io/Tanaka/ShaunNeon.jpg
 2 FORM jpg
 2 TITL ShaunNeon
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 23:50:29
 0 @O0751@ OBJE
-1 FILE d:\shaun\family trees\..\IomegaHD\Tanaka\Jane60thBday.JPG
+1 FILE https://shauntology.github.io/Tanaka/Jane60thBday.JPG
 2 FORM JPG
 2 TITL Jane60thBday
 1 CHAN
 2 DATE 24 DEC 2024
 3 TIME 17:01:49
 0 @O0752@ OBJE
-1 FILE d:\shaun\family trees\..\IomegaHD\Tanaka\YoshinoTanaka-Crescent-Sets.jpg
+1 FILE https://shauntology.github.io/Tanaka/YoshinoTanaka-Crescent-Sets.jpg
 2 FORM jpg
 2 TITL YoshinoTanaka-Crescent-Sets
 1 CHAN
 2 DATE 24 DEC 2024
 3 TIME 17:36:30
 0 @O0767@ OBJE
-1 FILE d:\shaun\family trees\..\IomegaHD\Tanaka\Youssef.jpg
+1 FILE https://shauntology.github.io/Tanaka/Youssef.jpg
 2 FORM jpg
 2 TITL Youssef
 1 CHAN
 2 DATE 25 DEC 2024
 3 TIME 18:29:25
 0 @O0768@ OBJE
-1 FILE d:\shaun\family trees\..\IomegaHD\Tanaka\YoussefAndKeila.jpg
+1 FILE https://shauntology.github.io/Tanaka/YoussefAndKeila.jpg
 2 FORM jpg
 2 TITL YoussefAndKeila
 1 CHAN
 2 DATE 25 DEC 2024
 3 TIME 18:29:38
 0 @O0769@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Evelyn-Abrenica.jpg
+1 FILE https://shauntology.github.io/Abrenica/Evelyn-Abrenica.jpg
 2 FORM jpg
 2 TITL Evelyn-Abrenica
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:31:53
 0 @O0770@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Pete-Veneranda-Paguyo-Abrenica.jpg
+1 FILE https://shauntology.github.io/Abrenica/Pete-Veneranda-Paguyo-Abrenica.jpg
 2 FORM jpg
 2 TITL Pete-Veneranda-Paguyo-Abrenica
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:34:14
 0 @O0771@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\EvangelineArizala.jpg
+1 FILE https://shauntology.github.io/Abrenica/EvangelineArizala.jpg
 2 FORM jpg
 2 TITL EvangelineArizala
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:37:09
 0 @O0772@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\ArnoldArizala.jpg
+1 FILE https://shauntology.github.io/Abrenica/ArnoldArizala.jpg
 2 FORM jpg
 2 TITL ArnoldArizala
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:38:10
 0 @O0773@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\BernardSaymo.jpg
+1 FILE https://shauntology.github.io/Abrenica/BernardSaymo.jpg
 2 FORM jpg
 2 TITL BernardSaymo
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:40:38
 0 @O0774@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\ChrisRamosSaymo.jpg
+1 FILE https://shauntology.github.io/Abrenica/ChrisRamosSaymo.jpg
 2 FORM jpg
 2 TITL ChrisRamosSaymo
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:41:17
 0 @O0775@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\AbrenicaModesta-Obit.jpeg
+1 FILE https://shauntology.github.io/Abrenica/AbrenicaModesta-Obit.jpeg
 2 FORM jpeg
 2 TITL AbrenicaModesta-Obit
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:43:49
 0 @O0776@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Abrenica-Census1930-SouthHilo.jpg
+1 FILE https://shauntology.github.io/Abrenica/Abrenica-Census1930-SouthHilo.jpg
 2 FORM jpg
 2 TITL Abrenica-Census1930-SouthHilo
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:59:05
 0 @O0777@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\Trantquilina-obit.jpg
+1 FILE https://shauntology.github.io/Abrenica/Trantquilina-obit.jpg
 2 FORM jpg
 2 TITL Trantquilina-obit
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 01:33:14
 0 @O0778@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\DomSaymoProfiile.jpg
+1 FILE https://shauntology.github.io/Abrenica/DomSaymoProfiile.jpg
 2 FORM jpg
 2 TITL DomSaymoProfiile
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 14:59:49
 0 @O0779@ OBJE
-1 FILE d:\shaun\family trees\Abrenica\LudovicoPenicilleBrillantesProfile.jpg
+1 FILE https://shauntology.github.io/Abrenica/LudovicoPenicilleBrillantesProfile.jpg
 2 FORM jpg
 2 TITL LudovicoPenicilleBrillantesProfile
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 16:14:25
 0 @O0780@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\EricaHansen.jpg
+1 FILE https://shauntology.github.io/Abrenica/EricaHansen.jpg
 2 FORM jpg
 2 TITL EricaHansen
 1 CHAN
 2 DATE 28 DEC 2024
 3 TIME 03:35:48
 0 @O0781@ OBJE
-1 FILE d:\shaun\family trees\Allmon-Tanaka Family\PatrickZiobro.jpg
+1 FILE https://shauntology.github.io/Abrenica/PatrickZiobro.jpg
 2 FORM jpg
 2 TITL PatrickZiobro
 1 CHAN
