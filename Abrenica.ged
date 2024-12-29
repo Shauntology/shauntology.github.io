@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS AIO64-5.1.6-1
 2 NAME Gramps
-1 DATE 27 DEC 2024
-2 TIME 22:36:18
+1 DATE 28 DEC 2024
+2 TIME 18:04:32
 1 SUBM @SUBM@
 1 FILE https://shauntology.github.io/Abrenica.ged
 1 COPR Copyright (c) 2024 .
@@ -35,6 +35,12 @@
 1 FAMS @F0003@
 1 FAMS @F0000@
 1 FAMS @F0054@
+1 ASSO @I0003@
+2 RELA DNA
+2 NOTE @N0424@
+1 ASSO @I0008@
+2 RELA DNA
+2 NOTE @N0486@
 1 OBJE @O0102@
 1 OBJE @O0281@
 1 OBJE @O0280@
@@ -43,7 +49,6 @@
 1 OBJE @O0076@
 1 OBJE @O0282@
 1 OBJE @O0030@
-1 NOTE @N0044@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 17:19:56
@@ -64,10 +69,18 @@
 3 CTRY US
 1 FACT R-Z16281
 2 TYPE Y Haplogroup
-2 NOTE @N0903@
 1 FAMC @F0000@
 2 PEDI birth
 1 FAMS @F0098@
+1 ASSO @I0000@
+2 RELA DNA
+2 NOTE @N0877@
+1 ASSO @I0003@
+2 RELA DNA
+2 NOTE @N0875@
+1 ASSO @I0008@
+2 RELA DNA
+2 NOTE @N0876@
 1 OBJE @O0725@
 1 OBJE @O0712@
 1 OBJE @O0714@
@@ -94,9 +107,17 @@
 3 CTRY US
 1 FACT JT8277301
 2 TYPE GEDmatch ID
-2 NOTE @N0227@
 1 FAMC @F0000@
 2 PEDI birth
+1 ASSO @I0000@
+2 RELA DNA
+2 NOTE @N0424@
+1 ASSO @I0008@
+2 RELA DNA
+2 NOTE @N0492@
+1 ASSO @I0002@
+2 RELA DNA
+2 NOTE @N0875@
 1 OBJE @O0718@
 1 OBJE @O0712@
 1 OBJE @O0716@
@@ -125,11 +146,13 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
+1 ASSO @I0008@
+2 RELA DNA
+2 NOTE @N0536@
 1 OBJE @O0719@
 1 OBJE @O0712@
 1 OBJE @O0715@
 1 OBJE @O0720@
-1 NOTE @N0537@
 1 CHAN
 2 DATE 18 NOV 2024
 3 TIME 21:51:30
@@ -178,11 +201,18 @@
 2 TYPE Y Haplogroup
 1 FAMC @F0002@
 2 PEDI birth
+1 ASSO @I0000@
+2 RELA DNA
+2 NOTE @N0486@
+1 ASSO @I0003@
+2 RELA DNA
+2 NOTE @N0492@
+1 ASSO @I0006@
+2 RELA DNA
+2 NOTE @N0536@
 1 OBJE @O0722@
 1 OBJE @O0723@
 1 WWW https://discover.familytreedna.com/y-dna/I-M253/tree
-1 NOTE @N0485@
-1 NOTE @N0505@
 1 CHAN
 2 DATE 24 DEC 2024
 3 TIME 16:41:58
@@ -199,7 +229,6 @@
 2 GIVN V. Y.
 2 SURN Allmon
 2 NICK Vylani
-2 NOTE @N0341@
 1 NAME Val Yoshie /Allmon/
 2 TYPE married
 2 GIVN Val Yoshie
@@ -246,7 +275,6 @@
 1 OBJE @O0252@
 1 OBJE @O0712@
 1 OBJE @O0751@
-1 NOTE @N0948@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 17:19:44
@@ -275,7 +303,6 @@
 1 FAMS @F0003@
 1 FAMS @F0202@
 1 FAMS @F0391@
-1 NOTE @N0046@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 17:35:31
@@ -292,7 +319,6 @@
 3 CTRY US
 1 FAMS @F0002@
 1 OBJE @O0704@
-1 NOTE @N0250@
 1 CHAN
 2 DATE 25 DEC 2024
 3 TIME 18:20:54
@@ -450,655 +476,10 @@
 2 ADDR
 3 STAE California
 3 CTRY US
-1 FAMC @F0124@
-2 PEDI birth
 1 FAMS @F0098@
 1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 03:40:50
-0 @I0386@ INDI
-1 NAME Robert /Quintana/ Jr.
-2 GIVN Robert
-2 SURN Quintana
-2 NSFX Jr.
-2 NICK Rob
-1 SEX M
-1 BIRT
-2 DATE 21 AUG 1962
-1 DEAT
-2 DATE 21 SEP 2020
-2 PLAC Montclair, San Bernardino, California, US
-2 ADDR
-3 CITY Montclair
-3 STAE California
-3 CTRY US
-1 FAMC @F0125@
-2 PEDI birth
-1 FAMS @F0124@
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 05:36:30
-0 @I0387@ INDI
-1 NAME Esther /Leung/
-2 GIVN Esther
-2 SURN Leung
-1 SEX F
-1 BIRT
-2 DATE 19 FEB 1964
-2 PLAC Fresno, California, US
-3 MAP
-4 LATI N36.7378
-4 LONG W119.78712
-2 ADDR
-3 CITY Fresno
-3 STAE California
-3 CTRY US
-1 DEAT
-2 DATE NOV 2021
-1 FAMC @F0133@
-2 PEDI birth
-1 FAMS @F0124@
-1 NOTE @N0093@
-1 CHAN
-2 DATE 29 APR 2023
-3 TIME 23:12:36
-0 @I0388@ INDI
-1 NAME Stephanie Nicole /Quintana/
-2 GIVN Stephanie Nicole
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 6 MAY 1990
-1 FAMC @F0124@
-2 PEDI birth
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 03:42:48
-0 @I0389@ INDI
-1 NAME Rita Mae /Reynolds/
-2 GIVN Rita Mae
-2 SURN Reynolds
-1 SEX F
-1 FAMC @F0126@
-2 PEDI birth
-1 FAMS @F0125@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:00:40
-0 @I0390@ INDI
-1 NAME Robert /Quintana/
-2 GIVN Robert
-2 SURN Quintana
-1 SEX M
-1 BIRT
-2 DATE 16 JUL 1942
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 FAMS @F0125@
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0391@ INDI
-1 NAME Marion /Reynolds/
-2 TYPE married
-2 GIVN Marion
-2 SURN Reynolds
-1 SEX F
-1 FAMS @F0126@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:00:40
-0 @I0392@ INDI
-1 NAME  /Reynolds/
-2 SURN Reynolds
-1 SEX M
-1 FAMS @F0126@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:00:40
-0 @I0393@ INDI
-1 NAME Steve /Reynolds/
-2 GIVN Steve
-2 SURN Reynolds
-1 SEX M
-1 FAMC @F0126@
-2 PEDI birth
-1 NOTE @N0073@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:00:40
-0 @I0394@ INDI
-1 NAME Ronald Benjamin /Quintana/
-2 GIVN Ronald Benjamin
-2 SURN Quintana
-2 NICK Ron
-1 SEX M
-1 BIRT
-2 DATE 16 JUL 1964
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0125@
-2 PEDI birth
-1 CHAN
-2 DATE 26 JUL 2022
-3 TIME 20:41:57
-0 @I0395@ INDI
-1 NAME Roberta Marie /Quintana/
-2 GIVN Roberta Marie
-2 SURN Quintana
-2 NICK Bird
-1 SEX F
-1 BIRT
-2 DATE 3 JUL 1965
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0125@
-2 PEDI birth
-1 FAMS @F0134@
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 18:19:27
-0 @I0396@ INDI
-1 NAME Raymond Michael /Quintana/
-2 GIVN Raymond Michael
-2 SURN Quintana
-2 NICK Ray
-1 SEX M
-1 BIRT
-2 DATE 12 JUL 1966
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0125@
-2 PEDI birth
-1 CHAN
-2 DATE 26 JUL 2022
-3 TIME 20:46:13
-0 @I0397@ INDI
-1 NAME Rudy Oscar /Quintana/
-2 GIVN Rudy Oscar
-2 SURN Quintana
-1 SEX M
-1 BIRT
-2 DATE 7 JAN 1970
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0125@
-2 PEDI birth
-1 CHAN
-2 DATE 26 JUL 2022
-3 TIME 20:48:39
-0 @I0398@ INDI
-1 NAME Barbara /Reynolds/
-2 GIVN Barbara
-2 SURN Reynolds
-1 SEX F
-1 FAMC @F0126@
-2 PEDI birth
-1 NOTE @N0074@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:05:56
-0 @I0399@ INDI
-1 NAME Ginger /Reynolds/
-2 GIVN Ginger
-2 SURN Reynolds
-1 SEX F
-1 BIRT
-2 DATE BEF JUN 1942
-1 FAMC @F0126@
-2 PEDI birth
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:25:00
-0 @I0400@ INDI
-1 NAME Helen "Nena" Ruth /Quintana/
-2 GIVN Helen "Nena" Ruth
-2 SURN Quintana
-2 NICK Nena
-1 SEX F
-1 BIRT
-2 DATE 26 MAR 1932
-1 DEAT Y
-1 FAMC @F0127@
-2 PEDI birth
-1 NOTE @N0075@
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0401@ INDI
-1 NAME Gloria "Gori" /Quintana/
-2 GIVN Gloria "Gori"
-2 SURN Quintana
-2 NICK Gori
-1 NAME Gori /Quintana/
-2 TYPE aka
-2 GIVN Gori
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 29 MAR 1934
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 FAMS @F0128@
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0402@ INDI
-1 NAME Alicia "Alice" /Quintana/
-2 GIVN Alicia "Alice"
-2 SURN Quintana
-2 NICK Alice
-1 NAME Alice "Teeny" /Quintana/
-2 TYPE aka
-2 GIVN Alice "Teeny"
-2 SURN Quintana
-2 NICK Teeny
-1 SEX F
-1 BIRT
-2 DATE 8 AUG 1938
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 DEAT Y
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0403@ INDI
-1 NAME Leo L /Quintana/
-2 GIVN Leo L
-2 SURN Quintana
-1 SEX M
-1 BIRT
-2 DATE 1909
-1 DEAT
-2 DATE 1951
-1 FAMS @F0127@
-1 CHAN
-2 DATE 24 JUL 2022
-3 TIME 17:11:35
-0 @I0404@ INDI
-1 NAME Milly Veronica /Quintana/
-2 GIVN Milly Veronica
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 9 JUL 1945
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0405@ INDI
-1 NAME Margaret "Peggy" Christine /Quintana/
-2 GIVN Margaret "Peggy" Christine
-2 SURN Quintana
-2 NICK Peggy
-1 SEX F
-1 BIRT
-2 DATE 10 NOV 1940
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0406@ INDI
-1 NAME Martha Isabel /Quintana/
-2 GIVN Martha Isabel
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 26 MAR 1937
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 DEAT Y
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0407@ INDI
-1 NAME Edward /Quintana/
-2 GIVN Edward
-2 SURN Quintana
-2 NICK Eddie
-1 SEX M
-1 BIRT
-2 DATE 9 JUL 1947
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0408@ INDI
-1 NAME Leo Richard "Dickie" /Quintana/
-2 GIVN Leo Richard "Dickie"
-2 SURN Quintana
-2 NICK Dickie
-1 SEX M
-1 BIRT
-2 DATE 16 SEP 1939
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 DEAT
-2 DATE 9 MAR 1970
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 EVEN Overdose
-2 TYPE Cause Of Death
-1 BURI
-2 PLAC Hollywood, Los Angeles, California, US
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 NOTE @N0077@
-1 CHAN
-2 DATE 23 OCT 2022
-3 TIME 10:01:04
-0 @I0409@ INDI
-1 NAME John Norbert /Quintana/
-2 GIVN John Norbert
-2 SURN Quintana
-1 SEX M
-1 BIRT
-2 DATE 6 JUN 1950
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 EVEN Suicide by gunshot to head
-2 TYPE Cause Of Death
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0410@ INDI
-1 NAME Ruth Cuca Refugio /Esquivel/
-2 GIVN Ruth Cuca Refugio
-2 SURN Esquivel
-1 NAME Ruth Esquivel /Quintana/
-2 TYPE married
-2 GIVN Ruth Esquivel
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 1907
-1 DEAT
-2 DATE 1957
-1 FAMS @F0127@
-1 CHAN
-2 DATE 24 JUL 2022
-3 TIME 17:12:29
-0 @I0411@ INDI
-1 NAME John /Molano/
-2 GIVN John
-2 SURN Molano
-1 SEX M
-1 FAMS @F0128@
-1 CHAN
-2 DATE 24 JUL 2022
-3 TIME 15:02:04
-0 @I0412@ INDI
-1 NAME Leo James /Quintana/
-2 GIVN Leo James
-2 SURN Quintana
-1 SEX M
-1 BIRT
-2 DATE 4 NOV 1930
-1 DEAT
-2 DATE 11 DEC 1930
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0414@ INDI
-1 NAME Josephine /Quintana/
-2 GIVN Josephine
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 4 DEC 1929
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 DEAT
-2 DATE 9 DEC 1929
-2 PLAC Los Angeles, California, US
-3 MAP
-4 LATI N34.31551
-4 LONG W118.20968
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FACT I0413
-2 TYPE Merged Gramps ID
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 23 OCT 2022
-3 TIME 10:01:15
-0 @I0415@ INDI
-1 NAME Gilbert T /Quintana/
-2 GIVN Gilbert T
-2 SURN Quintana
-1 SEX M
-1 BIRT
-2 DATE 15 JUN 1957
-2 PLAC Orange County, California, US
-3 MAP
-4 LATI N33.78726
-4 LONG W117.85031
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0416@ INDI
-1 NAME Mary Louise /Quintana/
-2 GIVN Mary Louise
-2 SURN Quintana
-1 SEX F
-1 BIRT
-2 DATE 18 APR 1940
-2 PLAC Orange County, California, US
-3 MAP
-4 LATI N33.78726
-4 LONG W117.85031
-2 ADDR
-3 STAE California
-3 CTRY US
-1 FAMC @F0127@
-2 PEDI birth
-1 CHAN
-2 DATE 25 JUL 2022
-3 TIME 07:23:28
-0 @I0424@ INDI
-1 NAME  /Lee/
-2 SURN Lee
-1 SEX F
-1 FAMS @F0133@
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 06:18:03
-0 @I0425@ INDI
-1 NAME  /Leung/
-2 SURN Leung
-1 SEX M
-1 FAMS @F0133@
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 06:18:03
-0 @I0427@ INDI
-1 NAME Thomas Y /Leung/
-2 GIVN Thomas Y
-2 SURN Leung
-2 NICK Tom
-1 SEX M
-1 BIRT
-2 DATE 2 MAY 1950
-1 DEAT
-2 DATE 2 APR 2017
-1 FAMC @F0133@
-2 PEDI birth
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 17:57:37
-0 @I0428@ INDI
-1 NAME Samuel /Leung/
-2 GIVN Samuel
-2 SURN Leung
-1 SEX M
-1 FAMC @F0133@
-2 PEDI birth
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 17:57:37
-0 @I0429@ INDI
-1 NAME David /Leung/
-2 GIVN David
-2 SURN Leung
-1 SEX M
-1 FAMC @F0133@
-2 PEDI birth
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 17:57:37
-0 @I0430@ INDI
-1 NAME Ruth /Leung/
-2 GIVN Ruth
-2 SURN Leung
-1 SEX F
-1 FAMC @F0133@
-2 PEDI birth
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 17:57:37
-0 @I0431@ INDI
-1 NAME Susan /Leung/
-2 GIVN Susan
-2 SURN Leung
-1 SEX F
-1 FAMC @F0133@
-2 PEDI birth
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 17:57:37
-0 @I0432@ INDI
-1 NAME  /Estrada/
-2 SURN Estrada
-1 SEX M
-1 FAMS @F0134@
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 18:19:27
-0 @I0433@ INDI
-1 NAME Erica Marie /Estrada/
-2 GIVN Erica Marie
-2 SURN Estrada
-1 SEX F
-1 BIRT
-2 DATE 7 FEB 1990
-1 DEAT
-2 DATE 6 MAY 2015
-1 EVEN Stab wound to stomach; murdered by ex-boyfriend and his mother
-2 TYPE Cause Of Death
-2 NOTE @N0090@
-1 FAMC @F0134@
-2 PEDI birth
-1 NOTE @N0091@
-1 NOTE @N0092@
-1 CHAN
-2 DATE 29 JUL 2022
-3 TIME 07:55:41
+2 DATE 29 DEC 2024
+3 TIME 01:56:11
 0 @I0491@ INDI
 1 NAME Tranquilino Ragus /Saymo/
 2 GIVN Tranquilino Ragus
@@ -1112,7 +493,6 @@
 2 PEDI birth
 1 FAMS @F0146@
 1 FAMS @F0688@
-1 NOTE @N0325@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 22:00:21
@@ -1148,7 +528,6 @@
 1 FAMS @F0146@
 1 FAMS @F0161@
 1 FAMS @F0147@
-1 NOTE @N0106@
 1 CHAN
 2 DATE 6 JUL 2024
 3 TIME 21:45:44
@@ -1160,7 +539,6 @@
 1 BIRT
 2 DATE 1 DEC 1951
 1 FAMS @F0147@
-1 NOTE @N0105@
 1 CHAN
 2 DATE 27 AUG 2022
 3 TIME 10:03:41
@@ -1194,7 +572,6 @@
 1 FAMC @F0161@
 2 PEDI birth
 1 FAMS @F0162@
-1 NOTE @N0145@
 1 CHAN
 2 DATE 12 JUL 2024
 3 TIME 05:10:48
@@ -1279,7 +656,6 @@
 3 POST 72651
 3 CTRY US
 1 FAMS @F0356@
-1 NOTE @N0402@
 1 CHAN
 2 DATE 28 DEC 2024
 3 TIME 06:13:57
@@ -1356,7 +732,6 @@
 3 STAE Pennsylvania
 3 CTRY US
 1 FAMS @F0465@
-1 NOTE @N0583@
 1 CHAN
 2 DATE 29 JUN 2023
 3 TIME 23:17:23
@@ -1370,7 +745,6 @@
 1 DEAT
 2 DATE 1962
 1 FAMS @F0465@
-1 NOTE @N0584@
 1 CHAN
 2 DATE 30 JUN 2023
 3 TIME 07:53:58
@@ -1381,7 +755,6 @@
 1 SEX M
 1 FAMC @F0465@
 2 PEDI birth
-1 NOTE @N0992@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 19:16:36
@@ -1410,7 +783,6 @@
 1 OBJE @O0286@
 1 OBJE @O0287@
 1 OBJE @O0776@
-1 NOTE @N0823@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:59:23
@@ -1438,7 +810,6 @@
 2 PEDI birth
 1 FAMS @F0630@
 1 OBJE @O0775@
-1 NOTE @N0835@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:43:54
@@ -1469,7 +840,6 @@
 1 FAMS @F0634@
 1 OBJE @O0770@
 1 OBJE @O0309@
-1 NOTE @N0831@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:32:46
@@ -1496,7 +866,6 @@
 1 FAMS @F0634@
 1 OBJE @O0770@
 1 OBJE @O0309@
-1 NOTE @N0974@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 00:34:23
@@ -1552,7 +921,6 @@
 1 FAMC @F0630@
 2 PEDI birth
 1 FAMS @F0643@
-1 NOTE @N0836@
 1 CHAN
 2 DATE 10 DEC 2024
 3 TIME 11:26:33
@@ -1576,8 +944,6 @@
 2 PEDI birth
 1 FAMS @F0641@
 1 FAMS @F0642@
-1 NOTE @N0845@
-1 NOTE @N0846@
 1 CHAN
 2 DATE 10 DEC 2024
 3 TIME 11:26:33
@@ -1613,7 +979,6 @@
 1 FAMC @F0630@
 2 PEDI birth
 1 FAMS @F0640@
-1 NOTE @N0973@
 1 CHAN
 2 DATE 10 DEC 2024
 3 TIME 13:53:19
@@ -1639,7 +1004,6 @@
 1 FAMS @F0641@
 1 OBJE @O0779@
 1 OBJE @O0296@
-1 NOTE @N0847@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 16:14:37
@@ -1932,7 +1296,6 @@
 3 CTRY US
 1 FAMC @F0653@
 2 PEDI birth
-1 NOTE @N0848@
 1 CHAN
 2 DATE 7 JUL 2024
 3 TIME 15:26:01
@@ -2080,7 +1443,6 @@
 3 CTRY US
 1 FAMC @F0651@
 2 PEDI birth
-1 NOTE @N0975@
 1 CHAN
 2 DATE 12 DEC 2024
 3 TIME 13:23:04
@@ -2116,7 +1478,6 @@
 1 FAMC @F0664@
 2 PEDI birth
 1 FAMS @F0666@
-1 NOTE @N0870@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 22:00:21
@@ -2154,8 +1515,6 @@
 1 FAMS @F0666@
 1 OBJE @O0295@
 1 OBJE @O0777@
-1 NOTE @N0871@
-1 NOTE @N0872@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 16:10:56
@@ -2220,7 +1579,6 @@
 3 CITY Newport Beach
 3 STAE North Carolina
 3 CTRY US
-2 NOTE @N0888@
 1 FAMS @F0673@
 1 OBJE @O0767@
 1 OBJE @O0768@
@@ -2280,7 +1638,6 @@
 1 OBJE @O0778@
 1 OBJE @O0298@
 1 OBJE @O0299@
-1 NOTE @N0963@
 1 CHAN
 2 DATE 27 DEC 2024
 3 TIME 15:07:21
@@ -2300,7 +1657,6 @@
 2 ADDR
 3 CITY Barrigada
 1 FAMS @F0725@
-1 NOTE @N0964@
 1 CHAN
 2 DATE 8 DEC 2024
 3 TIME 19:13:56
@@ -2322,7 +1678,6 @@
 2 ADDR
 3 CITY Barrigada
 1 FAMS @F0725@
-1 NOTE @N0965@
 1 CHAN
 2 DATE 8 DEC 2024
 3 TIME 19:13:56
@@ -2733,7 +2088,6 @@
 1 SEX M
 1 FAMC @F0651@
 2 PEDI birth
-1 NOTE @N0976@
 1 CHAN
 2 DATE 12 DEC 2024
 3 TIME 13:28:27
@@ -2749,7 +2103,6 @@
 2 DATE 1978
 1 FAMC @F0651@
 2 PEDI birth
-1 NOTE @N0977@
 1 CHAN
 2 DATE 13 DEC 2024
 3 TIME 17:56:51
@@ -2784,7 +2137,6 @@
 1 BIRT
 2 DATE 1925
 1 FAMS @F0741@
-1 NOTE @N0993@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 22:18:47
@@ -2815,7 +2167,6 @@
 2 ADDR
 3 CTRY Philippines
 1 FAMS @F0742@
-1 NOTE @N0994@
 1 CHAN
 2 DATE 26 DEC 2024
 3 TIME 22:43:15
@@ -2969,7 +2320,6 @@
 2 ADDR
 3 STAE California
 3 CTRY US
-2 NOTE @N0070@
 1 DIV
 2 TYPE Final Judgement Dissolution/Divorce for Shaun and Drew on September 30
 3 CONC , 2016 in Orange County, CA
@@ -2984,80 +2334,6 @@
 1 CHAN
 2 DATE 15 JUN 2023
 3 TIME 17:40:49
-0 @F0124@ FAM
-1 HUSB @I0386@
-1 WIFE @I0387@
-1 CHIL @I0307@
-1 CHIL @I0388@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 03:42:48
-0 @F0125@ FAM
-1 HUSB @I0390@
-1 WIFE @I0389@
-1 CHIL @I0386@
-1 CHIL @I0394@
-1 CHIL @I0395@
-1 CHIL @I0396@
-1 CHIL @I0397@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:04:23
-0 @F0126@ FAM
-1 HUSB @I0392@
-1 WIFE @I0391@
-1 CHIL @I0389@
-1 CHIL @I0393@
-1 CHIL @I0398@
-1 CHIL @I0399@
-1 CHAN
-2 DATE 23 JUL 2022
-3 TIME 04:25:00
-0 @F0127@ FAM
-1 HUSB @I0403@
-1 WIFE @I0410@
-1 CHIL @I0414@
-1 CHIL @I0412@
-1 CHIL @I0400@
-1 CHIL @I0401@
-1 CHIL @I0406@
-1 CHIL @I0402@
-1 CHIL @I0408@
-1 CHIL @I0416@
-1 CHIL @I0405@
-1 CHIL @I0390@
-1 CHIL @I0404@
-1 CHIL @I0407@
-1 CHIL @I0409@
-1 CHIL @I0415@
-1 CHAN
-2 DATE 4 SEP 2022
-3 TIME 21:46:06
-0 @F0128@ FAM
-1 HUSB @I0411@
-1 WIFE @I0401@
-1 CHAN
-2 DATE 24 JUL 2022
-3 TIME 15:02:04
-0 @F0133@ FAM
-1 HUSB @I0425@
-1 WIFE @I0424@
-1 CHIL @I0428@
-1 CHIL @I0429@
-1 CHIL @I0430@
-1 CHIL @I0431@
-1 CHIL @I0427@
-1 CHIL @I0387@
-1 CHAN
-2 DATE 4 SEP 2022
-3 TIME 21:46:50
-0 @F0134@ FAM
-1 HUSB @I0432@
-1 WIFE @I0395@
-1 CHIL @I0433@
-1 CHAN
-2 DATE 28 JUL 2022
-3 TIME 18:19:27
 0 @F0146@ FAM
 1 HUSB @I0491@
 1 WIFE @I0492@
@@ -3092,7 +2368,6 @@
 2 ADDR
 3 STAE Nevada
 3 CTRY US
-2 NOTE @N0143@
 1 DIV
 2 DATE 22 DEC 1980
 2 PLAC Los Angeles, California, US
@@ -3119,7 +2394,6 @@
 2 ADDR
 3 STAE Nevada
 3 CTRY US
-2 NOTE @N0144@
 1 CHIL @I1806@
 1 CHIL @I1807@
 1 CHAN
@@ -3167,26 +2441,6 @@
 3 PAGE Dwelling 117, South Hilo, Hawaii Census 1940
 3 DATA
 4 DATE 1940
-4 TEXT 1940 census for:
-5 CONT Rafael Abrenica
-5 CONT 
-5 CONT Age	38, born 1901
-5 CONT Birthplace	Philippine Islands
-5 CONT Gender	Male
-5 CONT Race	Filipino
-5 CONT 
-5 CONT Home in 1940	
-5 CONT 117
-5 CONT South Hilo,
-5 CONT Hawaii, Hawaii
-5 CONT 
-5 CONT Household Members	 	Age
-5 CONT Head	Rafael Abrenica	38
-5 CONT Wife	Modesta Abrenica	35
-5 CONT Son	Epitacio Abrenica	14
-5 CONT Daughter	Angeles Abrenica	13
-5 CONT Daughter	Beatrice Abrenica	11
-5 CONT Son	Alfonso Abrenica	4
 1 MARR
 2 DATE 19 MAR 1930
 2 PLAC Hilo, Hawaii, US
@@ -3508,7 +2762,6 @@
 2 ADDR
 3 CITY Paoay
 3 CTRY Philippines
-2 NOTE @N0906@
 1 CHAN
 2 DATE 16 AUG 2024
 3 TIME 16:21:27
@@ -3652,445 +2905,6 @@
 1 NAME www.geonames.org
 1 WWW http://www.geonames.org/
 1 EMAIL marc@@geonames.org
-1 NOTE @N0461@
-0 @N0044@ NOTE Written memory by Ruth Lehti, Jim's mother.
-1 CONT 
-1 CONT [Real details per Jim
-1 CONT Feb 66-69
-1 CONT Spt67-Sept68
-1 CONT Norton AF Base flew to Okinawa then Vietnam]
-1 CONT tent = hooch, 2 killed across from him
-1 CONT accident bellvue illinois august 67, 3k charge
-1 CONT  or telephone pole in illinois. greyhound to SLC and oakland.
-1 CONT M02 vietnam marble mountain. crew chief, helped retake top of MM.
-1 CONT Mike Williams 
-1 CONT spray painted em, tank over 20 VC, Danang bridge laid bodies to show wh
-1 CONC o died that day,
-1 CONT Ears as trophies.
-1 CONT Crew chief, machine gun on left manage]
-1 CONT 
-1 CONT 
-1 CONT JIM IN VIETNAM:
-1 CONT 
-1 CONT One of the saddest days of my life was when my son, James Allmon, flew o
-1 CONC n Continental Airlines from San Francisco Airport to duty as a Marine i
-1 CONC n Vietnam. My heart was sad and heavy, and continued to be so, until hi
-1 CONC s return a year later.
-1 CONT 
-1 CONT Jim arrived in Vietnam during one of the fiercest battles – Marble Mount
-1 CONC ain, at Danang. Little did I realize that they would drop him and othe
-1 CONC r replacements there. With only six men left and the enemy climbing clos
-1 CONC e to the top, the Leader phoned for help. The Air Force came in the nic
-1 CONC k of time to ward off the Viet Cong and evacuate our boys.
-1 CONT 
-1 CONT Then Jim was made an MP (Military Police) for a while, checking ID’s o
-1 CONC f the Vietnamese workers on the base. He became good friends with some
-1 CONC , so it was especially hard to see them betray our men by exploding bomb
-1 CONC s etc. that they carried on to the base. It was later learned that the V
-1 CONC iet Cong had threatened to kill their families if they did not betray Am
-1 CONC ericans as they were instructed.
-1 CONT 
-1 CONT Jim also was a helicopter maintenance man. If their helicopter was sho
-1 CONC t down, Jim had to repair (and often fly) it as quickly as possible. Th
-1 CONC e other men in the crew jumped out and formed a circle surrounding the h
-1 CONC elicopter– “rifles at the ready.” Needless to say, Jim’s expertise and s
-1 CONC wiftness made a great deal of difference as to whether they lived or die
-1 CONC d by snipers, etc.
-1 CONT 
-1 CONT At night the men slept in groups in tents. On Mother’s Day, I awoke t
-1 CONC o a vivid vision of my Jim on crutches, bandaged head, tattered clothe
-1 CONC s and a sad look on his face. I knew something had happened to him but h
-1 CONC ad no way a to find out. Finally, two weeks later I received a letter fr
-1 CONC om him that said that on Mother’s Day his tent was blown up and his budd
-1 CONC ies killed. Jim had just stepped out of the tent and was walking away wh
-1 CONC en it happened and he was spared .Gratefully, I thanked God for protecti
-1 CONC ng Jim.
-1 CONT 
-1 CONT Another thought comforted me also. After completing his training at Cam
-1 CONC p LaJuene, Cherry Point, North Carolina, the Marines were given 30 day
-1 CONC s leave before reporting for duty at Vietnam. Jim bought an old (vintage
-1 CONC ) car with portholes for back windows – his pride and joy. He shared hi
-1 CONC s drive home with two buddies coming this way also, and they shared th
-1 CONC e driving.
-1 CONT 
-1 CONT In Kansas, about midnight, Jim was sleeping on the back seat of his car
-1 CONC , and a hill approached. When they reached the top of the hill, a drun
-1 CONC k was sitting in the middle of the road. An oncoming car swerved to avoi
-1 CONC d the drunk and hit Jim’s car head-on, taking part of the left side of t
-1 CONC he car, including part of the driver’s shoulder, and scattering broken g
-1 CONC lass all over him and the passenger. Jim’s car veered into a tree. It wa
-1 CONC s totaled. In the back seat Jim was thrown violently around and woke u
-1 CONC p saying, “What’s happening to my car? What’s happening to my car?” The
-1 CONC y were all taken to the hospital and Jim was released with no serious in
-1 CONC juries. He caught the first Greyhound Bus to Oakland, CA and home! I fel
-1 CONC t so sorry for Jim, but eternally grateful that he was”OK”.
-1 CONT 
-1 CONT After learning about Jim’s escape from death again in Vietnam, I remembe
-1 CONC red the car incident and felt reassured that if God could bring Jim thro
-1 CONC ugh that horrific car accident safely, that God could bring Jim home fro
-1 CONC m Vietnam OK also!!! But my heart remained heavy until Jim walked throug
-1 CONC h the door of our home from his tour of duty in Vietnam.
-0 @N0046@ NOTE katsun bro fisherman
-1 CONT masako sis married totsan
-1 CONT sako sis
-1 CONT ichio bro
-1 CONT bro young teen died
-1 CONT miyazaki kyushi
-1 CONT 
-1 CONT --
-1 CONT 
-1 CONT Toshiko Bryan, Age 86
-1 CONT 
-1 CONT  Current Address:
-1 CONT 7887 Lampson Ave, SPC 88, Garden Grove, CA 92841-4120
-1 CONT 
-1 CONT  Phone Number:
-1 CONT (714) 899-9036 - LandLine
-1 CONT 
-1 CONT  Prior Addresses:
-1 CONT 314 S Deming St; Santa Ana, CA 92704-1028
-1 CONT 7887 Lampson Ave, SPC 70; Garden Grove, CA 92841-4119
-1 CONT 
-1 CONT Relatives:
-1 CONT David Bryan
-1 CONT James Allmon
-1 CONT Valerie Allmon
-1 CONT Amy Dankel
-1 CONT Charles Bryan
-1 CONT Cindy Napolitano
-1 CONT Gail Goldsmith
-1 CONT Helen Bryan
-1 CONT Justin Allmon
-0 @N0070@ NOTE On 03/14/2016 ANDREW QUINTANA filed a Family - Domestic Partnershi
-1 CONC p Dissolution/Divorce lawsuit against SHAUN ALLMON. This case was file
-1 CONC d in Orange County Superior Courts, Lamoreaux Justice Center located i
-1 CONC n Orange, California. The case status is Not Classified By Court.
-1 CONT  
-1 CONT 
-1 CONT Case Details
-1 CONT Case Number
-1 CONT *****2279
-1 CONT 
-1 CONT Filing Date
-1 CONT 03/14/2016
-1 CONT 
-1 CONT Case Status
-1 CONT Not Classified By Court
-1 CONT 
-1 CONT Case Type
-1 CONT Family - Domestic Partnership Dissolution/Divorce
-1 CONT 
-1 CONT Court
-1 CONT Orange County Superior Courts
-1 CONT 
-1 CONT Courthouse
-1 CONT Lamoreaux Justice Center
-1 CONT County, State
-1 CONT Orange, California
-0 @N0071@ NOTE 09/30/2016
-1 CONT Hearing
-1 CONT Description: HEARING - DISSOLUTION - UNCONTESTED; Department: L62
-1 CONT 
-1 CONT 09/30/2016
-1 CONT Docket
-1 CONT HEARING - DISSOLUTION - UNCONTESTED
-1 CONT 
-1 CONT 09/30/2016
-1 CONT View Court Documents
-1 CONT Docket
-1 CONT MINUTE ORDER 09/30/2016
-1 CONT 
-1 CONT 09/30/2016
-1 CONT View Court Documents
-1 CONT Docket
-1 CONT PROOF OF SERVICE - SUMMONS 09/30/2016; Filing Party: ALLMON, SHAUN
-1 CONT 
-1 CONT 09/30/2016
-1 CONT View Court Documents
-1 CONT Docket
-1 CONT JUDGMENT - DISSOLUTION 09/30/2016
-1 CONT 
-1 CONT 09/30/2016
-1 CONT View Court Documents
-1 CONT Docket
-1 CONT STIPULATION - COURT APPOINTED TEMPORARY JUDGE 09/30/2016
-1 CONT 
-1 CONT 09/30/2016
-1 CONT View Court Documents
-1 CONT Docket
-1 CONT NOTICE - ENTRY OF JUDGMENT 09/30/2016
-0 @N0073@ NOTE murdered, affair, shot w child in front seat
-0 @N0074@ NOTE found dead in van, suicide by pill overdose
-0 @N0075@ NOTE Alive as of 2022, lives in Silverlake
-0 @N0077@ NOTE Leo Richard Quintana
-1 CONT BIRTH
-1 CONT 16 Sep 1939
-1 CONT DEATH
-1 CONT 9 Mar 1970 (aged 30)
-1 CONT BURIAL
-1 CONT Forest Lawn Memorial Park
-1 CONT Hollywood Hills, Los Angeles County, California, USA
-1 CONT PLOT
-1 CONT Murmuring Trees, Map G27, Lot 5086, Space 2
-1 CONT MEMORIAL ID
-1 CONT 85929747
-1 CONT https://www.findagrave.com/memorial/85929747/leo-richard-quintana
-0 @N0090@ NOTE Erica Estrada, a 25-year-old white female, died Wednesday, May 6, a
-1 CONC fter being stabbed in Lynwood, according to Los Angeles County coroner'
-1 CONC s records.
-1 CONT 
-1 CONT Died on
-1 CONT May 6, 2015
-1 CONT Lynwood
-1 CONT 11235 Atlantic Ave.
-1 CONT Age: 25
-1 CONT Gender: Female
-1 CONT Cause: Stabbing
-1 CONT Race/Ethnicity: White
-1 CONT Agency: LASD
-1 CONT 
-1 CONT https://homicide.latimes.com/post/erica-estrada/
-1 CONT 
-0 @N0091@ NOTE https://s3.us-west-2.amazonaws.com/homicide.latimes.com/media/homic
-1 CONC ide/e23f5fa5-d063-4d8c-b835-2ddfed5a2982.jpeg
-0 @N0092@ NOTE Murdered by Alex Diaz Huerta; GUILTY.
-1 CONT 
-1 CONT A jury convicted defendant Alex Diaz Huerta of first degree murder (Pen
-1 CONC . Code, § 187, subd. (a)) for stabbing to death his estranged girlfriend
-1 CONC , Erica Estrada. The jury also found true that Huerta personally use
-1 CONC d a deadly and dangerous weapon in commission of the murder. (§ 12022, s
-1 CONC ubd. (b)(1).) The trial court sentenced Huerta to 25 years to life for t
-1 CONC he murder, plus one additional year for the weapon enhancement.
-1 CONT 
-1 CONT Case details for
-1 CONT People v. Huerta
-1 CONT Full title:THE PEOPLE, Plaintiff and Respondent, v. ALEX DIAZ HUERTA, De
-1 CONC fendant and…
-1 CONT 
-1 CONT Court:COURT OF APPEAL OF THE STATE OF CALIFORNIA SECOND APPELLATE DISTRI
-1 CONC CT DIVISION ONE
-1 CONT 
-1 CONT Date published: Feb 27, 2019
-1 CONT 
-1 CONT Citations
-1 CONT B289988 (Cal. Ct. App. Feb. 27, 2019)
-0 @N0093@ NOTE Potential relatives:
-1 CONT 
-1 CONT Name	Age	Born
-1 CONT Lydia T Leung	69	Mar 1953
-1 CONT Jennifer M Leung		1989
-1 CONT Tom D Leung	76	Sep 1945
-1 CONT Amy S Leung	76	Feb 1946
-1 CONT Jennifer K Leung	55	Feb 1967
-1 CONT Ryan N Leung	47	Jan 1975
-1 CONT 
-0 @N0105@ NOTE Relatives:
-1 CONT 
-1 CONT Charles Haskins, Jordyn Haskins, Mary Haskins, Richard Haskins, Sally Ha
-1 CONC skins
-1 CONT 
-1 CONT Address:
-1 CONT 1515 Westwood Blvd # 1, Los Angeles, CA 90024-5601
-1 CONT New Address:
-1 CONT 
-1 CONT Possibly
-1 CONT Mary J Haskins Parziale
-1 CONT 1060 Knoxbridge Rd, Forney, TX 75126
-1 CONT Bonnie J Haskins
-1 CONT Charles Ray Haskins
-1 CONT David M Haskins
-1 CONT Jordyn Haskins
-1 CONT Richard Thomas Haskins
-1 CONT Rick E Haskins
-1 CONT Tyler Jakob Haskins
-1 CONT Wilder Roland Haskins
-1 CONT Yolanda Queral Haskins
-1 CONT 
-1 CONT Parents  and siblings 1950 census
-1 CONT : John Haskins6: Lillian Haskins7: Doris Haskins 8: Anne Haskins9: Lilla
-1 CONC bell Haskins  10: Marie Haskins 11: John E Haskins12: Charles Haskins
-0 @N0106@ NOTE AKA E Ishisaka ?
-1 CONT Possible?
-1 CONT 
-1 CONT Yolanda Queral Haskins, age 75
-1 CONT Encino, CA
-1 CONT 02/08/1947 is Yolanda Haskins's birthday and they are 75 years old. 1245
-1 CONC 7 # 1 Green, Encino, CA 91316 is Yolanda's current address. Associates i
-1 CONC nclude Charles Haskins, Jordyn Haskins and others. Phone numbers includ
-1 CONC e (310) 391-3511 and (310) 823-8581.
-1 CONT 
-1 CONT Also goes by:
-1 CONT Yolanda Q Haskens, Y Haskins, Golanda Haskins
-1 CONT 
-1 CONT Related to:
-1 CONT Charles Ray Haskins
-1 CONT Jordyn Haskins
-1 CONT Mary J Haskins
-1 CONT Richard Thomas Haskins
-1 CONT Sally A Haskins
-1 CONT 
-1 CONT Phone Numbers:
-1 CONT (310) 391-3511, (310) 823-8581
-1 CONT 
-1 CONT --
-1 CONT Address History:
-1 CONT 12457 # 1 Green, Encino, CA 91316; 
-1 CONT 4040 Grand View Boulevard Unit 44, Los Angeles, CA 90066; 
-1 CONT 11919 Smith Ave, Santa Fe Springs, CA, 90670-3203
-1 CONT Visalia, CA; 
-1 CONT West Hollywood, CA
-1 CONT Emails:
-1 CONT yol****@@ameritech.net
-1 CONT --
-1 CONT Charles Haskins
-1 CONT 1515 Westwood Blvd,
-1 CONT Los Angeles, CA 90024
-1 CONT 
-1 CONT Past Address
-1 CONT 12457 Greene Ave Apt 1,
-1 CONT Los Angeles, CA 90066
-1 CONT --
-1 CONT 
-1 CONT 4040 Grand View Blvd Unit 44, Los Angeles, CA 90066 4040 
-1 CONT Current Address: **** Grand View Blvd, Los Angeles, CA
-1 CONT Past Addresses: Los Angeles CA, Los Angeles CA
-1 CONT Phone Number: (310) 391-**** +1 phone
-1 CONT Email Address: y****@@ameritech.net
-1 CONT 
-1 CONT Yolanda Haskins of Los Angeles CA
-1 CONT NAME: Ms. Yolanda Q Haskins
-1 CONT ADDRESS: 4040 Grand View Blvd Los Angeles CA 90066 UNIT 44-5280
-1 CONT HONE NUMBER: (310) 391-3511
-1 CONT GENDER: Female
-1 CONT DATE OF BIRTH: 02/08/1947
-1 CONT TIME ZONE: Pacific Time
-1 CONT HOME OWNER SOURCE: Verified Home Owner
-1 CONT INCOME - ESTIMATED HOUSEHOLD: $50,000 - $54,999
-1 CONT ESTIMATED NET WORTH: $250,000 - $499,999
-1 CONT LINES OF CREDIT (TRADE COUNTER): 3 Lines
-1 CONT RANGE OF NEW CREDIT: $5,001 - $9,999
-1 CONT EDUCATION: Completed Graduate School
-1 CONT ETHNICITY: African American 2
-1 CONT ETHNIC-GROUP: All African American Ethnic Groups
-1 CONT LANGUAGE: English
-1 CONT 
-1 CONT 
-1 CONT 
-0 @N0143@ NOTE Clark County Clerk's Office
-1 CONT Document Details
-1 CONT 
-1 CONT Instrument Number
-1 CONT  A178513 
-1 CONT 
-1 CONT Record Date
-1 CONT 5/27/1967
-1 CONT 
-1 CONT Book Type
-1 CONT MLIC - MARRIAGE LICENSES
-1 CONT 
-1 CONT Book/Page
-1 CONT 
-1 CONT Instrument #
-1 CONT A178513
-1 CONT 
-1 CONT Number of Pages
-1 CONT 1
-1 CONT 
-1 CONT Doc Type
-1 CONT MLIC - MARRIAGE LICENSE
-1 CONT 
-1 CONT Party 1 Full Name
-1 CONT ISHISAKA, JAMES Y
-1 CONT 
-1 CONT Party 2 Full Name
-1 CONT QUERAL, YOLANDA FAYE
-0 @N0144@ NOTE Clark County Clerk's Office
-1 CONT Document Details
-1 CONT 
-1 CONT Instrument Number
-1 CONT  C599530 
-1 CONT 
-1 CONT Record Date
-1 CONT 1/25/1995
-1 CONT 
-1 CONT Book Type
-1 CONT MLIC - MARRIAGE LICENSES
-1 CONT 
-1 CONT Book/Page
-1 CONT 0/0
-1 CONT 
-1 CONT Instrument #
-1 CONT C599530
-1 CONT 
-1 CONT Number of Pages
-1 CONT 1
-1 CONT 
-1 CONT Doc Type
-1 CONT MLIC - MARRIAGE LICENSE
-1 CONT 
-1 CONT Party 1 Full Name
-1 CONT FLAXMAN, ZANA GAYLE
-1 CONT 
-1 CONT Party 2 Full Name
-1 CONT ISHISAKA, EVERETT J Y
-0 @N0145@ NOTE Recent Address
-1 CONT 13612 Silver Stirrup Dr
-1 CONT Corona, CA 92883
-0 @N0227@ NOTE GEDmatch's kit # ID for Leilani. Useful to analyze DNA for health
-1 CONC , genotypes, and locating relatives who share common ancestors.
-0 @N0250@ NOTE Unknown Association/Relationship:
-1 CONT 
-1 CONT Rebecca Anne Bebo (Bebeau)
-1 CONT Widow
-1 CONT Doctor
-1 CONT Santa Maria, CA
-1 CONT 
-1 CONT Jennel Lynn Lawrence
-1 CONT Circa 1995-2004
-1 CONT Moreno Valley, Riverside, Lake Elsinore Areas
-0 @N0325@ NOTE Notes
-1 CONT ===
-1 CONT Tranquilino Saymo listed on 1956 flight manifest as passenger arriving i
-1 CONC n Agana, Guam, USA.
-1 CONT ===
-1 CONT Memorial for Tranquilino Ragus Saymo, 89
-1 CONT Born: 07/03/1927 Passed: 12/30/2016
-1 CONT Tranquilino Saymo was born on 07/03/1927 and passed away at 89 years old
-1 CONC . 
-1 CONT ===
-1 CONT Parents: Pedro & Martina Saymo of Paoay Ilocos Norte, Phillipines
-1 CONT Siblings: Evaristo Ragus Saymo (m. Trantquilina Ramos Saymo w/ 6 childre
-1 CONC n), Leonarda Saymo Tolentino
-1 CONT ===
-1 CONT Possible Family
-1 CONT 95 Years old
-1 CONT Tranquilino R Saymo at
-1 CONT 91-656 Kilaha St, APT C2, Ewa Beach, HI 96706-2654
-1 CONT Relatives:
-1 CONT Edgar Saymo
-1 CONT Mimijoy Saymo
-1 CONT Nelia Saymo
-1 CONT Victor Saymo
-1 CONT Bethena Felupe
-1 CONT Bethena Saymo
-1 CONT Edgardo Devilleres
-1 CONT Joanne Saymo
-1 CONT Lauren Saymo
-1 CONT ===
-1 CONT 
-0 @N0341@ NOTE Name Changed legally to just the initals V. Y., which also works wi
-1 CONC th her stage name of Vylani.
-0 @N0402@ NOTE William Gould Jr's Voter Registration
-1 CONT Party Affiliation: Optional
-1 CONT Registered to Vote In:  Baxter County, Arkansas 
-1 CONT Registration Date:  03/17/2016
-1 CONT Voter Status: Active
-1 CONT Status Reason: Registered
-1 CONT Precinct: 01-2 01-2-1 Baxter
-1 CONT Congressional District: 001
-1 CONT House District: 003
-1 CONT Senate District: 023
-1 CONT School Board District: 161
 0 @N0424@ NOTE Chr,B37 Start Pos'n,B37 End Pos'n,Centimorgans (cM),SNPs
 1 CONT 1,1447325,13176463,27,3120
 1 CONT 1,13775122,98342417,97,19572
@@ -4145,84 +2959,6 @@
 1 CONT 22,44569346,51181759,23.1,2429
 1 CONT X,2700157,52067217,82.7,6188
 1 CONT X,62038249,154892230,105.1,8811
-0 @N0461@ NOTE GeoNames was founded by Marc Wick. You can reach him at marc@@geona
-1 CONC mes.org
-1 CONT GeoNames is a project of Unxos GmbH, Weingartenstrasse 8, 8708 Männedorf
-1 CONC , Switzerland.
-1 CONT This work is licensed under a Creative Commons Attribution 3.0 License
-0 @N0485@ NOTE Y-DNA Haplogroup I1 or I-M253 or L80
-1 CONT https://discover.familytreedna.com/y-dna/I-M253/tree
-1 CONT 
-1 CONT Also, Comparing Kit ME6582826 (*J) [FTDNA] and Kit HA1984088 (*Dank) [My
-1 CONC Heritage]
-1 CONT 
-1 CONT Segment threshold size will be adjusted dynamically with an average of 2
-1 CONC 00 SNPs. About 2/3 will occur between 185 and 214 SNPs.
-1 CONT Minimum segment cM to be included in total = 7.0 cM
-1 CONT Mismatch-bunching Limit will be adjusted to 60 percent of the segment th
-1 CONC reshold size for any given segment.
-1 CONT 
-1 CONT 
-1 CONT Chr	B37 Start Pos'n	B37 End Pos'n	Centimorgans (cM)	SNPs	Segment thresho
-1 CONC ld	Bunch limit	SNP Density Ratio
-1 CONT 1	53,771,202	120,526,982	69.4	15,748	209	125	0.48
-1 CONT 1	149,815,536	180,994,590	36.5	7,413	202	121	0.48
-1 CONT 1	238,861,548	243,804,158	12.6	1,462	186	111	0.47
-1 CONT 2	63,542,732	87,322,042	25.9	5,443	189	113	0.47
-1 CONT 2	95,439,005	217,485,550	105.4	23,011	209	125	0.45
-1 CONT 2	235,673,205	243,044,147	15.7	1,813	216	129	0.38
-1 CONT 3	184,221,680	197,833,758	31.5	3,139	203	121	0.39
-1 CONT 4	23,683,303	49,091,782	28.9	5,012	198	118	0.42
-1 CONT 4	52,706,270	62,290,252	9.8	1,748	189	113	0.41
-1 CONT 4	84,797,545	137,355,816	41.2	9,003	205	123	0.42
-1 CONT 4	156,123,035	185,569,730	41.3	6,417	207	124	0.42
-1 CONT 5	3,302,781	46,378,957	57.1	9,156	208	124	0.44
-1 CONT 5	49,470,083	68,005,609	13.9	3,821	200	120	0.46
-1 CONT 5	113,128,872	149,007,059	33.8	7,464	208	124	0.45
-1 CONT 6	102,054,910	125,783,194	20.7	4,637	194	116	0.44
-1 CONT 6	162,642,724	170,919,470	17.1	2,542	198	118	0.44
-1 CONT 7	44,935	18,934,838	31	5,390	187	112	0.44
-1 CONT 7	75,066,554	105,951,509	29.1	6,376	195	117	0.46
-1 CONT 8	29,608,755	43,791,691	9.8	2,218	268	160	0.42
-1 CONT 8	46,944,913	59,736,762	10.3	2,147	191	114	0.44
-1 CONT 8	122,438,189	146,293,414	43.4	6,208	179	107	0.45
-1 CONT 9	136,399,075	141,066,491	16.4	1,335	186	111	0.4
-1 CONT 10	98,087	13,724,841	33.1	5,027	212	127	0.48
-1 CONT 10	80,131,442	130,767,319	65.6	13,522	224	134	0.49
-1 CONT 11	17,427,363	50,668,400	38.1	7,709	187	112	0.47
-1 CONT 11	54,835,203	113,451,765	49.6	12,833	198	118	0.47
-1 CONT 12	191,619	34,826,574	58.3	9,675	180	108	0.48
-1 CONT 12	109,309,971	133,777,645	49.5	6,663	215	129	0.46
-1 CONT 13	19,175,279	27,563,038	17.3	2,560	191	114	0.47
-1 CONT 14	56,952,641	93,027,770	40.8	8,457	189	113	0.45
-1 CONT 15	25,103,226	30,369,914	15.3	1,379	182	109	0.46
-1 CONT 15	30,950,529	58,860,963	35.9	6,660	297	178	0.47
-1 CONT 16	95,254	24,030,172	48.9	6,286	174	104	0.45
-1 CONT 17	8,547	22,242,355	52.3	5,728	192	115	0.45
-1 CONT 17	51,602,750	81,041,338	56.8	7,056	193	115	0.44
-1 CONT 18	87,505	3,784,627	12	1,139	176	105	0.45
-1 CONT 18	22,955,681	56,047,004	32	7,622	218	130	0.48
-1 CONT 19	27,862,694	59,094,136	62.9	7,520	207	124	0.44
-1 CONT 20	63,799	26,278,250	53.3	7,757	193	115	0.48
-1 CONT 20	29,530,880	62,912,463	61.1	8,674	197	118	0.46
-1 CONT 21	14,669,931	48,090,629	69.8	9,233	215	129	0.46
-1 CONT 
-1 CONT Largest segment = 105.4 cM
-1 CONT 
-1 CONT Total Half-Match segments (HIR) 1553.4cM (43.311 Pct)
-1 CONT Estimated number of generations to MRCA = 1.6
-1 CONT 
-1 CONT 41 shared segments found for this comparison.
-1 CONT 
-1 CONT 627626 SNPs used for this comparison.
-1 CONT 
-1 CONT 60.323 Pct SNPs are full identical
-1 CONT 
-1 CONT Comparison took 0.075.
-1 CONT CPU time used: 0.018.
-1 CONT 
-1 CONT Ver: Mar 22 2023 01 16 51
-1 CONT 
 0 @N0486@ NOTE Chr,B37 Start Pos'n,B37 End Pos'n,Centimorgans (cM),SNPs
 1 CONT 1,53771202,120526982,69.4,15748
 1 CONT 1,149815536,180994590,36.5,7413
@@ -4294,7 +3030,6 @@
 1 CONT 19,55922885,59094136,7.3,968
 1 CONT 20,11243881,26278250,20.6,4080
 1 CONT 20,29530880,58316191,45.3,7229
-0 @N0505@ NOTE https://discover.familytreedna.com/y-dna/I-M253/tree
 0 @N0536@ NOTE Chr,B37 Start Pos'n,B37 End Pos'n,Centimorgans (cM),SNPs
 1 CONT 1,53771202,120526982,69.4,15748
 1 CONT 1,149815536,180994590,36.5,7413
@@ -4340,261 +3075,6 @@
 1 CONT X,2703633,9323622,14.4,864
 1 CONT X,32633526,52067217,29.6,2000
 1 CONT X,62038249,154892230,105.1,8764
-0 @N0537@ NOTE DNA Associations by deductive triangulation and  logical inheritanc
-1 CONC e expectations. May be inaccurate due to mutatioins that revert or doubl
-1 CONC e cousin anomaly, etc..
-0 @N0583@ NOTE Olivia C. Kaul Wasilowsky
-1 CONT BIRTH
-1 CONT 21 Jun 1912
-1 CONT Saint Louis, St. Louis City, Missouri, USA
-1 CONT DEATH
-1 CONT 13 Jul 2001 (aged 89)
-1 CONT South Whitehall Township, Lehigh County, Pennsylvania, USA
-1 CONT BURIAL
-1 CONT Towamensing Cemetery
-1 CONT Palmerton, Carbon County, Pennsylvania, USA 
-1 CONT MEMORIAL ID
-1 CONT 237266654 
-1 CONT 
-1 CONT The Morning Call (Allentown, PA), July 15, 2001, Page: B6:
-1 CONT 
-1 CONT "Olivia C. Lopez, 89, formerly of Allentown, died Friday, July 13, in Ce
-1 CONC darbrook, South Whitehall Township, where she resided. She was the wif
-1 CONC e of the late Manuel Lopez and John Wasilowsky.
-1 CONT 
-1 CONT She was a seamstress for various Palmerton area clothing factories for 4
-1 CONC 7 years before retiring.
-1 CONT 
-1 CONT Born in St. Louis, Mo., she was a daughter of Mr. and Mrs. Oscar Kaul.
-1 CONT 
-1 CONT Survivors: Sons, John O. Wasilowsky of Palmerton, Stephen C. Wasilowsk
-1 CONC y of Center Valley; stepdaughter, Conchita Garcia of Allentown; stepson
-1 CONC , Manuel Lopez Jr. in Florida; five grandchildren, four great-grandchild
-1 CONC ren. She was predeceased by a daughter, Betty Rossi.
-1 CONT 
-1 CONT Services: 11 a.m. Tuesday, Campton Funeral Home, 525 Delaware Ave., Palm
-1 CONC erton. Call 10-11 a.m. Tuesday.
-1 CONT 
-1 CONT Contributions: Cedarbrook resident fund, c/o the funeral home."
-1 CONT 
-1 CONT Gravesite Details
-1 CONT Lower middle section. About the middle of section.
-1 CONT 
-1 CONT Family Members
-1 CONT Spouse
-1 CONT 
-1 CONT John Wasilowsky
-1 CONT 1914–1962
-0 @N0584@ NOTE John Wasilowsky
-1 CONT BIRTH
-1 CONT 19 Mar 1914
-1 CONT Palmerton, Carbon County, Pennsylvania, USA
-1 CONT DEATH
-1 CONT 1962 (aged 47–48)
-1 CONT Lehighton, Carbon County, Pennsylvania, USA
-1 CONT BURIAL
-1 CONT Towamensing Cemetery
-1 CONT Palmerton, Carbon County, Pennsylvania, USA 
-1 CONT MEMORIAL ID
-1 CONT 237266548
-1 CONT 
-1 CONT Husband of Olivia C. nee Kaul. Son of Ivan & Stella (Hubinsky) Wasillows
-1 CONC ky.
-1 CONT 
-1 CONT Listed under the surname Wasilkowsky on his death certificate.
-1 CONT 
-1 CONT Gravesite Details
-1 CONT Lower middle section. About the middle of section.
-1 CONT 
-1 CONT Family Members
-1 CONT Spouse
-1 CONT 
-1 CONT Olivia C. Kaul Wasilowsky
-1 CONT 1912–2001
-0 @N0822@ NOTE 1940 census for:
-1 CONT Rafael Abrenica
-1 CONT 
-1 CONT Age	38, born 1901
-1 CONT Birthplace	Philippine Islands
-1 CONT Gender	Male
-1 CONT Race	Filipino
-1 CONT 
-1 CONT Home in 1940	
-1 CONT 117
-1 CONT South Hilo,
-1 CONT Hawaii, Hawaii
-1 CONT 
-1 CONT Household Members	 	Age
-1 CONT Head	Rafael Abrenica	38
-1 CONT Wife	Modesta Abrenica	35
-1 CONT Son	Epitacio Abrenica	14
-1 CONT Daughter	Angeles Abrenica	13
-1 CONT Daughter	Beatrice Abrenica	11
-1 CONT Son	Alfonso Abrenica	4
-0 @N0823@ NOTE https://www.ancientfaces.com/person/rafael-v-abrenica-birth-1901-de
-1 CONC ath-1994/90201135
-0 @N0831@ NOTE Find a Grave, database and images (https://www.findagrave.com/memor
-1 CONC ial/172011121/epitacio-abrenica: accessed July 2, 2024), memorial page f
-1 CONC or Epitacio Abrenica (1925–2010), Find a Grave Memorial ID 172011121, ci
-1 CONC ting Holy Cross Cemetery, Culver City, Los Angeles County, California, U
-1 CONC SA; Maintained by Romper90069 (contributor 1277).
-0 @N0835@ NOTE Mrs. Modesta A. Abrenica, 80, of Honolulu died Thursday in St. Fran
-1 CONC cis Hospital. 
-1 CONT 
-1 CONT She was the former owner of the Malay Inn in Honolulu and Guam. 
-1 CONT 
-1 CONT A funeral Mass will be e said at 8 p.m. Thursday at Borthwick Mortuary. 
-1 CONT 
-1 CONT Friends may call after 4 p.m. 
-1 CONT 
-1 CONT Burial will be in Culver City, Calif. 
-1 CONT 
-1 CONT Mrs. Abrenica was born in the Philippines.
-1 CONT 
-1 CONT She is survived by her husband, Rafael; a son, Epitacio; two daughters
-1 CONC , Mrs. Angeles Brillantes and Mrs. Wilfred (Beatrice) Agsaoay; 15 grandc
-1 CONC hildren; and 14 great grandchildren.
-0 @N0836@ NOTE https://www.ancientfaces.com/person/alfonso-abrenica-birth-1935-dea
-1 CONC th-1985/90381805
-0 @N0845@ NOTE Born 1 October 1926 in Hawaii
-1 CONT 
-1 CONT Web Page (Link to the Record)
-1 CONT https://familysearch.org/ark:/61903/1:1:FWSC-22N
-1 CONT 
-1 CONT Where The Record Is Found (Citation)
-1 CONT "Hawaii Births and Christenings, 1852-1933", , FamilySearch (https://fam
-1 CONC ilysearch.org/ark:/61903/1:1:FWSC-22N : 10 January 2020), Angeles Apolon
-1 CONC ia Abrenica, 1926.
-0 @N0846@ NOTE Married 16 June 1946
-1 CONT 
-1 CONT Web Page (Link to the Record)
-1 CONT https://familysearch.org/ark:/61903/1:1:4V8L-622M
-1 CONT 
-1 CONT Where The Record Is Found (Citation)
-1 CONT "Hawaii, Board of Health, Marriage Record Indexes, 1909-1989", , FamilyS
-1 CONC earch (https://www.familysearch.org/ark:/61903/1:1:4V8L-62N2 : Sun Mar 1
-1 CONC 0 19:38:17 UTC 2024), Entry for Isaac Quiocho Queral and Angeles Apoloni
-1 CONC a Abrenica, 16 Jun 1946.
-0 @N0847@ NOTE https://www.findagrave.com/memorial/170709210/ludovico-penicilla-br
-1 CONC illantes
-0 @N0848@ NOTE Nelson Toves Chargualaf
-1 CONT July 31st, 1976 - August 19th, 2019
-1 CONT 
-1 CONT Nelson Toves Chargualaf died on 19 August 2019 at Carondelet St Joseph’
-1 CONC s hospital in Tucson, AZ. He was 43 years old. He is survived by his mot
-1 CONC her Josefina Chargualaf Leon, step-father Ignacio Cruz Leon, father Nels
-1 CONC on Abrenica Queral, sister Marie Antoinette Chargualaf Ho, brother-in la
-1 CONC w Mike Ho, nephews Joseph and Leon, sister Nichole Lynn Chargualaf Santo
-1 CONC s, brother-in law Roland Santos, niece Ally and great-niece Abrianna, br
-1 CONC other Kevin Duane Queral, nephews Tranqi and Antonio, step-sister/husban
-1 CONC d Debra/Leroy, nieces Kasi, Janalyn, and Robin, step-brother John Leon
-1 CONC , nephews Dylan and Luke, favorite cousin Lori Ann Chargualaf other fami
-1 CONC ly and friends.
-1 CONT 
-1 CONT He is preceded in death by his grandparents Maria Demapan Chargualaf an
-1 CONC d Antonio Salas Chargualaf
-1 CONT 
-1 CONT Nelson was born and raised in Asan, Guam where he graduated from Ocean V
-1 CONC iew High School. From there he joined the Navy and served in Bremerton
-1 CONC , WA on the U.S.S. Carl Vinson for four years. He knew that while servin
-1 CONC g our country his true passion was in design. He continued to then recei
-1 CONC ve his bachelor’s degree in fine Arts at the Design Institute of San Die
-1 CONC go, CA. After graduating from college he found himself doing what he di
-1 CONC d best. Designing. He worked for several years in San Diego at various c
-1 CONC ompanies to gain more experience. Then he found his dream job. Working a
-1 CONC t the Veterans Affairs Office in Tucson AZ as an interior designer. Wher
-1 CONC e he was able to give back to his fellow veterans even if it was just cr
-1 CONC eating a place where they were able to feel a sense of color and design.
-1 CONT 
-1 CONT Although it seems that he was only with us for such a short time, he ha
-1 CONC s left such an impact on all our lives. He will be remembered as a chatt
-1 CONC y, out-spoken, funny, loving, caring person that so many loved. He was a
-1 CONC lways willing to give all that he had, even in death. He was able to hel
-1 CONC p three individuals through organ donation.
-1 CONT 
-1 CONT Nelson will be heading back home to Guam where he will be buried at th
-1 CONC e Veterans Cemetery in Piti. Services will be posted at a later date.
-1 CONT 
-1 CONT https://www.afterall.com/obituaries/NelsonChargualaf2
-0 @N0870@ NOTE Obituary for Evaristo Ragus Saymo
-1 CONT Pacific Daily News from Agana Heights, Guam · Page A27
-1 CONT Publication: Pacific Daily News iLocation: Agana Heights, Guam
-1 CONT Issue Date: Saturday, March 1, 2014
-1 CONT Page: Page A27
-1 CONT 
-1 CONT Evaristo Ragus Saymo “Estong”  
-1 CONT October 17, 1931 – February 22, 2014 Of Dededo, was called home by our h
-1 CONC eavenly Father at the age of 82. 
-1 CONT Mass of Intention is being offered at Santa Barbara Catholic Church in D
-1 CONC ededo as follows: 7 p.m. Monday to Friday, followed by the Rosary (Lowe
-1 CONC r Level) 5 p.m. Saturday and Sunday, followed by the Rosary (Upper Level
-1 CONC ) 
-1 CONT In his new life, Evaristo will be welcomed at the gates of heaven by hi
-1 CONC s 
-1 CONT Son : Dominic R. Saymo 
-1 CONT Parents : Pedro and Martina Saymo 
-1 CONT Brothers / Sister : Alfredo Saymo, Agapito Saymo, Patrocino Saymo, Flore
-1 CONC ncia Saymo 
-1 CONT Parents-In-Law : Librado T. and Rosalia O. Ramos 
-1 CONT Sister-In-Law : Bernadina Blanco Saymo 
-1 CONT Evaristo’s love and memories will be cherished and missed forever in th
-1 CONC e hearts of his Wife : (Helen) Trantquilina Ramos Saymo 
-1 CONT Sons / Daughters and Spouses ( Grandchildren ) : Alexander Saymo; Bernar
-1 CONC d Saymo ( Areille, and Everett ); Christopher Saymo; Evangeline and Arno
-1 CONC ld Arizala ( Ashley, A.J., Aaron, Asia, and Aidan ); Francine Saymo ( Av
-1 CONC ery, Lauryn, Evan, and Nia ); Lyrra F. Saymo ( Adrianna, and Dominic Jr
-1 CONC . ) 
-1 CONT Brother / Sister and Spouse : Tranquilino Saymo, Leonarda S. and Franci
-1 CONC s Tolentino 
-1 CONT Sisters-In-Law and Spouses : Gloria R. and Alfredo Mortera, Florita an
-1 CONC d David Camp Balae Gloria Arizala, Balae Lydia Fermin 
-1 CONT Numerous aunts, uncles, cousins, nieces, nephews and friends will also m
-1 CONC iss him. 
-1 CONT Last Respects for Evaristo will be held on Monday, March 3rd from 9 a. m
-1 CONC . to 12:15 p.m. at Santa Barbara Catholic Church (Lower Level) in Dededo
-1 CONC . 
-1 CONT Mass for a Christian burial will be offered at 1 p.m. Interment will fol
-1 CONC low at Guam Memorial Park in Leyang – Barrigada, where we will bid him f
-1 CONC arewell and a peaceful rest. 
-0 @N0871@ NOTE Find a Grave, database and images (https://www.findagrave.com/memor
-1 CONC ial/208238599/trantquilina-saymo: accessed July 11, 2024), memorial pag
-1 CONC e for Trantquilina Ramos Saymo (28 Jan 1938–17 Feb 2020), Find a Grave M
-1 CONC emorial ID 208238599, citing Guam Memorial Park, Barrigada, Guam; Mainta
-1 CONC ined by Mark Goniwiecha (contributor 48174852).
-0 @N0872@ NOTE IN LOVING MEMORY of
-1 CONT Trantquilina "Helen" Ramos Saymo
-1 CONT January 28, 1938 - February 17, 2020 age 82
-1 CONT 
-1 CONT In her new life, she will be greeted at the gates of heaven by her husba
-1 CONC nd: Evaristo Ragus Saymo Her son: Dominic R. Saymo Her parents: Librad
-1 CONC o Tubon Ramos & Rosalia Orong Ramos
-1 CONT 
-1 CONT Her memory will live in the hearts of her siblings and spouses, childre
-1 CONC n and spouses, and grandchildren & great grandchild:
-1 CONT Children and Grandchildren: Alexander Saymo; Bernard Saymo, Areille Saym
-1 CONC o (Persephone Boynton); Everett Saymo Christopher Saymo & Bill McDonough
-1 CONC ; Dominic and Lyrra F. Saymo, Adrianna Saymo, Dominic Saymo, Jr. Evangel
-1 CONC ine S. & Arnold Arizala, Ashley Arizala, Alfred Arizala, Aaron Arizala
-1 CONC , Asia Arizala, Aidan Arizala; Francine Saymo & Greg Esplana, Avery Fern
-1 CONC andez, Lauryn Fernandez, Evan Fernandez, Nia Fernandez
-1 CONT Sisters & Spouses: Gloria R. & Alfredo Mortera, Florita R & David Camp
-1 CONT Special Family friend: Tom Doan
-1 CONT Nephew & Nieces: Terezo Mortera, †Wilfred Mortera, †Siegfred & Clara Mor
-1 CONC tera, Fredalynn M. & Robin Hecita, Bjanca & Brad Prudhomme, Brooke & Eri
-1 CONC c Hernandez
-1 CONT And her cousins, nieces and nephews.
-1 CONT 
-1 CONT Mass of Intentions is being held at Santa Barbara Catholic Church in Ded
-1 CONC edo Monday-Friday 6pm; Saturday 5pm, Sunday 10am.
-1 CONT Rosaries will be said at 7pm at Saymo Residence. Last day February 26, 2
-1 CONC 020
-1 CONT Last Respects will be held on Monday, February 24, 2020, at Santa Barbar
-1 CONC a Catholic Church (lower level), Dededo from 9:00 am - 12:30 pm. Mass o
-1 CONC f Christian burial at 1pm followed by Interment at Guam Memorial Park i
-1 CONC n Leyang Barrigada.
-1 CONT 
-1 CONT Pacific Daily News (Hagåtña, Guam)  
-1 CONT February 21, 2020, page 33.
 0 @N0875@ NOTE 1,752721,34987339,62.8,6003
 1 CONT 1,752721,34987339,62.8,6003
 1 CONT 1,68826316,223831591,132.2,18271
@@ -4712,171 +3192,6 @@
 1 CONT 21,14669931,48077812,69.8,6660
 1 CONT 22,17057138,44561287,56.8,4861
 1 CONT 22,44567435,51181759,23.2,1762
-0 @N0888@ NOTE Youssef Nakhla is a provider established in Newport Beach, Californ
-1 CONC ia and his medical specialization is Clinical Psychology. The healthcar
-1 CONC e provider is registered in the NPI registry with number 1487482642 assi
-1 CONC gned on July 2024. 
-1 CONT The practitioner's primary taxonomy code is 103TC0700X with license numb
-1 CONC er 94027316 (CA). 
-1 CONT The provider is registered as an individual and his NPI record was las
-1 CONC t updated July 2024.
-0 @N0903@ NOTE YDNA Haplogroup Path 
-1 CONT R-M207>M173>M343>L754>L761>L389>P297>M269>L23>L51>P310>L151>P312>Z290>L2
-1 CONC 1>S552>DF13>DF21>S5488>Z16294>Z16281
-0 @N0906@ NOTE "Philippines Marriages, 1723-1957", database, FamilySearch (https:/
-1 CONC /familysearch.org/ark:/61903/1:1:HBXD-MLZM : 22 December 2023), Tranquil
-1 CONC ino Saymo, 1953.
-0 @N0948@ NOTE https://shauntology.github.io/Vylani.html
-0 @N0963@ NOTE Dominic Ramos Saymo
-1 CONT Birth
-1 CONT 31 Jan 1966
-1 CONT Death
-1 CONT 22 Nov 2008 (aged 42)
-1 CONT San Pedro, Los Angeles County, California, USA
-1 CONT Burial
-1 CONT Guam Veterans Cemetery
-1 CONT Piti, Guam
-1 CONT Memorial ID
-1 CONT 127284653
-1 CONT 
-1 CONT Dominic Ramos Saymo (January 31, 1966-November 22, 2008), residing in Sa
-1 CONC n Pedro, California, formerly of Dededo, Guam, was called to his home i
-1 CONC n heaven by our Father at the age of 42 years.
-1 CONT 
-1 CONT Dominic's love for life, his family, and God gave him the power to battl
-1 CONC e his cancer for as long as he did. He now sits in peace at our Father'
-1 CONC s side.
-1 CONT 
-1 CONT Dominic's remains arrived on Saturday, November 29 at 7pm. Family and fr
-1 CONC iends greeted him with rosary being said at 8pm at the residence of hi
-1 CONC s parents, Evaristo Saymo and Trantquilina Saymo in Liguan Terrace, at 1
-1 CONC 25 Ilang-Ilang Lane, Liguan Terrace, Dededo. Last Respects for Dominic w
-1 CONC ere paid on Thursday, December 4th at St. Anthony's Church, Tamuning, fr
-1 CONC om 9am to 11:30am. Mass for Christian burial was offered at 12noon.
-1 CONT 
-1 CONT Interment took place at Veterans' Cemetery, where we bade him farewell a
-1 CONC nd peaceful rest.
-0 @N0964@ NOTE Librado Tubon Ramos
-1 CONT Birth
-1 CONT 11 Aug 1906
-1 CONT Death
-1 CONT 16 Sep 1982 (aged 76)
-1 CONT Tamuning, Guam
-1 CONT Burial
-1 CONT Guam Memorial Park
-1 CONT Barrigada, Guam
-1 CONT Memorial ID
-1 CONT 138957216
-0 @N0965@ NOTE Rosalia Orong Ramos
-1 CONT Birth
-1 CONT 25 Aug 1913
-1 CONT Death
-1 CONT 30 Jan 1987 (aged 73)
-1 CONT Guam
-1 CONT Burial
-1 CONT Guam Memorial Park
-1 CONT Barrigada, Guam
-1 CONT Memorial ID
-1 CONT 127282955
-0 @N0973@ NOTE (CULVER CITY, CA) |
-1 CONT Obituary for Beatrice Abrenica Agsaoay
-1 CONT OBITUARY Beatrice Abrenica Agsaoay September 21, 1927 – March 25, 2023 I
-1 CONC N THE CARE OF Gates, Kingsley & Gates Smith Salsbury Funeral Directors B
-1 CONC eatrice Abrenica Agsaoay, age 95, of Los Angeles, California passed awa
-1 CONC y on Saturday, March 25, 2023. Beatrice was born in Pepe'ekeo, Hawaii
-1 CONC . A visitation for Beatrice will be held Monday, April 10, 2023 from 5:0
-1 CONC 0 PM to 9:00 PM at Gates, Kingsley & Gates Smith Salsbury Funeral Direct
-1 CONC ors, 4220 South Sepulveda Blvd, Culver City, CA 90230. A funeral servic
-1 CONC e will occur Tuesday, April 11, 2023 from 10:00 AM to 2:00 PM at Gates
-1 CONC , Kingsley & Gates Smith Salsbury Funeral Directors. Beatrice will be la
-1 CONC id to rest in Holy Cross Catholic Cemetery, 5835 W Slauson Ave, Culver C
-1 CONC ity, CA 90230. Fond memories and expressions of sympathy may be shared a
-1 CONC t www.GatesKingsley.com for the Agsaoay family. See more See Less ALL ME
-1 CONC MORIES From the Family
-1 CONT 
-1 CONT Cite This Record
-1 CONT "United States, Obituary Records, 2014-2023", , FamilySearch (https://ww
-1 CONC w.familysearch.org/ark:/61903/1:1:XMLX-VJ44 : Thu Nov 28 16:09:27 UTC 20
-1 CONC 24), Entry for Beatrice Abrenica Agsaoay, 31 March 2023
-0 @N0974@ NOTE Find a Grave, database and images (https://www.findagrave.com/memor
-1 CONC ial/178797816/veneranda-abrenica: accessed December 10, 2024), memoria
-1 CONC l page for Veneranda Abrenica (1931–2016), Find a Grave Memorial ID 1787
-1 CONC 97816, citing Holy Cross Cemetery, Culver City, Los Angeles County, Cali
-1 CONC fornia, USA; Maintained by Romper90069 (contributor 1277).
-0 @N0975@ NOTE Children may include Lorena, Ty, Adam, Christopher
-0 @N0976@ NOTE Children may include Tara and Rusty.
-0 @N0977@ NOTE Children may be katherine. Sarah, and Victoria
-0 @N0992@ NOTE Stephen C. “Steve” Wasilowsky VVeteran
-1 CONT Birth
-1 CONT 14 Dec 1942
-1 CONT Palmerton, Carbon County, Pennsylvania, USA
-1 CONT Death
-1 CONT 24 Oct 2023 (aged 80)
-1 CONT Catawissa, Columbia County, Pennsylvania, USA
-1 CONT Burial
-1 CONT Emanuels Reformed Church Cemetery
-1 CONT Mainville, Columbia County, Pennsylvania, USA
-1 CONT Memorial ID
-1 CONT 260991401
-1 CONT 
-1 CONT Stephen C. "Steve" Wasilowsky, age 80, of Catawissa, rode his Harley thr
-1 CONC ough heaven's gate. He passed away on Tuesday morning, October 24, 2023
-1 CONC , at his home surrounded by his loving family under the care of Compassu
-1 CONC s Hospice.
-1 CONT 
-1 CONT Steve was born on Monday, December 14, 1942 in Palmerton, a son of the l
-1 CONC ate John O. Wasilowsky and Olivia C. (Kaul) Lopez. He faithfully serve
-1 CONC d in the United State Marine Corps from 1960 and was honorably discharge
-1 CONC d in 1966, while serving he achieved his GED. On August 17, 1974, he mar
-1 CONC ried his loving wife the former Bonnie J. Baylor. He started in the cons
-1 CONC truction field and then went to work for 15 years at the former Lehigh V
-1 CONC alley Diary. For over 15 years, Steve was employed by Semmel Excavatin
-1 CONC g as a Construction Worker until his retirement in 2011. He was a membe
-1 CONC r of the Emanuel Reformed Church of Mainville. He was also a member of t
-1 CONC he American Legion, Quakertown, the Marine Corps Association, the Nort
-1 CONC h American Hunting Club and the NRA. Stephen enjoyed spending his time w
-1 CONC ith his family, hunting, gambling in Las Vegas, riding his Harley and mo
-1 CONC wing grass.
-1 CONT 
-1 CONT In addition to his parents, Steve was also preceded in death by a sister
-1 CONC , Betty Rossi; a nephew, Jake Shuman; his father-in-law, Melvin E. Baylo
-1 CONC r; and a brother-in-law, Jim Shuman.
-1 CONT 
-1 CONT Survivors include his beloved wife of 49 years, Bonnie Wasilowsky; a bro
-1 CONC ther, John Wasilowsky of Palmerton; nieces, Lisa Aloisi of Long Island
-1 CONC , NY, June Wasilowsky of Palmerton, Sara Becker and husband Joe of Bloom
-1 CONC sburg, Carrie Shuman of Bloomsburg; nephews, John Wasilowsky of Palmerto
-1 CONC n, Josh Shuman of Bloomsburg, his mother-in-law, Joyce Baylor of Bloomsb
-1 CONC urg, a sister-in-law, Sue Shuman of Bloomsburg, a brother-in-law, Mel Ba
-1 CONC ylor and wife Tina of Bloomsburg, a great-niece, Kortlyn Becker of Bloom
-1 CONC sburg and a great-nephew, Eli Becker of Bloomsburg.
-1 CONT 
-1 CONT The family would like to thank Compassus Hospice, especially Susan Smit
-1 CONC h and the employees for such great care of Steve.
-1 CONT 
-1 CONT A time of Visitation for family and friends will be held on Saturday, No
-1 CONC vember 4, 2023, from 10:00 am to 11:00 am at Emanuel Reformed Church o
-1 CONC f Mainville, 146 Church Road, Bloomsburg.
-1 CONT 
-1 CONT Funeral Services will begin on Saturday, November 4, 2023 at 11:00 am a
-1 CONC t Emanuel Reformed Church of Mainville with Rev. Robert Hettinger, offic
-1 CONC iating. Graveside committal services will immediately follow in Emanue
-1 CONC l Reformed Cemetery with military honors provided by The Catawissa VFW P
-1 CONC ost #8306 Honor Guard. The Allen Funeral Home, Inc., 745 Market at Eight
-1 CONC h Street, Bloomsburg is honored to be serving the Wasilowsky family.
-1 CONT 
-1 CONT Find a Grave, database and images (https://www.findagrave.com/memorial/2
-1 CONC 60991401/stephen_c-wasilowsky: accessed December 26, 2024), memorial pag
-1 CONC e for Stephen C. “Steve” Wasilowsky (14 Dec 1942–24 Oct 2023), Find a Gr
-1 CONC ave Memorial ID 260991401, citing Emanuels Reformed Church Cemetery, Mai
-1 CONC nville, Columbia County, Pennsylvania, USA; Maintained by Linda K (contr
-1 CONC ibutor 47746726).
-0 @N0993@ NOTE Parents:
-1 CONT Augustin Rala
-1 CONT Josefa Manangan
-0 @N0994@ NOTE Parents
-1 CONT Remigio Guerrera
-1 CONT Buena Palida
 0 @O0025@ OBJE
 1 FILE https://shauntology.github.io/Tanaka/mom.jpg
 2 FORM jpg
@@ -5193,14 +3508,14 @@
 2 DATE 27 DEC 2024
 3 TIME 16:14:25
 0 @O0780@ OBJE
-1 FILE https://shauntology.github.io/Abrenica/EricaHansen.jpg
+1 FILE https://shauntology.github.io/Tanaka/EricaHansen.jpg
 2 FORM jpg
 2 TITL EricaHansen
 1 CHAN
 2 DATE 28 DEC 2024
 3 TIME 03:35:48
 0 @O0781@ OBJE
-1 FILE https://shauntology.github.io/Abrenica/PatrickZiobro.jpg
+1 FILE https://shauntology.github.io/Tanaka/PatrickZiobro.jpg
 2 FORM jpg
 2 TITL PatrickZiobro
 1 CHAN
